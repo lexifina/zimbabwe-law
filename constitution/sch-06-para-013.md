@@ -1,0 +1,2 @@
+# 13. Existing officers
+13. Any person who, immediately before the effective date, held or acted in a public office under the former Constitution continues to hold or act in that office, or the equivalent office under this Constitution, on the same conditions of service until the expiry of his or her term of office under those conditions of service or until he or she resigns, retires or is removed from office in terms of this Constitution or those conditions of service, as the case may be.

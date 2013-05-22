@@ -1,0 +1,5 @@
+# 5. Transmission of Bills between Houses
+5. (1) A Bill which originated in one House of Parliament and has been passed by that House must be transmitted to the other House without delay, and the date of its transmission must be recorded in the journal of the House from which it is transmitted.
+(2) A Bill that has been transmitted to a House of Parliament must be introduced into that House without delay, and the House may reject the Bill or pass it with or without amendment.
+(3) A Bill which, having been transmitted to a House of Parliament in accordance with this paragraph, is passed by that House with amendments must be returned to the House where it originated with the amendments duly certified by the Clerk of Parliament, and the House to which it is returned may reject, agree to or amend any of those amendments.
+(4) If, after a Bill has been returned to its originating House in terms of subparagraph (3), any amendment made to it by the other House is rejected or amended by the originating House, the other House may, by message to the originating House pursuant to a resolution, withdraw the amendment or agree to its being amended.

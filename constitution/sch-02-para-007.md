@@ -1,0 +1,3 @@
+# 7. Released detainees not to be re-detained on same grounds
+7. (1) A detainee who has been released from detention as a result of a report of the review tribunal that there is insufficient cause for the detention must not be detained again on substantially the same grounds as those on which he or she was originally detained.
+(2) For the purposes of this paragraph, a person is deemed to have been detained on the same grounds as those on which he or she was originally detained unless the review tribunal has reported that, in its opinion, there appear to be new and reasonable grounds for the detention.
