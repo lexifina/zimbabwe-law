@@ -1,0 +1,10 @@
+# 41D. Search and examination of arrested person
+(1) A person who arrests another person, under this Act or any other enactment and whether with or without warrant, may search that person, and shall place in safe custody all articles, other than necessary wearing apparel, found on him or her.
+(2) A peace officer may take or cause to be taken the finger-prints, palm-prints, footprints and photographs of any person arrested upon any charge, under this Act or any other enactment and whether with or without warrant, and the medical officer of any prison or any medical officer of the Ministry responsible for health or any peace officer may take a sample of the arrested person's blood, saliva or tissue or cause to be taken such other steps as he or she may think necessary in order to ascertain whether or not the body of the arrested person has any mark, characteristic or distinguishing feature or shows any condition or appearance:
+Provided that a bodily, saliva or tissue sample shall only be taken by a medical officer at the request in writing of a police officer of or above the rank of superintendent, in order to ascertain some fact which is material to the investigation of the charge upon which the person has been arrested.
+(3) Any search of the body of an arrested person in terms of this section shall be made—
+(a) by a medical officer; or
+(b) where it is not made by a medical officer, by any person who is of the same gender as the arrested person;
+and shall be conducted with strict regard to decency and decorum.
+(4) Any finger-prints, palm-prints, footprints, photographs or samples taken under this section, and the records of any steps taken under this section, shall be destroyed if the person concerned is found not guilty at his or her trial or if his or her conviction is set aside by a superior court or if it is decided not to prosecute him or her or if the charge against him or her is withdrawn.
+(5) Section 41B(6) applies, with such changes as may be necessary, to a person referred to in subsection (4).

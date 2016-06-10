@@ -1,0 +1,7 @@
+# 348A. Effect of part payment of fine or part performance of community service
+(1) Where part only of a fine imposed on an offender has been paid or recovered by levy under section three hundred and forty-eight—
+(a) any period of imprisonment to be served by the offender as an alternative to the fine shall be reduced by the same proportion, as nearly as possible, as the amount so paid or recovered bears to the total amount of the fine;
+(b) any community service which the offender is permitted to render as an alternative to the payment of the fine shall be reduced to such extent as the court may determine in order to take into account the amount so paid or recovered.
+(2) Where an offender renders only part of any community service he is permitted in terms of section three hundred and forty-seven to render as an alternative to a fine, the court may reduce any period of imprisonment which it has imposed as an additional alternative to the fine, to such extent as the court may determine in order to take into account the service the offender has rendered.
+(3) A determination in terms of paragraph (b) of subsection (1) or subsection (2) shall be made in the presence of the offender concerned, and subsections (5) and (6) of section three hundred and fifty-eight shall apply, mutatis mutandis, in regard to bringing the offender before the court for that purpose.
+(4) No amount shall be accepted in part payment of a fine if it would have the effect of reducing the imprisonment to be served in terms of subsection (1) by a fractional part of a day.

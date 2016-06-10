@@ -1,0 +1,3 @@
+# 31A. Arrest by persons in charge of ship, boat or aircraft
+(1) The commander or person in charge of any ship, boat or aircraft may without warrant arrest any person whom he knows or on reasonable grounds believes to have committed, to be committing or to be about to commit an offence aboard the ship, boat or aircraft.
+(2) A commander or person in charge of any ship, boat or aircraft may authorise any member of the crew of the ship, boat or aircraft or any passenger aboard the ship, boat or aircraft to assist him in arresting any person in terms of subsection (1), and the member of the crew or the passenger so authorised shall have the same power to effect the arrest as the commander or person in charge of the ship, boat or aircraft.
