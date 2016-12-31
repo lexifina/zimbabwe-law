@@ -1,0 +1,2 @@
+# 41B. False statements in returns, etc
+Any person who, in any claim, report, return or document prepared or submitted in terms of this Act makes a statement which he knows to be false in a material particular or does not believe on reasonable grounds to be true shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment.
