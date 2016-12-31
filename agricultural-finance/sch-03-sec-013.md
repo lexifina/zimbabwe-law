@@ -1,0 +1,2 @@
+# 13. Variation of deed of assistance
+At any time while a deed of assistance is in force the Board may call a meeting of the creditors of the applicant to consider any proposal for a variation of the deed of assistance and the provisions of this Part relating to a deed of assistance or a meeting to consider such deed shall also apply to any variation of any such deed and to a meeting called to consider such variation.

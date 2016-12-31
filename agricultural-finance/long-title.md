@@ -1,0 +1,2 @@
+# Long title
+AN ACT to provide for a company to make advances to persons engaged in agriculture and to make provision for its functions; to regulate the financial affairs of the Agricultural Finance Corporation; to provide for the establishment of schemes for the assistance of persons engaged in agriculture and for the implementation of such schemes; to set out the terms and conditions of an Agricultural Assistance Scheme providing for assistance as previously afforded by the Agricultural Assistance Board; and to provide for matters incidental to the foregoing.

@@ -1,0 +1,2 @@
+# 21. Waiver of rights
+Where any assistance has been granted to any person under this Scheme whereby the Corporation has acquired any debts or other obligations of that person, the Board may at any time, if it thinks fit, waive the right of the Corporation to recover from that person the difference between the face value of the debts or other obligations so acquired and the consideration paid in connection with the acquisition of those debts or other obligations.
