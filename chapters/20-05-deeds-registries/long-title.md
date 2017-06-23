@@ -1,0 +1,1 @@
+AN ACT to make provision for the establishment of deeds registries and for the appointment of registrars of, deeds and to make further and different provision, for the registration of deeds and conventional hypothecations; and to make provision for other matters incidental to the foregoing.
