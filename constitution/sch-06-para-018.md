@@ -8,7 +8,8 @@ and which, immediately before the publication date, is pending before the Suprem
 (a) the Chief Justice and the Deputy Chief Justice; and
 (b) seven other judges of the Supreme Court;
 who must sit together as a bench to hear any constitutional case.
-(3) A vacancy on the Constitutional Court occurring in the first seven years after the publication date must be filled by another judge or an additional or acting judge, as the case may be, of the Supreme Court.
+(3) A vacancy on the Constitutional Court occurring in the first seven years after the publication date must be filled by another judge or an additional or acting judge, as the case may be, of the Supreme Court:
+Provided that a vacancy in the office of Deputy Chief Justice occurring during that period must be filled in accordance with section 180(2) and (3).
 (4) Until different provision is made by or under an Act of Parliament—
 (a) rules may be made under the Supreme Court Act [Chapter 7:13] to regulate the procedure of the Constitutional Court;
 (b) the rules of the Supreme Court apply, with any necessary changes, to the procedure of the Constitutional Court in relation to any matter that is not provided for in rules made in terms of subparagraph (a);
