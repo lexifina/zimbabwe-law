@@ -1,0 +1,3 @@
+# 11. Minutes of proceedings of Board and committees
+(1) The Board shall cause minutes of all proceedings of and decisions taken at every meeting of the Board and of every committee to be entered in books kept for the purpose.
+(2) Any minutes which purport to be signed by the person presiding at the meeting to which the minutes relate or by the person presiding at the next following meeting of the Board or the committee concerned, as the case may be, shall be accepted for all purposes as prima fade evidence of the proceedings and decisions taken at the meeting concerned.
