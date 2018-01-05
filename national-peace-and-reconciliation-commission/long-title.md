@@ -1,0 +1,2 @@
+# Long title
+To put the National Peace and Reconciliation Commission into operation; to confer additional jurisdiction on the Commission, including its investigative powers; to provide for the terms of office, conditions of service, qualifications and vacation of office of Members of the National Peace and Reconciliation Commission and the appointment of the Executive Secretary; and to provide for matters connected with or incidental to the foregoing.

@@ -1,0 +1,15 @@
+# 7. Meetings and procedure of Commission
+(1) The Commission shall hold its first meeting on such date and at such place as the Minister may fix, being not more than three months after the fixed date, and thereafter the Commission shall meet for the dispatch of business as often as is necessary or expedient and, subject to this paragraph, may adjourn, close and otherwise regulate its meetings and procedure as it thinks fit.
+(2) The Chairperson of the Commission may at any time convene a special meeting of the Commission.
+(3) The Chairperson shall send written notice of any special meeting convened in terms of subparagraph (2) to each Member not later than seven days before the meeting and shall specify the business for which the meeting has been convened:
+Provided that if, in the opinion of the Chairperson, the urgency of the business for which the meeting is to be convened so requires, notice of not less than forty-eight hours may be given.
+(4) No business shall be discussed at a special meeting convened in terms of subparagraph (2) other than such business as may be determined by the Chairperson of the Commission.
+(5) The Chairperson or, in his or her absence, the Vice-Chairperson shall preside at all meetings of the Commission:
+Provided that if the Chairperson and the Vice-Chairperson are both absent from a meeting of the Commission, the Members present may elect one of their number to preside at that meeting as Chairperson.
+(6) For any meeting of the Commission, five Members shall form a quorum.
+(7) All acts, matters or things authorised or required to be done by the Commission may be decided by a majority vote at a meeting of the Commission at which a quorum is present.
+(8) Subject to subparagraph (9), at all meetings of the Commission each Member present shall have one vote on each question before the Commission and, in the event of an equality of votes, the Chairperson shall have a casting vote in addition to a deliberative vote.
+(9) Any proposal circulated among all Members and agreed to in writing by a majority of all Members shall have the same effect as a resolution passed at a duly constituted meeting of the Commission and shall be incorporated in the minutes of the next succeeding meeting of the Commission:
+Provided that, if a Member requires that such proposal be placed before a meeting of the Commission, this subparagraph shall not apply to such proposal.
+(10) With the Commission's approval, the Chairperson of the Commission may invite any person to attend a meeting of the Commission or a committee, where the Chairperson considers that the person has special knowledge or experience in any matter to be considered by the Commission or the committee, as the case may be, at that meeting.
+(11) A person invited to attend a meeting of the Commission or of a committee may take part in the proceedings of the Commission or the committee as if he or she were a member thereof, but he or she shall not have a vote on any question before the Commission or committee, as the case may be.
