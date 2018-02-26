@@ -1,0 +1,2 @@
+# 1. Costs
+The costs of an appeal or dispute that is determined by the Commission shall be borne by each party to the appeal or dispute, unless the Commission is of the opinion that an appellant, respondent or disputant or his or her legal practitioner was being vexatious, frivolous or dilatory in the pursuit of his or her claim, in which event the Commission shall award costs against the appellant, respondent or disputant or de bonis propriis against the representative, as the case may be.
