@@ -1,0 +1,3 @@
+# Long title
+AN ACT To provide for the control and management of public resources and the protection and recovery thereof; to provide for the appointment, powers and duties of the Accountant-General and of his or her staff; to provide for the national budget; to provide for the preparation of financial statements; to provide for the regulation and control of public entities; to provide for general treasury matters; to provide for the examination and audit of public accounts; to provide for matters pertaining to financial misconduct of public officials; to repeal the Audit and Exchequer Act and the State Loans and Guarantees Act ; and to provide for matters connected with or incidental to the foregoing.
+ENACTED by the President and Parliament of Zimbabwe.
