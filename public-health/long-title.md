@@ -1,0 +1,2 @@
+# Long title
+To provide for public health; to provide for the conditions for improvement of the health and quality of life and the health care for all people in Zimbabwe; to provide for the rights, duties, powers and functions of all parties in the public health system, to provide for measures for administration of public health; to repeal the Public Health Act ; and to provide for matters connected therewith.
