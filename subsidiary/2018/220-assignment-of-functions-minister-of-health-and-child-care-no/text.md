@@ -1,0 +1,7 @@
+[CONSTITUTION Assignment of Functions (Minister of Health and Child Care) Notice, 2018 IT is hereby notiﬁ ed, that his Excellency the President has, in terms of section 104(1) of the Constitution as read with section 37(2) of the Interpretation Act [Chapter 1:01], assigned to the Minister of Health and Child Care—
+(a) the administration of the Acts set out in the Schedule;
+and
+(b) the functions conferred or imposed on the Minister of Health and Child Care save to the extent that those functions have not been assigned to some other Minister.
+Assignment of Functions (Minister of Health and Child Care) Notice, 2018, published in statutory instrument 102 of 2018, is hereby repealed.
+SCHEDULE
+ACTS ASSIGNED TO THE MINISTER OF HEALTH AND CHILD CARE Anatomical Donations and Post-Mortem Examination Act [Chapter 15:01] Atmospheric Pollution Prevention Act [Chapter 20:03] (Co-administered with the Minister of Environment, Tourism and Hospitality Industry) Dangerous Drugs Act [Chapter 15:02] Food and Food Standards Act [Chapter 15:04] Health Professions Act [Chapter 27:19] Health Service Act [Chapter 15:16] Medical Services Act [Chapter 15:13] Medicines and Allied Substances Control Act [Chapter 15:03] Mental Health Act [Chapter 15:12] (No. 15 of 1996) National Aids Council of Zimbabwe Act [Chapter 15:14] Public Health Act [Chapter 15:09] Termination of Pregnancy Act [Chapter 15:09] Traditional Medical Practitioners Act [Chapter 27:14] Zimbabwe National Family Planning Council Act [Chapter 15:11]
