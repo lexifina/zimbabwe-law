@@ -1,0 +1,7 @@
+[CONSTITUTION Assignment of Functions (Minister of Transport and Infrastructural Development) Notice, 2018 IT is hereby notiﬁ ed, that his Excellency the President has, in terms of section 104(1) of the Constitution as read with section 37(2) of the Interpretation Act [Chapter 1:01], assigned to the Minister of Transport and Infrastructural Development—
+(a) the administration of the Acts set out in the Schedule; and
+(b) the functions conferred or imposed on the Minister of Transport and Infrastructural Development save to the extent that those functions have not been assigned to some other Minister.
+Assignment of Functions (Minister of Transport and Infrastructural Development) Notice, 2018, published in Statutory Instrument 117 of 2018, is hereby repealed.
+SCHEDULE
+ACTS ASSIGNED TO THE MINISTER OF TRANSPORT AND
+INFRASTRUCTURAL DEVELOPMENT Aircraft (Offences) Act [Chapter 9:01] (Co-administered with the Minister of Mines and Mining Development) Air Services Act [Chapter 13:01] Air Zimbabwe Corporation Act [Chapter 13:02] Carriage by Air Act [Chapter 13:04] Civil Aviation Act [Chapter 13:16] Inland Waters Shipping Act [Chapter 13:06] Limitation of Liability (Passengers in State Aircraft) Act [Chapter 8:08] Pipelines Act [Chapter 13:08] Railways Act [Chapter 13:09] Road Motor Transportation Act [Chapter 13:15] Road Trafﬁ c Act [Chapter 13:11] Roads Act [Chapter 13:12] Toll Roads Act [Chapter 12:13] Trafﬁ c Safety Council Act [Chapter 13:17] Vehicle Registration and Licensing Act [Chapter 13:14)
