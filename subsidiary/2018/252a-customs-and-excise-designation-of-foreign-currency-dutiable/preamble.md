@@ -1,0 +1,1 @@
+Customs and Excise (Designation of Foreign Currency Dutiable Goods) Notice, 2018 IT is hereby notiﬁ ed that the Minister of Finance and Economic Development, in terms of section 115(3) of the Customs and Excise Act [Chapter 23:02], made the following notice:—
