@@ -1,0 +1,1 @@
+Land Surveyors (General) (Amendment) Rules, 2019 (No. 10) IT is hereby notiﬁ ed that the Council of Land Surveyors, in terms of section 34 of the Land Surveyors Act [Chapter 27:06], and with the approval of the Minister of Lands, Agriculture, Water, Climate and Rural Resettlement, hereby makes the following rules:—
