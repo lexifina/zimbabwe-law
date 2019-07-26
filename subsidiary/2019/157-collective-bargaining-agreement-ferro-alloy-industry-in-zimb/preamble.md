@@ -1,0 +1,9 @@
+Collective Bargaining Agreement: Ferro Alloy Industry in Zimbabwe IT is hereby notiﬁ ed, that the Minister of Public Service, Labour and Social Welfare has, in terms of section 80(1) of the Labour Act [Chapter 28:01], approved the publication of the Collective Bargaining Agreement set out in the Schedule, registered in terms of section 79 of the Labour Act.
+SCHEDULE
+NATIONAL EMPLOYMENT COUNCIL FOR FERRO ALLOY
+INDUSTRY IN ZIMBABWE COLLECTIVE BARGAINING AGREEMENT: FERRO ALLOY
+INDUSTRY IN ZIMBABWE Made and entered into in accordance with the provisions of the Labour Act [Chapter 28:01], between the Ferro Alloy Industry Employers' Association (the "employers' association"), of the one part, and the National Union of Metal and Allied Industries in Zimbabwe
+(the "trade union"), of the other part, being parties to the National Employment Council for the Ferro Alloy Industry in Zimbabwe.
+Notwithstanding the date of signature or publication hereof, this agreement shall be deemed to have come into operation on the 1st of January, 2019.
+WAGES INCREASE AS FROM 1st JANUARY, 2019 to 31st DECEMBER, 2019.
+NEC GRADE NEC Grade Minimums January, 2018 to June, 2018 NEC Grade Minimums July, 2018 to October, NEC Grade Minumums November, to December, NEC Grade Minimums January, to December, 245,00 252,00 275,00 501,99 267,00 275,00 275,00 501,99 280,00 288,00 288,00 525,72 288,00 297,00 297,00 528,66 307,00 316,00 316,00 562,48 Collective Bargaining Agreement: Ferro Alloy Industry in Zimbabwe 325,00 335,00 335,00 596,3 338,00 348,00 348,00 619,44 355,00 366,00 366,00 651,48 378,00 389,00 389,00 692,42 421,00 434,00 434,00 772,52 452,00 466,00 466,00 829,48 529,00 545,00 545,00 959,20 654,00 674,00 674,00 1 186,24 688,00 709,00 709,00 1 247,84 722,00 744,00 744,00 1 309,44 82,003 848,00 848,00 1 492,48 Explanatory Notes:
