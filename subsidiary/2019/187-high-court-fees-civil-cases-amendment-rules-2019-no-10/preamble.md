@@ -1,0 +1,1 @@
+High Court (Fees) (Civil Cases) (Amendment) Rules, 2019 (No. 10) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 57 of the High Court Act [Chapter 7:06], made the following rules:—
