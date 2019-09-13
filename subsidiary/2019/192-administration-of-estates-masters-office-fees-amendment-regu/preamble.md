@@ -1,0 +1,1 @@
+Administration of Estates (Master's Ofﬁ ce) (Fees) (Amendment) Regulations, 2019 (No. 8) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 132 of the Administration of Estates Act [Chapter 6:01], made the following regulations:—
