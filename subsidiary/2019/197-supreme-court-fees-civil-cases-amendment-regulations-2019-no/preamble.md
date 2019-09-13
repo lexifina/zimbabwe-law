@@ -1,0 +1,1 @@
+Supreme Court (Fees) (Civil Cases) (Amendment) Regulations, 2019 (No. 7) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs, in terms of section 35 of the Supreme Court Act [Chapter 7:13], has made the following regulations:—
