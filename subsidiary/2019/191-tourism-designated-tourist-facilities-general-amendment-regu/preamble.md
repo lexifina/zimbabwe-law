@@ -1,0 +1,1 @@
+Tourism (Designated Tourist Facilities) (General) (Amendment) Regulations, 2019 (No. 5) IT is hereby notiﬁ ed that the Minister of Environment, Tourism and Hospitality Industry has, in terms of section 57 of the Tourism Act [Chapter 14:20], made the following regulations:—
