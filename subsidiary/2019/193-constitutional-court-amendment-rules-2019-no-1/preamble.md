@@ -1,0 +1,1 @@
+[CONSTITUTION Constitutional Court (Amendment) Rules, 2019 (No. 1) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of paragraph 18(4)(a) of the Sixth Schedule to the Constitution approved the following rules of court made by the Chief Justice for regulating the proceedings of the Constitutional Court:—
