@@ -1,0 +1,1 @@
+Customary Law and Local Courts (Amendment) Rules, 2019 (No. 9) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 30 of the Customary Law and Local Courts Act [Chapter 7:05], made the following rules:—
