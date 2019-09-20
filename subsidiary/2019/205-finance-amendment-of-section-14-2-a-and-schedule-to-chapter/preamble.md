@@ -1,0 +1,1 @@
+Finance (Amendment of Section 14(2)(a) and Schedule to Chapter I of Finance Act) Regulations, 2019 IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 3 of the Finance Act [Chapter 23:04], made the following regulations:—
