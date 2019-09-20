@@ -1,0 +1,1 @@
+Insurance (Amendment) Regulations, 2019 (No. 22) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 89, as read with section 26A of the Insurance Act [Chapter 24:07], made the following regulations:—
