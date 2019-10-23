@@ -1,0 +1,1 @@
+Public Holidays and Prohibition of Business (Declaration of Public Holiday) Notice, 2019 HIS EXCELLENCY THE PRESIDENT, in terms of section 2(2) of the Public Holidays and Prohibition of Business Act [Chapter 10:21], hereby makes the following notice:—
