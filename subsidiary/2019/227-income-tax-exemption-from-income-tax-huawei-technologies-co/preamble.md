@@ -1,0 +1,1 @@
+Income Tax (Exemption from Income Tax) (Huawei Technologies Co., Ltd.) Notice, 2019 IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of subparagraph (g) of paragraph 3 of the Third Schedule to the Income Tax Act [Chapter 23:06], made the following notice:—
