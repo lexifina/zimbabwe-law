@@ -1,0 +1,7 @@
+[Cap. 28:01 Collective Bargaining Agreement: Commercial Sectors IT is hereby notiﬁ ed that the Collective Bargaining Agreement set out in the Schedule, which further amends the agreement published in Statutory Instrument 45 of 1993, has been registered in terms of section 79 of the Labour Relations Act [Chapter 28:01].
+SCHEDULE
+NATIONAL EMPLOYMENT COUNCIL FOR THE
+COMMERCIAL SECTORS OF ZIMBABWE COLLECTIVE BARGAINING AGREEMENT:
+COMMERCIAL SECTORS Further Agreement This further agreement, made and entered into, in accordance with the provisions of the Labour Relations Act [Chapter 28:01], between the National Commercial Employer's Association of Zimbabwe
+(hereinafter referred to as "the employers' organisation"), on the one part, and the Commercial Workers' Union of Zimbabwe (hereinafter referred to as "the trade union") on the other part, being parties to the National Employment Council for the Commercial Sectors of Zimbabwe, to further amend the Collective Bargaining Agreement for the Commercial Sectors of Zimbabwe, published in Statutory Instrument 45 of 1993, as amended by Statutory Instrument 296 of 1993; 80 of 1994; 261 of 1994; 99 of 1995; 208 of 1995; 248 of 1996;
+25 of 1998; 47 of 1998; 265 of 1998, 114 of 1999; 285 of 1999; 12 of 2000; 236 of 2000; 73 of 2001; 113 of 2001; 275 of 2001; 278 of 2001; 367 of 2001; 23 of 2011; 141 of 2011; 179 of 2012; 52 of 2016 and 75 of 2017; 184 of 2018 and 25 of 2019 (hereinafter referred to as "the principle agreement").
