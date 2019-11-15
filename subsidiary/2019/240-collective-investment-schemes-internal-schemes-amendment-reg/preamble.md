@@ -1,0 +1,2 @@
+Collective Investment Schemes (Internal Schemes) (Amendment) Regulations, 2019 (No. 5) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 118(6) of the Securities and Exchange Act [Chapter 24:25] as read with section 42 of the Collective Investment Schemes Act [Chapter 24:19], approved the following regulations made by the Securities and Exchange Commission:—
+Title
