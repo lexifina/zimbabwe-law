@@ -1,0 +1,1 @@
+Census and Statistics (Census Period 2022) Notice, 2019 IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 12 of the Census and Statistics Act [Chapter 10:29], made the following notice:—
