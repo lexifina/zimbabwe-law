@@ -1,0 +1,1 @@
+Securities (Alternative Trading Platform) (Amendment) Rules, 2019 (No. 1) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development, in terms of section 118(6) of the Securities and Exchange Act [Chapter 24:25], has approved the following rules:—
