@@ -1,0 +1,1 @@
+[CAP.10:02 Lotteries and Gaming (Fees) (Amendment) Regulations, 2019 (No. 6) IT is hereby notiﬁ ed that the Minister of Home Affairs and Cultural Heritage has, in terms of section 65 of the Lotteries and Gaming Act [Chapter 10:26] as read with sections 16 and 23 of the Betting and Totalizator Control Act [Chapter 10:02], made the following regulations:—
