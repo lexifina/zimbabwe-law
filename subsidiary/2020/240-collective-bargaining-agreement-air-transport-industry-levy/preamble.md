@@ -1,0 +1,5 @@
+Collective Bargaining Agreement: Air Transport Industry (Levy) IT is hereby notiﬁ ed, in terms of section 80 of the Labour Act
+[Chapter 28:01], that the Minister of Public Service, Labour and Social Welfare has approved the publication of the Collective Bargaining Agreement set out in the Schedule. The agreement has been registered in terms of section 79 of the Labour Act.
+SCHEDULE
+NATIONAL EMPLOYMENT COUNCIL FOR THE AIR
+TRANSPORT INDUSTRY COLLECTIVE BARGAINING AGREEMENT: AIR TRANSPORT INDUSTRY (LEVY) This further agreement, made and entered into, in accordance with the provisions of the Labour Act [Chapter 28:01], between the Employers' Association for the Air Transport Industry (hereinafter referred to as the "employers") and National Workers Union, Air Transport Union (ATU) and Zimbabwe Aircraft Maintenance Engineering Association (ZAMEA), hereinafter referred to as Employees Association for the Air Transport Industry), being parties to the National Employment Council for the Air Transport Industry.
