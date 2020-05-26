@@ -1,0 +1,1 @@
+Broadcasting Services (Licensing and Content) (Amendment) Regulations, 2020 (No. 4) IT is hereby notiﬁ ed that the Minister of Information, Media and Broadcasting Services has, in terms of section 46(6) of the Broadcasting Services Act [Chapter 12:06], made the following regulations:—
