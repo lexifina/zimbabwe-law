@@ -1,0 +1,1 @@
+Forest (Control of Timber) (Export of Unprocessed and Primarily Processed Indigenous Hardwoods) (Amendment) Regulations, 2020 (No. 1) THE Minister of Environment, Climate Change, Tourism and Hospitality, in terms of sections 65 and 89 of the Forest Act [Chapter 19:05], hereby makes the following regulations:—
