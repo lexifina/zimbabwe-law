@@ -1,0 +1,1 @@
+Farmers Licensing and Levy (Declaration of Producers Association) Horticultural Development Council (HDC) Notice, 2020 THE Minister of Lands, Agriculture, Water and Rural Resettlement, in terms of sections 7(1) of the Farmers Licensing and Levy Act [Chapter 18:10], makes the following notice:—
