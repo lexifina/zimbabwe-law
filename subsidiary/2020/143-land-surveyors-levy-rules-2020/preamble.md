@@ -1,0 +1,1 @@
+Land Surveyors (Levy) Rules, 2020 IT is hereby notiﬁ ed that the Council of Land Surveyors, in terms of section 27(2)(a) as read with section 34(1)(h) of the Land Surveyors Act [Chapter 27:06], and with the approval of the Minister has made the following rules:—
