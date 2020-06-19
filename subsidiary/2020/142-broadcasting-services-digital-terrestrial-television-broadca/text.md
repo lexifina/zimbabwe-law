@@ -1,0 +1,2 @@
+Broadcasting Services (Digital Terrestrial Television Broadcasting Services) Regulations, 2020: Correction of Error IT is hereby notiﬁ ed, for general information, that the Broadcasting Services (Digital Terrestrial Television Broadcasting Services) Regulations, 2020, published in Statutory Instrument 26 of 2020, contained an error.
+The statutory instrument is corrected in section 4(3) by the deletion of "twenty years" and substitution of "six months".
