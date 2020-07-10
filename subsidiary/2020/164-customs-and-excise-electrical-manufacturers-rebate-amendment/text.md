@@ -1,0 +1,10 @@
+Customs and Excise (Electrical Manufacturers) (Rebate)
+(Amendment) Regulations, 2020 (No. 10) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 235, as read with section 120, of the Customs and Excise Act [Chapter 23:02], made the following regulations:—
+These regulations may be cited as the Customs and Excise
+(Electrical Manufacturers) (Rebate) (Amendment) Regulations, 2020
+(No. 10).
+The Customs and Excise (Electrical Manufacturers) (Rebate) Regulations, 1999, published in Statutory Instrument 378 of 1999, is amended by the insertion in Part G of the Schedule of the following items—
+"2825.80.00 Antimony oxides 2834.29.00 Other nitrates 3207.20.00 Vitriﬁ able enamels and glazes, engobes (slips) and similar preparations 3506.99.00 Other glues and adhesives, nes 3909.50.00 Polyurethanes 4016.93.90 Other gaskets, washers and other seals 5911.90.00 Other textile fabrics and felts 7209.17.00 Steel coils, not further worked than cold-rolled (coldreduced): of a thickness of 0.5 mm or more but not exceeding 1 mm 7209.28.00 Flat-rolled products of iron or non-alloy steel, not in coils, not further worked than cold-rolled (cold-reduced): of a thickness of 0.5 mm 7210.49.10 Galvanized steel coils zinc coated 7210.49.90 Other plated or coated with zinc 7217.90.00 Other wire of iron or non-alloy steel 7219.35.00 Flat rolled products of stainless steel, not further worked than cold-rolled (cold reduced), of a thickness of less than 0.5mm 7318.15.00 Other screws and bolts, whether or not with their nuts or washers 7321.90.00 Parts of gas cookers Customs and Excise (Electrical Manufacturers) (Rebate)
+(Amendment) Regulations, 2020 (No. 10) 7614.90.00 Other aluminium wire 7616.99.20 Aluminium Blanks and circles, unpressed 8419.90.00 Parts of machinery 8516.10.00 Electric heater (element) 8516.90.00 Parts of electrical appliances 8518.90.00 Populated circuit board
+3. The Customs and Excise (Electrical Manufacturers)(Rebate)
+(Amendment) Regulations, 2019 (No. 9), published in Statutory Instrument 203 of 2019, erroneously published as (No. 7), is repealed.
