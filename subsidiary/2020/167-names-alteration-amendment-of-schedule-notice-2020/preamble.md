@@ -1,0 +1,1 @@
+Names (Alteration) (Amendment of Schedule) Notice, 2020 IT is hereby notiﬁ ed that the Minister of Local Government, Public Works and National Housing has, in terms of section 4(1) of the Names (Alteration) Act [Chapter 10:14], made the following notice:—
