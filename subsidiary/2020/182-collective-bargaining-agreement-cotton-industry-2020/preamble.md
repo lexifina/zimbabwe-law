@@ -1,0 +1,1 @@
+Collective Bargaining Agreement: Cotton Industry, 2020 IT is hereby notiﬁ ed that, in terms of section 80 of the Labour Act [Chapter 28:01], in a collective bargaining session conducted between the Employers' Association for the Cotton Industry and the Cotton Marketing Workers Union, the following was agreed and adopted—
