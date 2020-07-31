@@ -1,0 +1,1 @@
+Communal Land (Setting Aside of Land) (Batoka Township) Notice, 2020 THE Minister of Local Government and Public Works, in terms of section 10 of the Communal Land Act [Chapter 20:04], hereby makes the following notice:—
