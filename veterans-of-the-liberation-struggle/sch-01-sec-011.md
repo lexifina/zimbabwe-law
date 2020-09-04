@@ -1,0 +1,3 @@
+# 11. Validity of decisions and acts of Board and committees
+No decision or act of the Board or a committee or act that is authorised by the Board or a committee shall be invalid solely because there was a vacancy in the membership of the Board or the committee or because a disqualified person purported to act as a member of the Board or the committee, as the case may be, at the time the decision was taken or the act was done or authorised:
+Provided that the Board shall ratify any such decision or action within a month after it becomes aware that the decision or action was taken in the given circumstances.

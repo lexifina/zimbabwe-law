@@ -1,0 +1,2 @@
+# Long title
+AN ACT to provide for rights and benefits of veterans of the liberation struggle and their dependants; to provide for the establishment of a Veterans of the Liberation Struggle Board and its functions; to provide for the establishment of the Veterans of the Liberation Struggle Fund; to repeal the War Veterans Act ; to repeal the Ex-Political Prisoners, Detainees and Restrictees Act and to provide for matters incidental to or connected with the foregoing.
