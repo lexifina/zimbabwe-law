@@ -1,0 +1,1 @@
+[Constitution of Zimbabwe Constitutional Court (Amendment) Rules, 2020 (No. 2) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of subparagraph (iv)(a) of paragraph 18 of the Sixth Schedule to the Constitution approved the following rules:—
