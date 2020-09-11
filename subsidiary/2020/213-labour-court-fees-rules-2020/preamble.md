@@ -1,0 +1,1 @@
+Labour Court (Fees) Rules, 2020 IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 90(4) of the Labour Act [Chapter 28:01], on the advice of the Senior Judge of the Labour Court approved the following and after consultation with the Chief Justice, made the following rules:—
