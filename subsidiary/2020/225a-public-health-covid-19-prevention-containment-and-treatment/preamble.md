@@ -1,0 +1,1 @@
+Public Health (COVID-19 Prevention, Containment and Treatment) (Amendment) Regulations, 2020 (No. 4) IT is hereby notified that the Minister of Health has, in terms of section 68 of the Public Health Act [Chapter 15:17], made the following regulations:—
