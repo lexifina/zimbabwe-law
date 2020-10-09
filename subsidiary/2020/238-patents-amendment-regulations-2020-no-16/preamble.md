@@ -1,0 +1,1 @@
+Patents (Amendment) Regulations, 2020 (No. 16) IT is hereby notified that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 58 of the Industrial Designs Act [Chapter 26:03], made the following regulations:—
