@@ -1,0 +1,1 @@
+Geographical Indications (Amendment) Regulations, 2020 (No. 1) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 44 of the Geographical Indications Act [Chapter 26:06], made the following regulations:—
