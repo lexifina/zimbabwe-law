@@ -1,0 +1,1 @@
+Trade Marks (Amendment) Regulations, 2020 (No. 4) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs, in consultation with the Companies Ofﬁ ce has, in terms of section 104 of the Trade Marks Act [Chapter 26:04], made the following regulations:—
