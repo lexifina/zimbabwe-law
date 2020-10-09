@@ -1,0 +1,1 @@
+Armorial Bearings, Names, Uniforms and Badges (Amendment) Regulations, 2020 (No. 14) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs, in consultation with the Companies Ofﬁ ce has, in terms of section 31 of the Armorial Bearings, Names, Uniforms and Badges Act [Chapter 10:01], made the following regulations:—
