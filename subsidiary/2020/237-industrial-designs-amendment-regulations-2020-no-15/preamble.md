@@ -1,0 +1,1 @@
+Industrial Designs (Amendment) Regulations, 2020 (No. 15) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 58 of the Industrial Designs Act [Chapter 26:02], made the following regulations:—
