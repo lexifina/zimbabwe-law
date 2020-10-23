@@ -1,0 +1,1 @@
+Small Claims Courts (General) (Amendment) Rules, 2020 (No. 7) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 31 of the Small Claims Courts Act [Chapter 7:12] and after consultation with the Chief Justice, hereby made the following rules:—
