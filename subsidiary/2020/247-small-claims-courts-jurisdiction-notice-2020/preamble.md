@@ -1,0 +1,1 @@
+Small Claims Courts (Jurisdiction) Notice, 2020 THE Minister of Justice, Legal and Parliamentary Affairs, in terms of section 11(3) of the Small Claims Courts Act [Chapter 7:12], and after consultation with the Chief Justice, hereby makes the following notice:—
