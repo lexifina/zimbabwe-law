@@ -1,0 +1,1 @@
+[CAP. 2:05 Presidential Pension and Retirement Benefits (Services and Facilities for Spouses of Former Presidents) Notice, 2020 THE President, in terms of section 3(1) of the Presidential Pension and Retirement Benefits Act [Chapter 2:05], hereby makes the following notice:—
