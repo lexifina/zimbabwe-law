@@ -1,0 +1,1 @@
+Presidential Pension and Retirement Beneﬁ ts (Services and Facilities for Spouses of Former Vice-Presidents) Notice, 2020 THE President, in terms of section 3(1) of the Presidential Pension and Retirement Beneﬁ ts Act [Chapter 2:05], hereby makes the following notice:—
