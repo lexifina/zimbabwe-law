@@ -1,0 +1,1 @@
+Banking (Amendment) Regulations, 2020 (No. 5) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of section 81 of the Banking Act [Chapter 22:24] and in consultation with the Reserve Bank of Zimbabwe as required by subsection (5) of that section, made the following regulations:—
