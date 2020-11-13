@@ -1,0 +1,1 @@
+Criminal Law (Codification and Reform) (Standard Scale of Fines) Notice, 2020 IT is hereby notified that the Minister has, in terms of section 280 of the Criminal Law (Codification and Reform) Act [Chapter 9:23], made the following notice:—
