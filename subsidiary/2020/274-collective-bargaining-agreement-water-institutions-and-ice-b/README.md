@@ -1,0 +1,11 @@
+# Collective Bargaining Agreement Water Institutions and Ice Blocs Manufacturing Industry
+
+Source: Veritas, https://www.veritaszim.net/node/4585 (SI 2020-274 Collective Bargaining Agreement Water Institutions and Ice Blocs Manufacturing Industry.pdf)
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Collective Bargaining Agreement: Water Institutions and Ice Blocs Manufacturing Industry IT is hereby notiﬁ ed that the Minister of Public Service, Labour and Social Welfare has, in terms of section 80(1) of the Labour Act |
+| [sec-001.md](sec-001.md) | 1. Minimum wage As a result of the new dispensations contained in the Reserve Bank's Monetary Policy Statements it has been agreed by parties to set minimum salary for the industry in United States dollars. Please note the employment council is not stipulating that companies must pay in actual US dollars but it is the Council's decision that using the US dollar ﬁ gures will be a basis for determining the fair value of Collective Bargaining Agreement: Water Institutions and Ice Blocs Manufacturing Industry remuneration taking account the prevailing ofﬁ cial Reserve Bank of Zimbabwe rate. |
+| [sec-002.md](sec-002.md) | 2. Transport and housing allowances Council agreed to a transport allowance of twenty United States dollars (USD20,00) and a housing allowance of thirty United States dollars (USD30,00) per month with effect from 1st October, 2020. |
+| [sec-003.md](sec-003.md) | 3. Council dues For the purpose of meeting expenses of the Council as referred in of the Councils constitution, every employer shall, with effect from 1st July, 2020, deduct from the basic monthly wage/salary of each of his/her permanent, seasonal, casual and ﬁ xed term contract employees, 1.5% per month and remit such deductions to NEC for Water Institutions and Ice Blocs Manufacturing Industry. |
+| [sec-004.md](sec-004.md) | 4. Exemptions/reviews An establishment may apply to the National Employment Council within 14 days of gazetting of this collective bargaining agreement for an exemption or partial exemption/review from paying wages as set up in the above, stating the reasons and providing supporting documents why that application should be considered. |
