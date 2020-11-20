@@ -1,0 +1,1 @@
+Vehicle Registration and Licensing (Amendment) Regulations, 2020 (No. 22) IT is hereby notiﬁ ed that the Minister of Transport and Infrastructural Development has, in terms of section 52 of the Vehicle Registration and Licensing Act [Chapter 13:14], made the following regulations:—
