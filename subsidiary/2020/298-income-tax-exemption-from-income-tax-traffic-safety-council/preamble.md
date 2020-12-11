@@ -1,0 +1,1 @@
+Income Tax (Exemption from Income Tax) (Traffic Safety Council of Zimbabwe) Notice, 2020 IT is hereby notified that the Minister of Finance and Economic Development has, in terms of section 14 as read with the Third Schedule, paragraph 2(j) to the Income Tax Act [Chapter 23:06], made the following notice:—
