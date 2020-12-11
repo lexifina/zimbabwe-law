@@ -1,0 +1,1 @@
+Water (Permits) (Amendment) Regulations, 2020 (No. 5) IT is hereby notiﬁ ed that the Minister of Lands, Agriculture, Water and Rural Resettlement has, in terms of section 119 of the Water Act [Chapter 20:24], made the following regulations :—
