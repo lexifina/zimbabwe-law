@@ -1,0 +1,1 @@
+Road Trafﬁ c (Licensing of Drivers) (Amendment) Regulations, 2020 (No. 33) IT is hereby notiﬁ ed that the Minister of Transport and Infrastructural Development has, in terms of section 81 of the Road Trafﬁ c Act [Chapter 13:11], made the following regulations:—
