@@ -1,0 +1,1 @@
+Water (Permit) (Amendment) Regulations, 2020 (No. 7) IT is hereby notiﬁ ed that the Minister of Lands, Agriculture, Water and Rural Resettlement, after consultation with the Zimbabwe National Water Authority, has, in terms of section 119 of the Water Act [Chapter 20:24], made the following regulations:—
