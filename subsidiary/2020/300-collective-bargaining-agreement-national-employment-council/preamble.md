@@ -1,0 +1,6 @@
+Collective Bargaining Agreement: National Employment Council for Zimbabwe Schools Development Associations and Committees IT is hereby notiﬁ ed, in terms of section 80 of the Labour Act
+[Chapter 28:01] that the Minister of Labour and Social Services has approved the publication of the Collective Bargaining Agreement registered in terms of section 79 of the Act, set out in the Schedule.
+SCHEDULE
+NATIONAL EMPLOYMENT COUNCIL FOR ZIMBABWE
+SCHOOLS DEVELOPMENT ASSOCIATIONS AND
+COMMITTEES Further agreement This agreement made and entered into in accordance with provisions of the Labour Act [Chapter 28:01], between Zimbabwe Schools Development Associations and Committees (herein referred to as the "employers" or the "the employers association"), of the one party, and the National Education Union of Zimbabwe (herein referred to as the "employees" or the "the trade union"), of the other party, being parties to the to the National Employment Council for Zimbabwe Schools Development Associations and Committees in Government and Council run Schools.
