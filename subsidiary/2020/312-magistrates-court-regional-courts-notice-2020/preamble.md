@@ -1,0 +1,2 @@
+Magistrates Court (Regional Courts) Notice, 2020 IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 4(1)(b) of the Magistrates Court Act [Chapter 7:10], made the following notice:—
+Title
