@@ -1,0 +1,1 @@
+Magistrates Court (Regional Divisions) Notice, 2020 IT is hereby notiﬁ ed that His Excellency the President has, in terms of section 3(a)(c) of the Magistrates Court Act [Chapter 7:10], made the following notice:—
