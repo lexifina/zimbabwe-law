@@ -1,0 +1,40 @@
+# Suppression of Foreign and International Terrorism (Application by Zimbabwe of Specified UN Security Council Resolutions)  Regulations, 2021
+
+Source: Veritas, https://www.veritaszim.net/node/6599 (SI 2021-110 Suppression of Foreign and International Terrorism (Application by Zimbabwe of Specified UN Security Council Resolutions) (Amendment) Regulations, 2021.pdf)
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Suppression of Foreign and International Terrorism |
+| [sec-001.md](sec-001.md) | 1. These regulations may be cited as the Suppression of Foreign and International Terrorism (APPLICATION OF UNSCR 1540 (2004) 1673, 1810, 1887, 1977 (ON NON-STATE ACTOR PROLIFERATION), 1695, 1718, 1874 ON DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA and 1696, 1737, 1747, 1803 and 1929, UNSCR 2094 (2013), 2231 (2015) UNSCR 2270 (2016), UNSCR 2321 (2016), UNSCR 2371 (2017), of UNSCR 2375 (2017) UNSCR 2397 (2017)and Successor UNSCRs) Regulations, 2021. |
+| [sec-002.md](sec-002.md) | 2. In these regulations— |
+| [sec-003.md](sec-003.md) | 3. These regulations— |
+| [sec-004.md](sec-004.md) | 4. (1) Theses regulations shall apply to— |
+| [sec-005.md](sec-005.md) | 5. The Unit is hereby appointed as the Government agency having the primary responsibility under these regulations for— |
+| [sec-006.md](sec-006.md) | 6. (1) Where the Ministry of Foreign Affairs receives Notice of UN Consolidated List of any addition, removal or other amendment made to the current UN Consolidated List of designated persons, the updated list shall without delay be forwarded to the Minister upon receipt of such notification. |
+| [sec-007.md](sec-007.md) | 7. (1) Where the Unit proposes an individual to be added to the UN Consolidated List, the President shall on the recommendation of the Minister declare a person or an entity to be a suspect, provisionally designate and identify the person or entity in the National Restricted Listing (hereinafter called the Zimbabwe List). |
+| [sec-008.md](sec-008.md) | 8. (1) The funds or other assets wholly or jointly owned, held or controlled, directly or indirectly by a designated person whose name(s) and other details are on the Lists, and not just those funds or other assets that can be tied to a particular act, plot, or threat of proliferation, shall be frozen without giving prior notice to the designated individual or entity. This freezing obligation shall also apply to the funds or other assets that are derived or generated from the funds or other assets owned or controlled directly or indirectly by designated persons, as well as the funds or other assets of persons and entities acting on behalf of, or at the direction of designated persons. |
+| [sec-009.md](sec-009.md) | 9. (1) With regards to the United Nations Consolidated List, freezing of all funds or other assets of persons or entities designated by the UN Committee shall take place at the point of the dissemination made by the Director-General of the FIU without giving prior notice. |
+| [sec-010.md](sec-010.md) | 10. (1) Competent authorities, financial and non-financial stakeholders shall embark on screening of names and addresses against the consolidated list of designated persons and entities |
+| [sec-011.md](sec-011.md) | 11. (1) No person shall deal with funds or other assets owned, held or controlled directly or indirectly by a designated person save as provided for under these regulations. |
+| [sec-012.md](sec-012.md) | 12. (1) Financial institutions and designated non-financial businesses and professions (DNFBPs) as required by subsection 9(4) and 10(3)(b) shall report to the Unit any funds or other assets frozen or other actions taken in compliance with the prohibition requirements of the relevant UNSCRs, including attempted transactions, for review and utilisation by the Unit which shall do all or any of the following procedures— |
+| [sec-013.md](sec-013.md) | 13. (1) No person, whether natural or legal, shall make available, directly or indirectly, funds, financial services or other economic resources to or for the benefit of a designated person or entity. |
+| [sec-014.md](sec-014.md) | 14. (1) Any person who knowingly participates in activities the object or effect of which is directly or indirectly to— |
+| [sec-015.md](sec-015.md) | 15. (1) The Minister may, where necessary, approve the utilisation of the frozen funds or other assets, or any part thereof— |
+| [sec-016.md](sec-016.md) | 16. (1) Where funds or other assets of a designated person on the UN Consolidated List have been frozen and such funds or other assets or part thereof are necessary for utilisation, an application to utilize monies from frozen funds or other assets shall be made to the Minister by a designated person or his or her authorised representative with supporting documents. |
+| [sec-017.md](sec-017.md) | 17. (1) Any sum of monies or funds accruing to the frozen account, including— |
+| [sec-018.md](sec-018.md) | 18. (1) Where funds or other assets were frozen as a result of similarity in names or wrong entries on the Lists or in the account of a person or entity being investigated, or as a result of any other error, the person affected may apply to the Minister to unfreeze the funds or other assets. |
+| [sec-019.md](sec-019.md) | 19. (1) A designated person or entity, not being a Zimbabwean citizen, shall not be allowed to enter or remain in Zimbabwe. |
+| [sec-020.md](sec-020.md) | 20. (1) The Minister or his or her representative shall through the Unit circulate the updated lists immediately upon receipt through electronic and surface mails to the relevant law enforcement, regulatory and supervisory authorities, who shall cause same to be disseminated to reporting institutions immediately. |
+| [sec-021.md](sec-021.md) | 21. (1) The Unit shall upon the application of measures under these regulations, inform in writing or in any other manner considered appropriate, a designated person of his or her inclusion on the Lists providing explanations and reasons for the designation. |
+| [sec-022.md](sec-022.md) | 22. (1) The lists to which these regulations apply shall comprise information relating to the designated person for the purpose of determining his or her identity. |
+| [sec-023.md](sec-023.md) | 23. (1) A designated person who wishes to have his or her name deleted from the Lists may, in respect of the— |
+| [sec-024.md](sec-024.md) | 24. Where any amendment is made to the Lists, the Minister shall— |
+| [sec-025.md](sec-025.md) | 25. (1) The Unit shall prepare and submit necessary reports to the Minister who shall forward same to the UN Sanctions Committee or other authorities through the ministry responsible for foreign affairs. |
+| [sec-026.md](sec-026.md) | 26. (1) The Minister may through the Unit request a designated person to provide information concerning— |
+| [sec-027.md](sec-027.md) | 27. (1) A person who— |
+| [sec-028.md](sec-028.md) | 28. The Minister may take such steps as he or she considers appropriate to co-operate with any investigation in Zimbabwe or elsewhere, relating to the funds, or other assets or financial service or financial transactions of a designated person. |
+| [sec-029.md](sec-029.md) | 29. The Minister may disclose any information obtained in the exercise of his powers under these Regulations (including any document so obtained and any copy or extract made of any document so obtained) to the— |
+| [sec-030.md](sec-030.md) | 30. (1) A person who in the course of his duties, knows or is in possession of any information submitted or exchanged pursuant to the provisions of these regulations, shall not disclose such information in any form whatsoever, including the disclosure of the information except for the purpose of implementing these regulations. |
+| [sec-031.md](sec-031.md) | 31. (1) It is an offence for a person to— |
+| [sec-032.md](sec-032.md) | 32. (1) Freezing measures directed at countries designated/listed by the United Nations, shall also apply to entities or persons: |
+| [sec-033.md](sec-033.md) | 33. The Suppression of Foreign and International Terrorism |
