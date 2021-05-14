@@ -1,0 +1,1 @@
+Petroleum (Mandatory Blending of Anhydrous Ethanol with Unleaded Petrol) (Amendment) Regulations, 2021 (No. 4) IT is hereby notiﬁ ed that The Minister of Energy and Power Development has, in terms of section 57 of the Petroleum Act [Chapter 13:22] and after consultation with the Authority, made the following regulations:—
