@@ -1,0 +1,2 @@
+# Long title
+To provide for the manner in which the Constitutional Court may exercise its jurisdiction; to confer additional jurisdiction upon the Constitutional Court; to provide for the powers, practice and procedure of the Constitutional Court; to provide for the making of rules and regulations in connection therewith; to make provision for appeals from decisions of inferior courts; and to provide for matters incidental to or connected with the foregoing.
