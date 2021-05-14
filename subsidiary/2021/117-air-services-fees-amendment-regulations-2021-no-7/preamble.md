@@ -1,0 +1,1 @@
+[CAP.13:01 Air Services (Fees) (Amendment) Regulations, 2021 (No.7) IT is herby notified that the Minister of Transport and Infrastructural Development, has, in terms of section 27 of the Air Service Act [Chapter 13:01], made the following regulations:—
