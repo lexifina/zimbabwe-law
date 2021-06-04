@@ -1,0 +1,1 @@
+Magistrates Court (Civil) (Amendment) Rules, 2021 (No. 3) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 73 of the Magistrates Court Act [Chapter 7:10], made the following rules:—
