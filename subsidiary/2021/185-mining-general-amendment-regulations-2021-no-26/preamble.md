@@ -1,0 +1,1 @@
+Mining (General) (Amendment) Regulations, 2021 (No. 26) IT is hereby notified that the Minister of Mines and Mining Development has, in terms of section 403 of the Mines and Minerals Act [Chapter 21:05], made the following regulations:—
