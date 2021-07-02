@@ -1,0 +1,1 @@
+[CONSTITUTION Ofﬁ cers of Parliament (Terms of Service) (Amendment) Regulations 2021, (No. 1) IT is hereby notiﬁ ed that pursuant to section 154(5) of the Constitution, the Committee on Standing Rules and Orders has made the following regulations:—
