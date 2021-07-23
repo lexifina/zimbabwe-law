@@ -1,0 +1,1 @@
+Companies and Other Business Entities (Fees) (Amendment) Regulations, 2021 (No. 1) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 300 of the Companies and Other Business Entities Act [Chapter 24:31], made the following regulations:—
