@@ -1,0 +1,4 @@
+[CONSTITUTION Assignment of Function (Minister of Foreign Affairs and International Trade) Notice, 2021 IT is hereby notified that His Excellency the President has, in terms of section 104(1) of the Constitution read with section 37(2) of the Interpretation Act [Chapter 1:01], assigned to the Minister of Foreign Affairs and International Trade the following:— 1.—
+(a) the administration of the Trade Development and Surcharge Act [Chapter 14:22]; and
+(b) the functions conferred or imposed on the Minister of Foreign Affairs and International Trade save to the extent that those functions have not been assigned to some other Minister.
+2. Assignment of Functions (Minister of Industry, Commerce and Enterprise Development) Notice, 2018, published in Statutory Instrument 223 of 2018, is hereby amended accordingly.
