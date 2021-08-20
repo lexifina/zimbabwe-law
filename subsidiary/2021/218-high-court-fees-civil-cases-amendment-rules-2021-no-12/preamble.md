@@ -1,0 +1,1 @@
+High Court (Fees) (Civil Cases) (Amendment) Rules, 2021 (No. 12) IT is hereby notiﬁ ed that the Minister of Justice, Legal and Parliamentary Affairs has, in terms of section 57 of the High Court Act [Chapter 7:06], made the following rules:—
