@@ -1,0 +1,1 @@
+Extradition Treaty with Namibia, 2021 IT is hereby notified that the Minister of Home Affairs and Cultural Heritage has, in terms of section 3(3) of the Extradition Treaty Act [Chapter 9:08], made the following Treaty:—
