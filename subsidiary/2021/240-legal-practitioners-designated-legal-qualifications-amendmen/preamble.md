@@ -1,0 +1,2 @@
+Legal Practitioners (Designated Legal Qualiﬁ cations)
+(Amendment) Notice, 2021 (No. 2) THE Council for Legal Education, in terms of section 6(1) of the Legal Practitioners (Council for Legal Education) Rules, 1992, hereby makes the following notice:—
