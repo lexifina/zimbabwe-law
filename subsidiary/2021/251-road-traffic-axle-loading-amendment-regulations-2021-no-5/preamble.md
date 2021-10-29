@@ -1,0 +1,1 @@
+Road Trafﬁ c (Axle Loading) (Amendment) Regulations, 2021 (No. 5) IT is hereby notiﬁ ed that the Minister of Transport and Infrastructural Development has, in terms of section 81 of the Road Trafﬁ c Act [Chapter 13:11], made the following regulations:—
