@@ -1,0 +1,1 @@
+Magistrates Court (Regional Court) (Zvishavane) Notice, 2021 THE Minister of Justice, Legal and Parliamentary Affairs, in terms of section 4 (1) (b) of the Magistrates Court Act [Chapter 7:10], hereby makes the following notice:—
