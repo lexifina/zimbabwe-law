@@ -1,0 +1,72 @@
+Statutory Instrument 263 of 2021: republished with corrections Collective Bargaining Agreement - Welfare and Educational Institutions IT is hereby notiﬁ ed that the Minister of Labour and Social Welfare has, in terms of section 80 of the Labour Act [Chapter 28:01], approved the publication of the Collective Bargaining Agreement set out in the Schedule and registered in terms of section 79 of the Labour Act [Chapter 28:01].
+SCHEDULE
+NATIONAL EMPLOYMENT COUNCIL FOR THE WELFARE
+AND EDUCATIONAL INSTITUTIONS
+COLLECTIVE BARGAINING AGREEMENT Collective Bargaining Agreement entered into between the Welfare and Educational Institutions Employers Association
+(hereinafter referred to as "the employer"), of the one part, and Zimbabwe Educational Scientiﬁ c Social and Cultural Workers Union
+(hereinafter referred to as "the employees or trade union"), of the other party, being parties of the National Employment Council for the Welfare and Educational Institutions (hereinafter referred to as
+"the NEC").
+Notwithstanding the date of registration and publication hereof, this agreement shall run for a period of eleven months, from the 1st of February, 2021, to 31st December, 2021. In the event of any material movements or developments in the macro-economic fundamentals and/or other negotiating determinants necessitating a review of this agreement, the parties shall be in line with the NEC Constitution, duly meet thereafter to review the agreement. • With effect from the 1st of February, 2021, every employer shall pay not less than the minimum wage to each employee who has not completed 12 months of service as prescribed in the appropriate part of the Schedule for the occupation of the employee.
+Collective Bargaining Agreement - Welfare and Educational Institutions - The provisions of this agreement are minimum employment conditions on wages, salaries and beneﬁ ts. - Subject to the provisions of the Labour Act [Chapter 28:01], workplace negotiations to top up on this agreement are permissible. - Where employees are receiving more favourable wages and beneﬁ ts than those speciﬁ ed in this agreement, these shall not be withdrawn. • If a worker was being paid more than the minimum wage for his grade prior to the 1st of February, 2021, the cash differential between that wage and the relevant new minimum wage shall be maintained.
+NEC levies and trade union dues are deducted on the actual salary/wage of an employee. NEC dues are 2% from the employer and 2% from the employee giving a total of 4% while Union dues are 4% for the employee, all payable monthly. Employers Association subscriptions to be paid in accordance with their terms and conditions. 1.
+Minimum wages denomination:
+The wages captured in the Collective Bargaining Agreement are now denominated in United States Dollars (US$) The NGO sector shall continue to pay salaries in the United States Dollars whilst the other sectors shall pay in the United States Dollars or the Zimbabwe Dollar (ZWL$) equivalent in line with Statutory Instrument 185 of 2020 (Exclusive use of Zimbabwe dollar for Domestic Transactions) (Amendment) Regulations, 2020,
+(No. 3). 2.
+Minimum wages Schedule:
+GRADE NGOs Independent A- Trust Schools Mission Boarding Schools Welfare C Welfare A Welfare B Independent B- Private Schools Mission Hospitals and Clinics Mission Day Schools Independent F- Day- Rural Rural ECDs Trust ECDs Independent C-Private Colleges Independent D - Home Schools A R e l i g i o u s Presbyteries and Convents Private ECDs Independent D-Home Schools B Urban 1 ECDs Urban 2 ECDs Welfare D Independent E- Boarding Independent F-Day- Urban Tertiary Institutions Religious Administrative Ofﬁ ces USD USD USD USD USD USD A1 400,00 250,00 2 30,00 220,00 210,00 200,00 A2 440,00 262,50 241,50 231,00 220,50 210,00 A3 484,00 275,63 253,58 242,55 231,53 220,50 B1 532,40 289,41 266,25 254,68 243,10 231,53 B2 585,64 303,88 279,57 267,41 255,26 243,10 B3 644,20 319,07 293,54 280,78 268,02 255,26 B4 708,62 335,02 308,22 294,82 281,42 268,02 B5 779,49 351,78 323,63 309,56 295,49 281,42 C1 857,44 369,36 339,81 325,04 310,27 295,49 C2 943,18 387,83 356,81 341,29 325,78 310,27 C3 1 037,50 407,22 374,65 358,36 342,07 325,78 C4 1 141,25 427,58 393,38 376,27 359,17 342,07 C5 1 255,37 448,96 413,05 395,09 377,13 359,17 Housing Allowance 60,00 60,00 60,00 60,00 60,00 60,00 Transport Allowance 43,00 43,00 43,00 43,00 43,00 43,00 2.
+Interpretation of terms In this agreement—
+"Early Childhood Education Development Centres (ECDs)/ Nursery Schools/Pre-Schools" means centres for the early development of children from the age two in preparation for primary education;
+Collective Bargaining Agreement - Welfare and Educational Institutions
+"Employers association" means the Welfare and Educational Institutions Employers Association;
+"Employers association dues" means contributions made by the employers for the administration of the Employers Association in terms of section 52 of the Labour Act
+[Chapter 28:01];
+"Independent A - trust schools" means schools which are run by registered trusts or board of governors whose employees are employed by the trusts or boards of governors;
+"Independent B - private schools" means schools which are run and managed by private individuals or organisations and whose employees are either employed by the private individuals or organisations;
+"Independent C - private colleges" means colleges which are run by private individuals or organisations which provide for academic and professional courses. The employees are employed by private individuals, organisations or registered companies;
+"Independent D - home schools A" means private schools which operate from a residential property or a home set up with an enrollment of between 1-50 students, which are run by individuals, organisations or private companies whose employees are employed by the same.
+"Independent D - home schools B" means private schools which operate from a residential property or a home set up with an enrollment of 51 students and above, which are run by individuals, organisations or private companies whose employees are employed by the same;
+"Independent E - boarding" means any boarding school whose employees are employed by SDCs which are not mission schools, independent schools, local authority schools or government schools;
+"Independent F - day-urban" means any day school in urban areas whose employees are employed by SDCs which are not mission schools, independent schools, local authority schools or government schools;
+"Independent F - day-rural" means any day school in rural areas whose employees are employed by SDCs which are not mission schools, independent schools, local authority schools or government schools;
+"mission boarding schools" means schools which are run by religious organisations as the responsible authority which offer boarding facilities. The employees are either directly employed by the responsible authority or SDC;
+"mission day schools" means schools which are run by religious organisations as responsible authorities which do not offer boarding facilities. The employees are either directly employed by the responsible authority or SDC;
+"mission hospitals and clinics" means health care institutions which are run by religious organisations and whose employees are employed by the responsible authority;
+"NEC levies" means levies which employers and employees are statutorily required to pay NEC for its operations and these are compulsory;
+"Non-Governmental Organisations" means registered Private Voluntary Organisations which operate in Zimbabwe and provide relief and developmental assistance to communities;
+"private ECDs" means ECDs which operate on a private school and are run by private individuals, organisations or registered companies whose employees are employed by the same;
+"religious organisations (administrative ofﬁ ces)" means places where the church administration is done;
+"religious organisations (Presbyteries and Convents)" means places where Ministers stay of their domiciles;
+"rural ECDs" means ECDS which are located in a rural set up and are run by private individuals, organisations or registered companies whose employees are employed by the same;
+Collective Bargaining Agreement - Welfare and Educational Institutions
+"tertiary institutions" means colleges, training institutions and universities which are run by non-governmental organisations e.g. religious organisations (churches) or other organisations, whose employees are not employed by government or local authorities;
+"trade union" means the Zimbabwe Educational Scientiﬁ c, Social and Cultural Workers Union;
+"trade union dues" means the subscriptions which employees pay through check off system upon ﬁ lling in stop order forms and employers are required to deduct and to remit to the trade union in terms of section 54 of the Labour Act [Chapter 28:01].
+"trust ECDs" means ECDs/nursery schools/pre-schools which operate under trust schools and are run by the board of governors or trusts whose employees are employed by the same;
+"Urban 1 ECDs" means ECDs which are located in low or medium density suburbs which are run by private individuals, organisations or registered companies whose employees are employed by the same;
+"Urban 2 ECDs" means ECDs which are located in high density suburbs which are run by private individuals, organisations or registered companies whose employees are employed by the same;
+"welfare A" means registered Private Voluntary Organisations that provide institutional care to persons or animals and charge a nominal fee for the services and these rely on donations and grants;
+"welfare B" means registered Private Voluntary Organisations providing institutional care to persons or animals but do not charge fees for the service;
+"welfare C" means institutions which are run by registered Private Voluntary Organisations as special education institutions and/or training institutions and rehabilitation institutions for physically and mentally handicapped people which are required to be registered in terms of the Education Act and Manpower Planning and Development Act. These charge fees for service provided;
+"welfare D" means registered private voluntary organisations which provide institutional care, support, protection, home and educational facilities to children who are orphaned, abandoned, and vulnerable and who are in need of care. These are run by local or international organisations, depend on donations and grants for funding and do not charge fees for the services provided. 3.
+Subsistence allowances (for all sectors) Subsistence allowance shall be paid to those employees who have to travel away from home on employer's business. These shall be paid as follows—
+Breakfast . . . . . . . . . . . . . . .
+US$4,00 Lunch . . . . . . . . . . . . . . . .
+US$4,00 Dinner . . . . . . . . . . . . . . . .
+US$4,00 Out of Pocket . . . . . . . . . . . . .
+US$4,00 4.
+Transport allowance Transport allowance shall be paid to employees not residing on employer's premises and who are not provided with free transport. 5.
+Housing allowance Housing allowance means an allowance paid to an employee towards payment of rent, water and electricity. Housing allowance shall be paid to employees who are not provided with free accommodation by the employer. 6.
+Recognition of service Every employee who has completed at least (12) months of continuous service shall, in addition to the prescribed wage, be paid an additional 1% of the prescribed monthly wage for EACH year of completed service.
+Collective Bargaining Agreement - Welfare and Educational Institutions 7.
+Educational allowances 7.1 Mission Schools and Hospitals • Education allowances shall be 75% of both tuition and boarding fees for the respective school where the employee works and in the case of a mission hospital, 75% fee of the nearest mission school. • The guiding principles for the fees to be paid are the fees paid per child at the mission school where the employee works. If there is no school at the work place, the employer pays 75% fees of his or her own denomination's nearest school. If the children go to a local authority school whose total fees are less than the 75% to be paid, then the employer pays 100% fees to the local authority school. • The fees shall be on production of school invoices and paid directly to the school concerned and the employer shall be entitled to claim proof of payment thereof and these amounts are payable for two children. 7.2 Early Childhood Development Centres and Creches • 100% for two children. 7.3 Independent Educational Institutions and Special Schools operated by Private Voluntary Organisations • Educational allowances shall be 75% of fees payable at local authority and governmental schools for not more than three biological children of an employee. 8.
+Proved expenses The employer shall pay the necessary accommodation and all subsistence expenses. 9 .
+Overnight accommodation In all cases where employees are required to sleep away from home on employers' business they shall be provided with overnight accommodation. Sleeping in motor vehicles or buses shall not constitute accommodation.
+10. Night shift allowance Where employees are required to work night shift, they shall be paid 1% of the monthly salary rate multiplied by the number of nights worked.
+11. Funeral allowance Where an employee has a funeral policy, any shortfall on the total cost of a cofﬁ n shall be paid by the employer or where an employee does not have a funeral policy the employer shall pay 50% of the cofﬁ n.
+Declaration The Employers' Organisation and the Trade Union having arrived at the agreement set forth herein, the undersigned hereby declare that the foregoing is the agreement arrived at, and afﬁ x their signatures hereto.
+Signed at Harare on behalf of the Employers and Employees on this 31st March, 2021.
+J. T. MAWIRE, Chairperson-National Employment Council for Welfare and Educational Institutions.
+R. MAMBO, General Secretary for the National Employment Council for Welfare and Educational Institutions.
+P. C. CHINGOKA, Chairperson of the Welfare & Educational Institutions Employers Association.
+S. N. MUTINDINDI, General Secretary of the Zimbabwe Educational Scientiﬁ c Social and Cultural Workers Union.
+Collective Bargaining Agreement - Welfare and Educational Institutions
