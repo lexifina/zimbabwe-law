@@ -1,0 +1,2 @@
+Legal Practitioners (Designated Legal Qualiﬁ cations (Amendment) Notice, 2021 (No. 2): Correction of Error IT is hereby notiﬁ ed, for general information, that the legal Practitioners (Designated Legal Qualiﬁ cations) (Amendment) Notice, 2021 (No. 2), published in Statutory Instrument 240 of 2021 contained an error.
+The statutory instrument is corrected in paragraph 5 by the deletion of "2016" and the substitution of "2015".
