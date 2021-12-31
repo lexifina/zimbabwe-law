@@ -1,0 +1,2 @@
+Public Procurement and Disposal of Public Assets (General)
+(Amendment) Regulations, 2021 (No. 3) IT is hereby notiﬁ ed that the Honourable Vice President responsible for Procurement, in consultation with the Minister of Finance and Economic Development, in terms of section 101 of the Public Procurement and Disposal of Public Assets Act [Chapter 22:23] and after consulting with the Procurement Regulatory Authority of Zimbabwe, has made the following regulations:—
