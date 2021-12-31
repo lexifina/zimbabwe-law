@@ -1,0 +1,1 @@
+Customs and Excise (Ports of Entry and Routes) (Amendment) Order, 2021 (No. 23) IT is hereby notiﬁ ed that the Minister of Finance and Economic Development has, in terms of sections 14 and 236 of the Customs and Excise Act [Chapter 23:02], made the following order:—
