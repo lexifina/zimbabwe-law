@@ -1,7 +1,7 @@
 # Third Schedule (section 46)
 Acts constituting criminal nuisance
 1. Interpretation in third schedule
-In paragraph 2 —
+In paragraph 2—
 "appropriate authority" means—
 (a) in the case of a public place situated within the area under the jurisdiction of a municipal council or town council, such municipal council or town council, as the case may be;
 (b) in the case of a public place situated within a local government area, the local board;

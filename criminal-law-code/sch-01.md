@@ -1,4 +1,4 @@
-# First Schedule (sections 2(1) and 280)
+# First schedule (Sections 2(1) and 280)
 Standard scale of fines
 Level | Monetary amount (US $)
 1 | 20

@@ -1,0 +1,3 @@
+# 164A. Sending threatening data message
+(1) Any person who unlawfully and intentionally by means of a computer or information system sends any data message to another person threatening harm to the person or the person's family or friends or damage to the property of such persons shall be guilty of an offence and liable to a fine not exceeding level 10 or to imprisonment for a period not exceeding five years or to both such fine and such imprisonment.
+(2) Any person who up skirts and records nude images or videos of a citizen or a foreigner who is resident in Zimbabwe without consent shall be guilty of an offence and liable to a fine not exceeding level 10 or imprisonment for a period not exceeding 5 years or both such fine or such imprisonment.

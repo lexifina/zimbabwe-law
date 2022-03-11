@@ -22,7 +22,7 @@ Forgery | Forgery
 Fraud | Fraud
 Housebreaking with intent to commit a crime | Unlawful entry into premises
 Incest | Sexual intercourse within a prohibited degree of relationship
-Indecent assault | Aggravated indecent assaultIndecent assault
+Indecent assault | Aggravated indecent assault Indecent assault
 Kidnapping | Kidnapping or unlawful detention
 Malicious injury to property | Malicious damage to property
 Murder | Murder Infanticide

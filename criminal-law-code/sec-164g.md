@@ -1,0 +1,4 @@
+# 164G. Identity-related offence
+(1) Any person who unlawfully and intentionally by means of information and communication technologies generates and sends any data message to another person, or posts on any material whatsoever on any electronic medium accessible by any person, with the intent to coerce, intimidate, harass, threaten, bully or cause substantial emotional distress, or to degrade, humiliate or demean the person of another or to encourage a person to harm himself or herself, shall be guilty of an offence and liable to a fine not exceeding level 10 or to imprisonment for a period not exceeding ten years or to both such fine and such imprisonment
+(2) Special consideration shall be given when a child is found guilty of any of the offences set out in (1), in line with the law of Zimbabwe:
+Provided that the penalty shall not give the child a criminal record nor shall the child be imprisoned for this offence.
