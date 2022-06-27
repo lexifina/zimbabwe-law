@@ -1,0 +1,1 @@
+Agricultural Marketing Authority (Seed Cotton and Seed Cotton Products) (Amendment) Regulations, 2022 (No. 3) IT is hereby notified that the Minister Lands, Agriculture, Fisheries, Water and Rural has Development, in terms of 50 of the Agricultural Marketing Act [Chapter 18:24] (Act No. 26 of 2004), made the following regulations:—
