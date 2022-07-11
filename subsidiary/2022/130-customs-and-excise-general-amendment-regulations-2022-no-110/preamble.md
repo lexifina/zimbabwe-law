@@ -1,0 +1,1 @@
+Customs and Excise (General) (Amendment) Regulations, 2022 (No. 110) IT is hereby notified that the Minister of Finance and Economic Development has, in terms of section 235 of the Customs and Excise Act [Chapter 23:02], made the following regulations:—
