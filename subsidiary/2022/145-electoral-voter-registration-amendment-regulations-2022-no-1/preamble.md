@@ -1,0 +1,2 @@
+Electoral (Voter Registration) (Amendment) Regulations, 2022
+(No. 1) IT is hereby notified that the Zimbabwe Electoral Commission, in terms of section 192 of the Electoral Act [Chapter 2:13] has, with the approval of the Minister of Justice, Legal and Parliamentary Affairs, made the following regulations:—
