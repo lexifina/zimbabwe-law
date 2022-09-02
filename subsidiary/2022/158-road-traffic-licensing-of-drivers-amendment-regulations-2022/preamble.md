@@ -1,0 +1,1 @@
+Road Traffic (Licensing of Drivers) (Amendment) Regulations, 2022 (No. 35) IT is hereby notified that the Minister of Transport and Infrastructural Development has, in terms of section 81 of the Road Traffic Act [Chapter 13:11], made the following regulations:—
