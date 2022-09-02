@@ -1,0 +1,1 @@
+Vehicle Registration and Licensing (Amendment) Regulations, 2022 (No. 25) IT is hereby notified that the Minister of Transport and Infrastructural Development has, in terms of section 52 of the Vehicle Registration and Licensing Act [Chapter 13:14], made the following regulations:—
