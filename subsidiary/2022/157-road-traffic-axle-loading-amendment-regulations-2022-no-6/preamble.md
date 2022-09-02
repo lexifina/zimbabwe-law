@@ -1,0 +1,1 @@
+Road Traffic (Axle-loading) (Amendment) Regulations, 2022 (No. 6) IT is hereby notified that the Minister of Transport and Infrastructural Development has, in terms of section 81 of the Road Traffic Act [Chapter 13:11], as amended, the following regulations:—
