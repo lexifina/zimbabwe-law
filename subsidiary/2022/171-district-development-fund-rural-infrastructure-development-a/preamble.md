@@ -1,0 +1,1 @@
+District Development Fund (Rural Infrastructure Development Agency) Regulations, 2022 IT is hereby notiﬁ ed that the Minister of State for Presidential Affairs, and Monitoring Implementation of Government Programs, has in terms of section 19 of the District Development Fund Act [Chapter 29:06], made the following regulations:—
