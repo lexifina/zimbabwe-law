@@ -1,0 +1,1 @@
+Beitbridge (Tolling) (Amendment) Regulations, 2022 (No. 2) IT is hereby notiﬁ ed that the Minister of Transport and Infrastructural Development, in terms of section 6 of the Toll-Roads Act [Chapter 13:13], has made the following regulations:—
