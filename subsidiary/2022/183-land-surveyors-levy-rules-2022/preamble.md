@@ -1,0 +1,1 @@
+Land Surveyors (Levy) Rules, 2022 IT is hereby notiﬁ ed that the Council of Land Surveyors, in terms of sections 27(2)(a) and 34 (1)(h) of the Land Surveyors Act [Chapter 27:06], and with the approval of the Minister of Lands, Agriculture, Fisheries, Water and Rural Development, hereby makes the following rules:—
