@@ -1,0 +1,1 @@
+Manpower Planning and Development (Levy) (Amendment) Notice, 2022 (No. 2) THE Minister of Higher and Tertiary Education, Innovation, Science and Technology Development on the recommendations of the Council, in terms of section 53(2) of the Manpower Planning and Development Act [Chapter 28:02], hereby makes the following notice:—
