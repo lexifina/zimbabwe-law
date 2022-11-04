@@ -1,0 +1,1 @@
+Presidential Powers (Temporary Measures) (Amendment of Reserve Bank of Zimbabwe Act and Finance Act) Regulations, 2022 HIS Excellency the President, in terms of section 2 of the Presidential Powers (Temporary Measures) Act [Chapter 10:20], hereby makes the following regulations:—
