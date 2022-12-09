@@ -1,0 +1,1 @@
+Liquor Licensing (Fees) (Amendment) Regulations, 2022 (No. 3) IT is hereby notified that the Minister of Local Government and Public Works has, in terms of section 122 of the Liquor Act [Chapter 14:12], made the following regulations:—
