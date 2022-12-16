@@ -1,0 +1,1 @@
+Base Minerals Export Control (Lithium Bearing Ores and Unbeneficiated Lithium) Order, 2022 UNDER the powers conferred upon me by section 3(1)(a) of the Base Minerals Export Control Act [Chapter 21:05], I, Wiston Chitando, MP, Minister of Mines and Mining Development, by this my order direct that with immediate effect as follows:—
