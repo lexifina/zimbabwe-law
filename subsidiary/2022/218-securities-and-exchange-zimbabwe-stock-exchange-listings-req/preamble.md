@@ -1,0 +1,1 @@
+Securities and Exchange (Zimbabwe Stock Exchange Listings Requirements) (Amendment) Rules, 2022 (No. 1) IT is hereby notified that the Securities and Exchange Commission of Zimbabwe has, in terms of section 65(3) of the Securities and Exchange Act [Chapter 24:25], approved the following rules:—
