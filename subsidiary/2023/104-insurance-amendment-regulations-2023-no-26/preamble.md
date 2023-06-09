@@ -1,0 +1,1 @@
+Insurance (Amendment) Regulations, 2023 (No. 26) IT is hereby notified that the Minister of Finance and Economic Development has, in terms of section 89 of the Insurance Act [Chapter 24:07], made the following regulations:—
