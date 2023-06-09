@@ -1,0 +1,1 @@
+Armorial Bearings, Names, Uniforms and Badges (Amendment) Regulations, 2023 (No. 15) IT is hereby notified that the Minister of Justice, Legal and Parliamentary Affairs, has, in terms of section 31 of the Armorial Bearings, Names, Uniforms and Badges Act [Chapter 10:01], made the following regulations:—
