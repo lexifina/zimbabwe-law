@@ -1,0 +1,1 @@
+Public Accountants and Auditors (Constituent Bodies) Notice, 2023 IT is hereby notified that the Minister of Finance and Economic Development has, in terms of section 3(2)(c) of the Public Accountants and Auditors Act [Chapter 27:12], made the following notice:—
