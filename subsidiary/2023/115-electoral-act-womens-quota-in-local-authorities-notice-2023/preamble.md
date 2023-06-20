@@ -1,0 +1,1 @@
+Electoral Act (Women's Quota in Local Authorities) Notice, 2023 THE Zimbabwe Electoral Commission has, in terms of section 192(4) of the Zimbabwe Electoral Act [Chapter 2:13], as read with section 277(4) of the Constitution, made the following notice:—
