@@ -1,0 +1,1 @@
+Boxing Control (Amendment) Regulations, 2023 (No. 2) IT is hereby notified that the Minister of Youth, Sport, Arts and Recreation has, in terms of section 9 of the Boxing and Wrestling Control Act [Chapter 25:02], made the following regulations:—
