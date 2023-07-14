@@ -1,0 +1,6 @@
+# 92B. Effective date and enforcement of decisions of Labour Court
+(1) The Labour Court may fix the date from which any decision, order or determination made by it shall operate, which date may be an earlier or later date than the date of the decision, order or determination.
+(2) The judge of the Labour Court who made the decision, order or determination shall submit sufficient certified copies of it to the registrar of the Labour Court to enable the registrar to furnish a copy to each of the parties affected by it.
+(3) Any party to whom a decision, order or determination relates may submit for registration the copy of it furnished to him in terms of subsection (2) to the court of any magistrate which would have had jurisdiction to make the order had the matter been determined by it, or, if the decision, order or determination exceeds the jurisdiction of any magistrates court, the High Court.
+(4) Where a decision, order or determination has been registered in terms of subsection (3) it shall have the effect, for purposes of enforcement, of a civil judgment of the appropriate court.
+(5) If any order which has been registered in terms of subsection (4) has been rescinded or altered by the Labour Court in terms of section ninety-two C, the clerk or registrar of the court concerned shall make the appropriate adjustment in his register.

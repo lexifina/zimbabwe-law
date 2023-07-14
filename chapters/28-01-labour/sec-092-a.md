@@ -1,0 +1,3 @@
+# 92A. Contempt of Labour Court
+(1) If any person, at a sitting of the Labour Court, wilfully insults any member of the Court or wilfully interrupts the proceedings of the Court or otherwise wilfully disturbs the peace or order of the proceedings, the member presiding may order the person to be removed and detained in custody until the rising of the Court.
+(2) Any person referred to in subsection (1) shall be guilty of an offence and liable, in addition to any removal and detention in terms of that subsection, to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment.
