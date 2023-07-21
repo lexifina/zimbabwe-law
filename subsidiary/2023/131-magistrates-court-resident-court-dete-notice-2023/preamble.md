@@ -1,0 +1,1 @@
+Magistrates Court (Resident Court) (Dete) Notice, 2023 IT is hereby notified that the Minister of Justice, Legal and Parliamentary Affairs, in terms of section 4(3) of the Magistrates Court Act [Chapter 7:10], hereby makes the following notice:—
