@@ -1,0 +1,2 @@
+Grain Marketing (Control of Sale of Wheat and Barley)
+(Amendment) Regulations, 2023 (No. 1) IT is hereby notified that the Minister of Lands, Agriculture, Fisheries, Water and Rural Development has, in terms of section 39 of the Grain Marketing Act [Chapter 18:14], made the following regulations:—
