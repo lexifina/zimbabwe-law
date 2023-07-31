@@ -1,0 +1,5 @@
+Civil Protection (Declaration of State of Disaster: Emergency Solid Waste Management Harare Metropolitan Province) Notice, 2023 WHEREAS Government has noted with great concern the deplorable state of cleanliness of the Harare Metropolitan Province, characterised among other things by litter and waste dumps accumulating in business and residential areas of the Province, open burning of garbage and indiscriminate illegal dumping of solid waste and littering.
+AND WHEREAS the local authorities in the Province are un able to manage the waste due, among other reasons, to their failure to invest in waste management infrastructure, and the related equipment and human resources; and to their inefficient collection practices and lack of environmental control systems:
+NOW, THEREFORE, HIS Excellency the President, in terms of section 27(1) of the Civil Protection Act [Chapter 10:06], hereby declares as follows:—
+Title This notice may be cited as the Civil Protection (Declaration of State of Disaster: Emergency Solid Waste Management Harare Metropolitan Province) Notice, 2023.
+Interpretation
