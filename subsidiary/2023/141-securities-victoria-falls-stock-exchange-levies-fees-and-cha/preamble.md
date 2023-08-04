@@ -1,0 +1,1 @@
+Securities (Victoria Falls Stock Exchange) (Levies, Fees and Charges) Rules, 2023 IT is hereby notified that the Minister of Finance and Economic Development has, in terms of section 118(6) of the Securities and Exchange Act [Chapter 24:25], approved the following rules made by the Securities and Exchange Commission of Zimbabwe in terms of section 118(1):—
