@@ -1,0 +1,3 @@
+Suppression of Foreign and International Terrorism (Application of UNSCR 1540 (2004)1673, 1810, 1887, 1977 (on Non-State Actor Proliferation), UNSCRs 1965, 1718, 1874 (on Democratic People's Republic of Korea and UNSCRs 1696, 1747, 1803 and 1929, UNSCR 2094 (2013), 2231 (2015) UNSCR 2270
+(2016), UNSCR 2321 (2016), UNSCR 2371 (2017), UNSCR 2375 (2017), UNSCR 2397 (2017) and Successor UNSCRs)
+(Amendment) Regulations, 2023 (No. 1) IT is hereby notified that the Minister of Home Affairs and Cultural Heritage has, in terms of section 17 of the Suppression of Foreign and International Terrorism Act [Chapter 11:21] and with the consent of the President as required under subsection (2) of that section, made the following regulations:—
