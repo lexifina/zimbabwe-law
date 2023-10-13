@@ -1,0 +1,1 @@
+Magistrates' Court (Resident Court) (Dangamvura) Notice, 2023 THE Minister of Justice, Legal and Parliamentary Affairs, in terms of section 4(3) of the Magistrates Court Act [Chapter 7:10], hereby makes the following notice—
