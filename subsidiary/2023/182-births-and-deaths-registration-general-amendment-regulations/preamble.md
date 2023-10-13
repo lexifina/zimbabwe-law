@@ -1,0 +1,1 @@
+Births and Deaths Registration (General) (Amendment) Regulations, 2023 (No. 16) IT is hereby notiﬁ ed that the Minister of Home Affairs, in terms of section 26 of the Births and Deaths Registration Act, has made the following regulations:—
