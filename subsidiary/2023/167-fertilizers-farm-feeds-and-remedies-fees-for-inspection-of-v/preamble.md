@@ -1,0 +1,1 @@
+Fertilizers, Farm Feeds and Remedies (Fees for Inspection of Vehicles Carrying Farm Requisites in Transit) Regulations, 2023 IT is hereby notiﬁ ed that the Minister of Lands, Agriculture, Fisheries, Water and Rural Development has, in terms of section 21 of the Fertiliser, Farm Feeds and Remedies Act [Chapter 18:12], made the following regulations:—
