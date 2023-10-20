@@ -1,0 +1,1 @@
+Victoria Falls Bridge Tolling (Amendment) Regulations, 2023 (No. 1) IT is hereby notified that the Minister of Transport and Infrastructural Development has, in terms of section 6 of the Toll Roads Act [Chapter 13:13], made the following regulations:—
