@@ -1,0 +1,1 @@
+Toll Roads (Regional Trunk Road Network) (Amendment) Regulations, 2023 (No. 15) IT is hereby notiﬁ ed that the Minister of Transport and Infrastructural Development has, in terms of section 6 of the Toll Roads Act [Chapter 13:13], made the following regulations:—
