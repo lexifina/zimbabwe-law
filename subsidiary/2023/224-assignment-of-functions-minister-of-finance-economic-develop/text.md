@@ -1,0 +1,2 @@
+[CONSTITUTION Assignment of Functions (Minister of Finance, Economic Development and Investment Promotion) (Amendment) Notice, 2023 (No. 1) THE Assignment of Functions Minister of Finance, Economic Development and Investment Promotion) Notice, 2018, published in Statutory Instrument 197 of 2023, is amended by the deletion of the following item in the Schedule thereto:
+"Zimbabwe Investment and Development Agency Act [Chapter 14:38] (Act No. 10 of 2019)".
