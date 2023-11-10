@@ -1,0 +1,2 @@
+[CONSTITUTION Assignment of Functions (His Excellency the President of the Republic of Zimbabwe) (Amendment) Notice, 2023 (No. 2) THE Assignment of Functions (His Excellency the President of the Republic of Zimbabwe) Notice, 2023, published in Statutory Instrument 189 of 2023, is amended by the inclusion of the following item in the Schedule thereto:
+"Zimbabwe Investment and Development Agency Act [Chapter 14:38] (Act No. 10 of 2019)".
