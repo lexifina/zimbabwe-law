@@ -1,0 +1,1 @@
+Rent (Amendment) Regulations, 2023 (No. 1) IT is hereby notified that the Minister of National Housing and Social Amenities has, in terms of section 24 of the Housing and Building Act [Chapter 22:07], made the following regulations:—
