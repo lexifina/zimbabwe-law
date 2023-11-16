@@ -1,0 +1,2 @@
+[CONSTITUTION Proclamation 9 of 2023: Correction of Error IT is hereby notified that Proclamation 9 of 2023, published in Statutory Instrument 227A of 2023; contained an error.
+In the final paragraph of the Preamble to that Proclamation, paragraph (b) incorrectly specified the "Retired Justice Moses Chinhengo" in mistake for "Retired Justice Ahmed Moosa Ebrahim" as the Chairperson of the Tribunal inquiring into the question of the removal from office of Mr Justice Nicholas Webster Charakupa Chinamora.
