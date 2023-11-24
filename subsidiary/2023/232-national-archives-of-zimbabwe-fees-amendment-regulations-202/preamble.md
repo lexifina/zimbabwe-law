@@ -1,0 +1,1 @@
+National Archives of Zimbabwe (Fees) (Amendment) Regulations, 2023 (No. 1) IT is hereby notified that the Minister of Home Affairs and Cultural Heritage has, in terms of section 15(2)(a) of the National Archives of Zimbabwe Act [Chapter 25:06], made the following regulations:—
