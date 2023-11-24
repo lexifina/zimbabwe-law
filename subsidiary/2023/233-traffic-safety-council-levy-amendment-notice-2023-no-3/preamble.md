@@ -1,0 +1,1 @@
+Traffic Safety Council (Levy) (Amendment) Notice, 2023 (No. 3) IT is hereby notified that the Minister of Transport and Infrastructural Development, in terms of section 34 of the Traffic Safety Council Act [Chapter 13:17], with the approval of the Minister responsible for finance and after all consultation with the Board, hereby makes the following notice:—
