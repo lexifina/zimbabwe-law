@@ -1,0 +1,1 @@
+Customs and Excise (Surcharge) Notice, 2023 IT is hereby notified that the Minister of Finance, Economic Development and Investment Promotion has, in terms of section 225, as read with section 235 of the Customs and Excise Act [Chapter 23:02], made the following notice:—
