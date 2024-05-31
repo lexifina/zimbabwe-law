@@ -1,0 +1,1 @@
+National Social Security Authority (Accident Prevention and Workers' Compensation Scheme) (Amendment) Notice, 2024 (No. 24) IT is hereby notified that the Minister of Public Service, Labour and Social Welfare has, in terms of section 3 of the National Social Security Authority Act [Chapter 17:04], made the following notice:—
