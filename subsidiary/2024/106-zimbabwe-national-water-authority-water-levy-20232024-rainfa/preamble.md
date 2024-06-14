@@ -1,0 +1,1 @@
+Zimbabwe National Water Authority (Water Levy) (2023/2024 Rainfall Season Exemption) Notice, 2024 IT is hereby notified that the Minister of Lands, Agriculture, Fisheries, Water and Rural Development, in terms of section 41 of the Zimbabwe National Water Authority Act [Chapter 20:25], has made the following regulations:—
