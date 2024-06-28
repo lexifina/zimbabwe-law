@@ -1,0 +1,1 @@
+Finance (Amendment of Sections 38 and 39 Finance Act) Regulations, 2024 IT is hereby notified that the Minister of Finance, Economic Development and Investment Promotion has, in terms of section 3 of the Finance Act [Chapter 23:04], made the following regulations:—
