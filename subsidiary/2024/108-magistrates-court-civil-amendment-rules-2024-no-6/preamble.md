@@ -1,0 +1,1 @@
+Magistrates Court (Civil) (Amendment) Rules, 2024 (No. 6) IT is hereby notified that the Minister of Justice, Legal and Parliamentary Affairs, in terms of section 73 of the Magistrates Court Act [Chapter 7:10], has made the following rules:—
