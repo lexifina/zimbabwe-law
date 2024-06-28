@@ -1,0 +1,1 @@
+Petroleum (Aviation Fuel) Regulations, 2024 IT is hereby notified that the Minister of Energy and Power Development after consultation with the Zimbabwe Energy Regulatory Authority, in terms of section 57 of the Petroleum Act [Chapter 13:22], has made the following regulations:—
