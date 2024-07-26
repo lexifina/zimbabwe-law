@@ -1,0 +1,1 @@
+Land Commission (Gazetted Land) (Disposal in Lieu of Compensation) (Repeal) Regulations, 2024 IT is hereby notified that the Minister of Lands, Agriculture, Fisheries, Water and Rural Development has, in terms of section 21 as read with section 17 of the Land Commission Act [Chapter 20:09], made the following regulations:—
