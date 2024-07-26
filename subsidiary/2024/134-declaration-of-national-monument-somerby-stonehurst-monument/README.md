@@ -1,0 +1,7 @@
+# Declaration of National Monument Somerby-Stonehurst Monument
+
+Source: Veritas, https://www.veritaszim.net/node/7131 (SI 2024-134 Declaration of National Monument Somerby-Stonehurst Monument.pdf)
+
+| File | Provision |
+| --- | --- |
+| [text.md](text.md) | Declaration of National Monument: Somerby-Stonehurst Monument IT is hereby notified that the Minister of Home Affairs and Cultural Heritage has, in terms of section 20 of the National Museums and Monuments Act [Chapter 25:11], declared the Somerby-Stonehurst Monument situated in Zvimba Rural District Council and falls under chief Zvimba approximately 35km west of Harare City, along the Harare-Bulawayo Highway Road on a 1:50 000 map sheet 1730 D4 described by a polygon. Starting at point A grid reference UTM36K 67147,8025124 proceed in a north-easterly direction for a distance of five thousand one hundred and six metres (5 106 m) to point B grid reference UTM 36K 72119,8026296 hence in a north-easterly direction for a distance of three thousand and thirty-two metres (3 032 m) to point C grid reference 36k 73631, 8028925 thence in a westerly direction for a distance of five thousand two hundred and eighty-three metres (5 283 m) to point D grid reference 36K 68345,8028830 hence due south-westerly for a distance of one thousand five hundred and eighty-six metres (1 586 m) to point E grid reference UTM 36K67555,8027454 thence in a southerly direction for a distance of two thousand three hundred and six-three metres (2 363 m) back to point A: to be a National Monument. |
