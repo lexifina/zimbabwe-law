@@ -1,0 +1,7 @@
+# Declaration of National Monument KwaVaMuzenda and Zimuto Street Heritage Monument
+
+Source: Veritas, https://www.veritaszim.net/node/7127 (SI 2024-130 Declaration of National Monument KwaVaMuzenda and Zimuto Street Heritage Monument.pdf)
+
+| File | Provision |
+| --- | --- |
+| [text.md](text.md) | Declaration of National Monument: KwaVaMuzenda and Zimuto Street Heritage Monument IT is hereby notified that the Minister of Home Affairs and Cultural Heritage has, in terms of section 20 of the National Museums and Monuments Act [Chapter 25:11], declared KwaVaMuzenda and the Zimuto Street Heritage Landmarks which constitute Vernacular grass thatched rondavels (R36, R47, R73, R81 and R82), R36 being where late the Vice President, Cde Simon V Muzenda used to stay. The other structures along Zimuto Street include Dr Simon V Mazorodze Clinic, Jotina Flats and Single Quarters, Multi-cultural (Religious) Heritage Landmarks, Mucheke High School and Misana yeNzou Houses: to be a National Monument. |
