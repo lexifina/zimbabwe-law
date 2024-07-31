@@ -1,0 +1,1 @@
+Census and Statistics (Economic Census Period 2024-2026) Notice, 2024 IT is hereby notified that the Minister of Finance, Economic Development and Investment Promotion has, in terms of section 12(3) of the Census and Statistics Act [Chapter 10:29], made the following notice:—
