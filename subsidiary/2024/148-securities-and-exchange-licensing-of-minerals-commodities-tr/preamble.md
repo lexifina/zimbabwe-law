@@ -1,0 +1,2 @@
+Securities and Exchange (Licensing of Minerals Commodities Trading Participants on the Victoria Falls Stock Exchange) Rules, 2024 IT is hereby notified that the Minister of Finance, Economic Development and Investment Promotion, in terms of section 118(6) of the Securities and Exchange Act [Chapter 24:25], has approved the following rules made by the Securities and Exchange Commission of Zimbabwe:—
+PART I Preliminary Title
