@@ -1,0 +1,1 @@
+Petroleum (Mandatory Blending of Anhydrous Ethanol with Unleaded Petrol) (Amendment) Regulations, 2024 (No. 6) IT is hereby notified that the Minister of Energy and Power Development, after consultation with the Zimbabwe Energy Regulatory Authority has, in terms of section 57(1) of the Petroleum Act [Chapter 13:22], made the following regulations:—
