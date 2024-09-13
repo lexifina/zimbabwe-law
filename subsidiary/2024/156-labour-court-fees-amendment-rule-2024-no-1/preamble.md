@@ -1,0 +1,1 @@
+Labour Court (Fees) (Amendment) Rules, 2024, (No. 1) IT is hereby notified that the Senior Judge of the Labour Court has, in terms of section 90(3) of the Labour Act [Chapter 28:01], and with the approval of the Chief Justice and the Minister of Justice, Legal and Parliamentary Affairs made the following rules:—
