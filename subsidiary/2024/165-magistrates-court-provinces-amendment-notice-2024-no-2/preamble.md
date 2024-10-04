@@ -1,0 +1,1 @@
+Magistrates Court (Provinces) (Amendment) Notice, 2024 (No. 2) HIS Excellency the President, in terms of subsection (1) of section 3 of the Magistrates Court Act [Chapter 7:10], hereby makes the following notice:—
