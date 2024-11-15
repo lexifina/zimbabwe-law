@@ -1,0 +1,1 @@
+Consumer Protection (Consumer Council of Zimbabwe Designation) Regulations, 2024 IT is hereby notified that the Minister of Industry and Commerce has, in terms of section 55 of the Consumer Protection Act [Chapter 14:44], made the following regulations:—
