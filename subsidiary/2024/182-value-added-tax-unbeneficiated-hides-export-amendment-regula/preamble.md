@@ -1,0 +1,1 @@
+Value Added Tax (Unbeneficiated Hides Export) (Amendment) Regulations, 2024 (No. 3) IT is hereby notified that the Minister of Finance, Economic Development and Investment Promotion has, in terms of section 78 as read with section 12C of the Value Added Tax Act [Chapter 23:12], made the following regulations:—
