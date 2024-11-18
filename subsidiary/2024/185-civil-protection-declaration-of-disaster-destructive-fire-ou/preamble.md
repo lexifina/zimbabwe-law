@@ -1,0 +1,1 @@
+Civil Protection (Declaration of Disaster: Destructive Fire Outbreak at Mbare Traders Market) Notice, 2024 IN terms of section 27 of the Civil Protection Act [Chapter 10:06], His Excellency the President hereby declares:—
