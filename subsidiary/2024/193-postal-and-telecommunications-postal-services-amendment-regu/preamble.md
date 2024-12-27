@@ -1,0 +1,1 @@
+Postal and Telecommunications (Postal Services) (Amendment) Regulations, 2024 (No. 4) IT is hereby notified that the Minister of Information Communication Technology, Postal and Courier Services in consultation with the Authority has, in terms of section 99 of the Postal and Telecommunications Act [Chapter 12:05], made the following regulations:—
