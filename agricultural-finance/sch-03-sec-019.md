@@ -1,2 +1,0 @@
-# 19. Saving of registered real rights
-Where, in terms of Part II of this Scheme, land vests in the Corporation, the Corporation may, with effect from the date the land so vests in the Corporation, enter or take possession of such land but such land shall remain subject to all registered real rights in favour of third parties with which it was burdened immediately prior to such vesting until such rights have been extinguished in accordance with law.

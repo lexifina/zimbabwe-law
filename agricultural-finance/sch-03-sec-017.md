@@ -1,4 +1,0 @@
-# 17. Hire-purchase agreements and farmers' stop-orders
-(1) For the removal of doubt it is declared that the Hire-Purchase Act shall continue to apply in relation to any property referred to in subparagraph (i) of subparagraph (b) of subparagraph (4) of paragraph 6 which does not vest in the Corporation.
-(2) Any farmer's stop-order given by an applicant whose estate has vested in the Corporation in terms of this Part shall, notwithstanding that the estate has so vested, be of full force and effect as though the estate had not so vested.
-(3) Notwithstanding anything to the contrary in the Stop-order Act, an applicant whose estate has vested in the Corporation in terms of this Part shall not give any stop-order without the consent in writing of the Board, and the Registrar of Farmers' Stop-orders shall not register any such stop-order in terms of the Stop-order Act unless such written consent has been obtained.
