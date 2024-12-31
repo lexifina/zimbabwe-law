@@ -13,6 +13,7 @@
 (ii) a national civil aviation security training programme, in order to train personnel of all entities involved with, or who are responsible for, the implementation of various aspects of the national civil aviation security programme; and
 (iii) a national civil aviation security quality control programme, which shall provide the structure, responsibilities, processes and procedures that promote and establish an environment and culture of continuing improvement and enhancement of civil aviation security in an effective manner; and
 (iv) a national civil aviation screener certification programme.
+(e) ensure that the primary objective of aviation security is the safety of passengers, crew, ground personnel and the general public in all matters related to safeguarding against acts of unlawful interference.
 (2) The national programmes developed under subsection (1) shall be considered by the National Civil Aviation Security Committee, and the Committee shall recommend to the Minister the approval of such programmes.
 (3) The national programmes developed under subsection (1) shall be reviewed and updated from time to time as required by changing circumstances.
 (4) The National Civil Aviation Security Committee shall ensure that the management, setting of priorities and organisation of the national civil aviation security quality control programme is undertaken independently from the entities and persons responsible for the implementation of the measures taken under that programme.

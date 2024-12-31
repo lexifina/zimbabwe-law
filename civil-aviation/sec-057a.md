@@ -1,0 +1,2 @@
+# 57A. Non-disclosure of records and recordings
+An investigator shall ensure that information collected in the course of an investigation, including information collected from Cockpit Voice Recorders (CVR), and airborne image recordings shall not be disclosed or made available to any other person other than in connection with an investigation carried out under this Part provided that the final report of investigations must be submitted to the Minister and published thirty days after the investigation.

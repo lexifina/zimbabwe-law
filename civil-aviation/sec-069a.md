@@ -1,12 +1,12 @@
 # 69A. Powers of entry, inspection, etc. by safety and security oversight inspectors
-(1) A safety and oversight security inspector designated in terms of section 26(3) may, without warrant or the consent of the owner or occupier thereof (but subject to the production on demand of an identity document issued by the Authority), inspect and enter any aircraft or aerodrome, and enter and inspect any any land or premises whereon or wherein such aircraft is situated, if he or she has reasonable grounds for believing that—
-(a) the inspection, entry or search is necessary in the interests of defence, public safety, or public order; or
-(b) there are reasonable grounds for believing that the inspection, search or entry is necessary for the prevention, investigation or detection of an offence under this Act, or for the seizure of property which is the subject matter of such an offence or evidence relating to such an offence.
+(1) A safety or security oversight inspector designated as an authorised officer shall have unlimited and unrestricted access to enter and inspect any aircraft or aerodrome, or any land or premises without warrant or the consent of the owner or occupier thereof (but subject to the production on demand of an identity document issued by the Authority), if he or she has reasonable grounds for believing that—
+(a) the inspection, entry or search is necessary in the interests of aviation safety; or
+(b) the inspection, search or entry is necessary for the prevention, investigation or detection of an offence under this Act, or for the seizure of property which is the subject matter of such an offence or which may be evidence relating to such an offence.
 (2) For the purposes of subsection (1) a safety and oversight security inspector may—
 (a) take possession of any article, record or document; and
 (b) examine and make extracts from or copies of any record or document; and
 (c) require any person—
-(i) present at, within or about the aircraft or aerodrome, or within the land or premises wherein or whereon it is situated, to provide such information concerning the purpose for which the inspection is being conducted as the person can provide;
+(i) present at, within or about the aircraft or aerodrome, or within the land or premises wherein or whereon it is situated or any other aviation facility, to provide such information concerning the purpose for which the inspection is being conducted as the person can provide;
 (ii) who has control or custody of any record or document pertaining to the purpose for which the inspection is being conducted, to explain any entry in the record or document;
 and
 (d) prevent an aircraft from flying, whether temporarily or indefinitely; and

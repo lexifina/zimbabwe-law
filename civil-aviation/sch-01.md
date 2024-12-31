@@ -1,4 +1,4 @@
-# Schedule (Section 6)
+# First Schedule (Section 6)
 Powers of Authority
 1. To acquire premises necessary or convenient for the exercise of its functions and, for that purpose, to buy, take in exchange, hire or otherwise acquire immovable property and interests in and rights over such property.
 2. To buy, take in exchange, hire or otherwise acquire movable property.
