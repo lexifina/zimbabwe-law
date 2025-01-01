@@ -1,0 +1,1 @@
+Health Service (Amendment) Regulations, 2024 (No. 1) IT is hereby notified that the Health Service Commission, in terms of section 26 of the Health Service Act [Chapter 15:16] and with the concurrence of the Minister of Finance, Economic Development and Investment Promotion and the Minister of Health and Child Care, has made the following regulations:—
