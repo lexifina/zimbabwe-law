@@ -1,0 +1,3 @@
+# 4G. Accounts of Master's Office
+(1) The Board shall ensure that proper accounts and other records relating to such accounts are kept in respect of all the activities, funds and property of the Master's Office, including such particular accounts and records as the Minister or the Minister responsible for finance may direct.
+(2) As soon as possible after the end of each financial year, the Board shall prepare and submit to the Minister a statement of accounts in respect of that financial year or in respect of such other period as the Minister may direct.

@@ -25,7 +25,7 @@ Form B
 Letter of Administration
 These are to certify that A.B. of _______________ has been duly appointed the executor testamentary (or dative, as the case may be) and is hereby authorized as such to administer the estate of the late C.D. of ______.
 Master of the High Court.
-Harare, this ___________ day of ___________, 19______.
+Harare, this _________ day of ___________, 19_____.
 Form C
 Letter of confirmation of tutors
 These are to certify that A.B. of has been duly appointed, and is hereby authorized as such, to act as the tutor testamentary (or dative, as the case may be) of C.D., minor child of the late E.F. of______.
@@ -35,4 +35,4 @@ Form D
 Letter of confirmation of Curators
 These are to certify that A.B. of has been duly appointed, and is hereby authorized, to act as curator nominate of the estate given (or bequeathed, as the case may be) to C.D. by G.H. (here describe the deed of gift or bequest by its date or otherwise) (or as the case may be), as the curator dative of the estate of C.D. of ____________.
 Master of the High Court.
-Harare, this ___________ day of ___________, 19______.
+Harare, this _________ day of _________, 19_____.
