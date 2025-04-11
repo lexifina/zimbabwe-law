@@ -1,0 +1,5 @@
+# 22A. Civil penalty orders and amendment or substitution of Schedule
+(1) The provisions of the Schedule apply to any infringement of this Act in respect of which it is provided that a civil penalty is payable.
+(2) Subject to subsections (3) and (4), the Minister, may by notice in a statutory instrument amend or replace the Schedule.
+(3) When the Minister, wishes to amend or replace the Schedule, the Minister shall cause to be tabled before the National Assembly the draft statutory instrument amending or replacing the Schedule, and if the National Assembly makes no resolution against the publication of the statutory instrument within the next seven sitting days after it is so laid before the National Assembly, the Minister shall cause it to be published in the Gazette.
+(4) A request by the Minister to the Speaker to table before the National Assembly the draft statutory instrument referred to in subsection (3) shall be deemed to be a referral to the Parliamentary Legal Committee for the purposes of section 152(3)(e) of the Constitution.
