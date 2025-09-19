@@ -1,0 +1,1 @@
+Land Surveyors (Specified Local Qualification) Notice, 2025 IT is hereby notified that the Minister of Lands, Agriculture, Fisheries, Water and Rural Development has, in terms of section 18 of the Land Surveyors Act [Chapter 27:06], made the following notice:—
