@@ -1,0 +1,1 @@
+Civil Protection (Declaration of State of Disaster: Emergency Riverine Ecosystems Rehabilitation) (Amendment) Notice, 2026 (No. 1) IT is hereby notified that His Excellency the President, in terms of section 27(1) of the Civil Protection Act [Chapter 10:06], hereby declares as follows:—
