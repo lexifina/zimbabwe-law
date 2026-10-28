@@ -177,7 +177,7 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
                     i = j + 1
                 continue
             m = SECTION_RX.match(rawl)
-            if m and not rawl[:1].isspace():
+            if m and not rawl[:1] == " ":
                 flush()
                 num, head = m.group(1), norm(m.group(2))
                 cur = {"key": f"sec-{_key(num)}", "label": f"Section {num}", "kind": "sec",
