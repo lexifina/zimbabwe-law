@@ -163,6 +163,11 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
         if re.fullmatch(r"\s*-{10,}\s*", raw[i]):
             end = i
             break
+    # Veritas appends superseded text after the Sixth Schedule ("Section 180 before its amendment by Act 10 of 2017")
+    for i in range(start, end):
+        if re.match(r"^Section \d+[A-Z]? (as it was )?before its amendment", norm(raw[i])):
+            end = i
+            break
     units: dict = {}
     notes: dict = {}
     chapter: dict = {}
@@ -176,7 +181,7 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
         if cur is None:
             return
         body = [x for x in cur["lines"] if x]
-        if not body and cur["kind"] != "schedule":
+        if not body:
             return
         k = cur["key"]
         if k in units:
