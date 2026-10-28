@@ -78,7 +78,7 @@ def norm(s: str) -> str:
 
 NOTE_RX = re.compile(r"^\[[^\]]*\b(amended|substituted|inserted|repealed|corrected|renumbered|added)\b.*"
                      r"\b(Act|SI|S\.I\.|Statutory Instrument)\b", re.I)
-SECTION_RX = re.compile(r"^(\d{1,3}[A-Z]?)\t+(\S.*)$")          # raw line, column 0: "43A\tRegistration of Voters"
+SECTION_RX = re.compile(r"^\t?(\d{1,3}[A-Z]?)\t+(\S.*)$")       # raw line, column 0: "43A\tRegistration of Voters"
 SCHEDULE_RX = re.compile(r"^(first|second|third|fourth|fifth|sixth) schedule\b(.*)$", re.I)
 CHAPTER_RX = re.compile(r"^(chapter|part)\s+\d+\b", re.I)
 PARA_RX = re.compile(r"^(\d{1,2}[A-Z]?)\.(?=\s|\(|$)")
