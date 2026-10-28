@@ -246,6 +246,11 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
             if is_note(t):
                 cur.setdefault("notes", []).append(t)
                 continue
+            if t.lower() == "preamble" and ch != "preamble" and not rawl[:1] == " ":
+                flush()  # a Chapter's own preamble (Chapter 14)
+                cur = {"key": f"chapter-{ch:02d}-preamble", "label": f"Chapter {ch}, preamble", "kind": "preamble",
+                       "head": f"Chapter {ch}: Preamble", "lines": [], "notes": [], "chapter": ch}
+                continue
             cur["lines"].append(t)
             continue
         # inside a Schedule
