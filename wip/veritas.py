@@ -296,3 +296,107 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
         cur["lines"].append(t)
     flush()
     return units, notes, chapter
+
+
+# ---------------------------------------------------------------- the Constitution as enacted (2013)
+
+def tokens(text: str, fold: bool = False) -> str:
+    """Word sequence of a unit for comparison across Veritas's two formats: headings, the "N." after a heading
+    number, dash forms and spacing around punctuation are ignored; line breaks are ignored."""
+    t = re.sub(r"^# ", "", text, flags=re.M)
+    t = re.sub(r"^(\d+[A-Z]?)\.(?= )", r"\1", t, flags=re.M)
+    t = t.replace("\u2014", "-").replace("\u2013", "-")
+    t = re.sub(r"\s*-\s*", " - ", t)
+    t = re.sub(r"([;:,.\]\[()])", r" \1 ", t)
+    t = " ".join(t.split())
+    return t.lower() if fold else t
+
+
+def body_of(text: str) -> str:
+    return "\n".join(text.split("\n")[1:])
+
+
+def docx_segments(raw: list[str], order: list[str], units: dict) -> dict:
+    """Cut the as-enacted .docx into the units of a consolidated text (same keys), by finding each unit's start in
+    document order: a section by its number and the first words of its heading, a Schedule paragraph by its number
+    after its heading line, a Schedule by its title. Chapter and Part headings are dropped. Returns {key: [lines]}."""
+    lines = [norm(l) for l in raw]
+    start = next(i for i, l in enumerate(lines) if l.startswith("We the people of Zimbabwe"))
+    pos = {}
+    i = start
+    sched_seen = False
+    for k in order:
+        u = units[k]
+        head = u["text"].split("\n")[0][2:]
+        if k == "preamble":
+            pos[k] = start
+            continue
+        m = re.match(r"(\d+[A-Z]?)\. (.*)$", head)
+        if k.startswith("sec-"):
+            num, words = m.group(1), m.group(2).split()[:2]
+            rx = re.compile(rf"^{num}\.?\s+{re.escape(' '.join(words))}", re.I)
+        elif k.startswith("chapter-"):
+            rx = re.compile(r"^preamble$", re.I)
+        elif "-para-" in k:
+            num = m.group(1)
+            rx = re.compile(rf"^{num}\.(\s|\(|$)")
+        else:  # a Schedule
+            n = int(k.split("-")[1])
+            name = [w for w, v in ORD.items() if v == n][0]
+            rx = re.compile(rf"^{name} schedule\b", re.I)
+        j = i
+        while j < len(lines) and not rx.match(lines[j]):
+            j += 1
+        if j == len(lines):
+            raise ValueError(f"{k}: start not found in the as-enacted text")
+        if "-para-" in k:  # the heading line before the number belongs to the paragraph
+            h = j - 1
+            while not lines[h]:
+                h -= 1
+            j = h
+        pos[k] = j
+        i = j + 1
+    out = {}
+    ks = [k for k in order if k in pos]
+    for n, k in enumerate(ks):
+        a = pos[k] + 1
+        b = pos[ks[n + 1]] if n + 1 < len(ks) else len(lines)
+        seg = []
+        for l in lines[a:b]:
+            if not l:
+                continue
+            if CHAPTER_RX.match(l) or SCHEDULE_RX.match(l):
+                break
+            seg.append(l)
+        out[k] = seg
+    return out
+
+
+def as_enacted(raw2013: list[str], units: dict, notes: dict, act10_rx: str) -> tuple[dict, dict]:
+    """The Constitution as enacted, in the layout of the first consolidation (`units`, Veritas 2018).
+
+    For every unit the 2017 Act did not touch and whose words appear unchanged (same order, same case) in Veritas's
+    as-enacted text, the consolidated unit is used: same words, Veritas's consolidated line layout. Every other unit
+    (touched by the 2017 Act, or with any difference in words) is taken from the as-enacted text itself, one Word
+    paragraph per line. Returns (units, report {key: reason})."""
+    lines = [norm(l) for l in raw2013]
+    start = next(i for i, l in enumerate(lines) if l.startswith("We the people of Zimbabwe"))
+    stream = " " + tokens("\n".join(lines[start:])) + " "
+    order = list(units)
+    segs = docx_segments(raw2013, order, units)
+    out, report = {}, {}
+    for k in order:
+        u = units[k]
+        touched = any(re.search(act10_rx, n) for n in notes.get(k, []))
+        if not touched and (" " + tokens(body_of(u["text"])) + " ") in stream:
+            out[k] = u
+            continue
+        head = u["text"].split("\n")[0]
+        body = segs[k]
+        if "-para-" in k and body:
+            body = body[1:] if not PARA_RX.match(body[0]) else body
+        out[k] = {"label": u["label"], "kind": u["kind"], "text": "\n".join([head] + body) + "\n"}
+        report[k] = "amended in 2017" if touched else (
+            "letter case differs" if (" " + tokens(body_of(u["text"]), True) + " ") in stream.lower() else
+            "words differ")
+    return out, report
