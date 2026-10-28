@@ -24,20 +24,72 @@ W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 QUOTES = str.maketrans({"“": '"', "”": '"', "„": '"', "″": '"', "‘": "'", "’": "'",
                         "‚": "'", "′": "'", " ": " ", " ": " ", " ": " ", " ": " ",
                         "​": "", "­": "", "‐": "-", "‑": "-", "‒": "-", "−": "-",
-                        "―": "—", "﻿": "", "–": "—"})
+                        "―": "—", "﻿": "", "–": "—",
+                        "": "—", "⎯": "—", "": "•"})
 
 ORD = {"first": 1, "second": 2, "third": 3, "fourth": 4, "fifth": 5, "sixth": 6}
 
 
 # ---------------------------------------------------------------- documents -> raw lines
 
+def _numbering(z: zipfile.ZipFile) -> dict:
+    """{numId: (numFmt, lvlText, start)} for level 0 of each list in word/numbering.xml."""
+    try:
+        root = ET.fromstring(z.read("word/numbering.xml"))
+    except KeyError:
+        return {}
+    absn = {}
+    for a in root.iter(W + "abstractNum"):
+        for lvl in a.iter(W + "lvl"):
+            if lvl.get(W + "ilvl") == "0":
+                fmt = lvl.find(W + "numFmt")
+                txt = lvl.find(W + "lvlText")
+                st = lvl.find(W + "start")
+                absn[a.get(W + "abstractNumId")] = (fmt.get(W + "val") if fmt is not None else "decimal",
+                                                    txt.get(W + "val") if txt is not None else "%1",
+                                                    int(st.get(W + "val")) if st is not None else 1)
+    out = {}
+    for n in root.iter(W + "num"):
+        a = n.find(W + "abstractNumId")
+        if a is not None and a.get(W + "val") in absn:
+            out[n.get(W + "numId")] = absn[a.get(W + "val")]
+    return out
+
+
+def _fmt_num(n: int, fmt: str) -> str:
+    if fmt == "lowerLetter":
+        return chr(ord("a") + n - 1)
+    if fmt == "lowerRoman":
+        vals = [(10, "x"), (9, "ix"), (5, "v"), (4, "iv"), (1, "i")]
+        out = ""
+        for v, r in vals:
+            while n >= v:
+                out += r
+                n -= v
+        return out
+    return str(n)
+
+
 def docx_lines(b: bytes) -> list[str]:
-    """Paragraphs of word/document.xml, tabs kept as \\t (they separate numbers from text)."""
+    """Paragraphs of word/document.xml, tabs kept as \\t (they separate numbers from text). Word's automatic list
+    numbers (w:numPr) are not in the text runs, so they are generated from word/numbering.xml, counting per list."""
     with zipfile.ZipFile(BytesIO(b)) as z:
         root = ET.fromstring(z.read("word/document.xml"))
+        numbering = _numbering(z)
+    counters: dict = {}
     out = []
     for p in root.iter(W + "p"):
         parts = []
+        ppr = p.find(W + "pPr")
+        num = ppr.find(W + "numPr") if ppr is not None else None
+        if num is not None:
+            nid = num.find(W + "numId")
+            lvl = num.find(W + "ilvl")
+            nid = nid.get(W + "val") if nid is not None else None
+            if nid in numbering and (lvl is None or lvl.get(W + "val") == "0"):
+                fmt, txt, start = numbering[nid]
+                counters[nid] = counters.get(nid, start - 1) + 1
+                parts.append(txt.replace("%1", _fmt_num(counters[nid], fmt)) + "\t")
         for el in p.iter():
             if el.tag == W + "t":
                 parts.append(el.text or "")
