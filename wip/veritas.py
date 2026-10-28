@@ -230,8 +230,8 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
                 j = i
                 while j < len(lines) and not norm(lines[j]):
                     j += 1
-                if j < len(lines) and not SECTION_RX.match(lines[j]) and norm(lines[j]).upper() == norm(lines[j]):
-                    i = j + 1
+                if j < len(lines) and not SECTION_RX.match(lines[j]):
+                    i = j + 1  # the Chapter or Part title
                 continue
             m = SECTION_RX.match(rawl)
             if m and not rawl[:1] == " ":
