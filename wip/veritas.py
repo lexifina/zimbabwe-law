@@ -106,7 +106,10 @@ def docx_lines(b: bytes) -> list[str]:
 def doc_lines(path: str) -> list[str]:
     """antiword's UTF-8 text of a Word 97 file (no wrapping)."""
     r = subprocess.run(["antiword", "-m", "UTF-8.txt", "-w", "0", path], capture_output=True, check=True)
-    return r.stdout.decode("utf-8").replace("\r\n", "\n").split("\n")
+    lines = r.stdout.decode("utf-8").replace("\r\n", "\n").split("\n")
+    # antiword renders the Symbol-font dash that Veritas uses before a list ("consists of—") as "(": a "(" right
+    # after a letter and before the end of the line, a space or a quote is that dash.
+    return [re.sub(r'(?<=[A-Za-z])\((?=$|\s|")', "—", line) for line in lines]
 
 
 def antiword_version() -> str:
