@@ -1,0 +1,1 @@
+Zimbabwe has no corpus.json: main is built from corpus.d parts that carry their own <part>.PUBLISH. Verified: 10-constitution and 20-cyber-data-protection (see their .PUBLISH files); 21-criminal-law-code is deliberately unverified (ZimLII has not applied two 2024 amendments). README, LICENSE and jurisdiction.json in repo/ checked against them (2026-10-29, gitlaw-ZW-2).

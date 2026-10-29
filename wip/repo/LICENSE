@@ -1,0 +1,48 @@
+The Constitution of Zimbabwe comes from Veritas (www.veritaszim.net):
+
+  Veritas, Constitution of Zimbabwe: as enacted (Act 1 of 2013, Word .docx) and consolidated as amended up
+  to 30 September 2018, 7 May 2021, 20 June 2023 and 28 July 2026 (Word .doc), https://www.veritaszim.net,
+  retrieved 2026-10-28; Act 6 of 2026, SI 117 of 2026 and the titled list of 2023 statutory instruments,
+  retrieved 2026-10-29.
+
+Licence, as Veritas states it on every page of its website: "This work is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License" (CC BY-NC-SA 4.0).
+CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Attribution:
+
+  Source: Veritas (www.veritaszim.net), licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
+  4.0 International licence (CC BY-NC-SA 4.0).
+
+Veritas's own disclaimer: "Veritas has made every effort to ensure that this updated Constitution is reliable,
+but cannot take legal responsibility for any errors."
+
+The other acts come from ZimLII (Zimbabwe Legal Information Institute, on the Laws.Africa Peachjam platform):
+
+  ZimLII, https://zimlii.org, point-in-time versions of each act, read from archived copies of its pages on the
+  Internet Archive (https://web.archive.org), retrieved 2026-10-29.
+
+Licence and terms, as ZimLII states them (terms of use s. 9): CC BY-NC 4.0, crediting ZimLII as the source.
+CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Attribution:
+
+  Source: ZimLII (https://zimlii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0
+  International licence (CC BY-NC 4.0).
+
+The texts may be used only for non-commercial purposes, and material adapted from Veritas must be shared under
+the same licence. This repository is private; whether and how it may be published is the owner's decision under these
+terms.
+
+Changes made by Lexifina: each edition was converted to one Markdown file per provision, one paragraph per
+line; spacing, quotes, dashes and list bullets were normalised; Veritas's amendment notes, footnotes, Chapter
+and Part headings were left out; the as-enacted text was laid out in the lines of the later editions; and the
+editions were arranged as git commits credited to the laws Veritas names for each change. The wording of the
+law was not changed. ZimLII acts were treated the same way, with ZimLII's editorial notes as the credit evidence.
+Neither Veritas, ZimLII nor Laws.Africa endorses this repository.
+
+The Constitution's provision files, being adaptations of Veritas's editions, are shared under CC BY-NC-SA 4.0;
+the other acts' provision files under CC BY-NC 4.0. Lexifina's own
+contributions that are not adaptations of those editions (the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

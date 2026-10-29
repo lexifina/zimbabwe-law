@@ -128,12 +128,16 @@ def norm(s: str) -> str:
     s = re.sub(r"^(\d+[A-Z]?\.)\s*(\()", r"\1 \2", s)   # "2.(1) An emergency" -> "2. (1) An emergency"
     s = re.sub(r"(\[image\] ?)+", "[image] ", s).strip()
     s = s.replace(" ;", ";").replace(" ,", ",")
+    s = s.replace("),(", "), (")                      # "subsections (3),(4), (5)": one spacing for lists
+    s = re.sub(r"^•\s*", "", s)                    # list bullets: Word auto-bullets are lost in some exports
+    s = re.sub(r"^(\(\d+[a-z]?\)) …\]$", r"\1 …", s)  # "(3) …]": the bracket of the note below, misplaced
     return s
 
 
 NOTE_RX = re.compile(r"^\[[^\]]*\b(amended|substituted|inserted|repealed|corrected|renumbered|added)\b.*"
                      r"\b(Act|SI|S\.I\.|Statutory Instrument)\b", re.I)
-SECTION_RX = re.compile(r"^\t?(\d{1,3}[A-Z]?)\t+(\S.*)$")       # raw line, column 0: "43A\tRegistration of Voters"
+# raw line, column 0: "43A\tRegistration of Voters" (2026 has "159A\xa0\xa0Delimitation Commission")
+SECTION_RX = re.compile(r"^\t?(\d{1,3}[A-Z]?)(?:\t|\xa0)+(\S.*)$")
 SCHEDULE_RX = re.compile(r"^(first|second|third|fourth|fifth|sixth) schedule\b(.*)$", re.I)
 CHAPTER_RX = re.compile(r"^(chapter|part)\s*(\d+|[IVX]+)$|^(chapter|part)\s+\d+\b", re.I)
 PARA_RX = re.compile(r"^(\d{1,2}[A-Z]?)\.(?=\s|\(|$)")
@@ -174,17 +178,27 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
     units: dict = {}
     notes: dict = {}
     chapter: dict = {}
-    cur = {"key": "preamble", "label": "Preamble", "kind": "preamble", "head": "Preamble", "lines": []}
+    cur = {"key": "preamble", "label": "Preamble", "kind": "preamble", "head": "Preamble", "lines": [],
+           "chapter": "preamble"}
     order = []
     ch = "preamble"
     sched = None          # (number, heading) while inside a Schedule
     in_arrangement = False
 
+    part_notes: list = []   # notes under a Part heading ("[Part 6 repealed by ...]") apply to its sections
+
     def flush():
         if cur is None:
             return
         body = [x for x in cur["lines"] if x]
+        if cur["key"] == "_heading":
+            if body:
+                raise ValueError(f"text between a Chapter or Part heading and its first section: {body[:3]}")
+            return
         if not body:
+            # a repealed section ("251 …", or a heading with only its note): no text, but its notes are evidence
+            if cur.get("notes") and cur["key"] not in units:
+                notes[cur["key"]] = cur["notes"]
             return
         k = cur["key"]
         if k in units:
@@ -236,6 +250,9 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
             if CHAPTER_RX.match(t) and not rawl[:1].isspace():
                 if t.lower().startswith("chapter"):
                     ch = int(re.search(r"\d+", t).group(0))
+                flush()
+                cur = {"key": "_heading", "label": "", "kind": "", "head": "", "lines": [], "notes": []}
+                part_notes = []
                 # the Chapter or Part title line that follows is a heading too: skip it
                 j = i
                 while j < len(lines) and not norm(lines[j]):
@@ -248,9 +265,11 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
                 flush()
                 num, head = m.group(1), norm(m.group(2))
                 cur = {"key": f"sec-{_key(num)}", "label": f"Section {num}", "kind": "sec",
-                       "head": f"{num}. {head}", "lines": [], "notes": [], "chapter": ch}
+                       "head": f"{num}. {head}", "lines": [], "notes": list(part_notes), "chapter": ch}
                 continue
             if is_note(t):
+                if cur["key"] == "_heading":
+                    part_notes.append(t)
                 cur.setdefault("notes", []).append(t)
                 continue
             if t.lower() == "preamble" and ch != "preamble" and not rawl[:1] == " ":
@@ -300,6 +319,19 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
                 and nxt < len(lines) and PARA_RX.match(norm(lines[nxt]))):
             pending_head = t
             continue
+        # a heading wrapped over two column-0 lines ("Parliament not to deal with ... except on" / "recommendation of
+        # Vice-President, ..."), the second followed by the numbered line
+        if (not rawl[:1].isspace() and not t.startswith(("(", "[", '"')) and t.upper() != t
+                and not re.search(r"[.;:—,]$", t) and nxt < len(lines) and not lines[nxt][:1].isspace()):
+            t2 = norm(lines[nxt])
+            n2 = nxt + 1
+            while n2 < len(lines) and not norm(lines[n2]):
+                n2 += 1
+            if (t2 and not PARA_RX.match(t2) and t2[:1].islower() and n2 < len(lines)
+                    and PARA_RX.match(norm(lines[n2]))):
+                pending_head = f"{t} {t2}"
+                i = nxt + 1
+                continue
         cur["lines"].append(t)
     flush()
     return units, notes, chapter
@@ -323,87 +355,197 @@ def body_of(text: str) -> str:
     return "\n".join(text.split("\n")[1:])
 
 
+PART_RX = re.compile(r"^part\s*(\d+|[IVX]+)\b", re.I)
+SCHED_HEAD_RX = {n: re.compile(rf"^{w} schedule\s*(\(|$)", re.I) for w, n in ORD.items()}
+
+
+def docx_norm_lines(raw: list[str]) -> list[str]:
+    """The as-enacted .docx, normalised: `norm`, plus the PDF line-break hyphen spacing of this export
+    ("Vice- President" -> "Vice-President"; the consolidations never have a letter, hyphen, space, letter)."""
+    return [re.sub(r"(?<=[A-Za-z])- (?=[A-Za-z])", "-", norm(l)) for l in raw]
+
+
+def _fold(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
 def docx_segments(raw: list[str], order: list[str], units: dict) -> dict:
-    """Cut the as-enacted .docx into the units of a consolidated text (same keys), by finding each unit's start in
-    document order: a section by its number and the first words of its heading, a Schedule paragraph by its number
-    after its heading line, a Schedule by its title. Chapter and Part headings are dropped. Returns {key: [lines]}."""
-    lines = [norm(l) for l in raw]
+    """Cut the as-enacted .docx into the units of a consolidated text (same keys, same order).
+
+    Each unit's start is searched in document order, from the end of the previous unit:
+    - a section: its number and the first two words of its heading ("124. Composition", "47 Chapter 4");
+    - a Chapter's preamble: a line "Preamble";
+    - a Schedule paragraph: its heading line (as in the consolidation, letter case and punctuation aside) followed by
+      a line starting with its number; the arrangement of paragraphs ("1.  Interpretation in Fifth Schedule.") never
+      matches, because there the number comes first;
+    - a Schedule: "<ordinal> SCHEDULE" followed by "(" or the end of the line (not the arrangement's
+      "FIRST SCHEDULE:  National Flag ..."); its section references and its title are skipped.
+    Inside a segment, Part headings are skipped with their title line, and a Chapter or Schedule heading ends it.
+    Returns {key: [lines of the unit's body]} (no heading line)."""
+    lines = docx_norm_lines(raw)
     start = next(i for i, l in enumerate(lines) if l.startswith("We the people of Zimbabwe"))
-    pos = {}
+
+    def next_text(j: int) -> int:
+        while j < len(lines) and not lines[j]:
+            j += 1
+        return j
+
+    pos: dict = {}      # key -> index of the first body line
     i = start
-    sched_seen = False
     for k in order:
         u = units[k]
         head = u["text"].split("\n")[0][2:]
         if k == "preamble":
             pos[k] = start
             continue
-        m = re.match(r"(\d+[A-Z]?)\. (.*)$", head)
-        if k.startswith("sec-"):
-            num, words = m.group(1), m.group(2).split()[:2]
-            rx = re.compile(rf"^{num}\.?\s+{re.escape(' '.join(words))}", re.I)
-        elif k.startswith("chapter-"):
-            rx = re.compile(r"^preamble$", re.I)
-        elif "-para-" in k:
-            num = m.group(1)
-            rx = re.compile(rf"^{num}\.(\s|\(|$)")
-        else:  # a Schedule
-            n = int(k.split("-")[1])
-            name = [w for w, v in ORD.items() if v == n][0]
-            rx = re.compile(rf"^{name} schedule\b", re.I)
         j = i
-        while j < len(lines) and not rx.match(lines[j]):
-            j += 1
-        if j == len(lines):
+        if k.startswith("sec-"):
+            m = re.match(r"(\d+[A-Z]?)\. (.*)$", head)
+            rx = re.compile(rf"^{m.group(1)}\.?\s+{re.escape(' '.join(m.group(2).split()[:2]))}", re.I)
+            while j < len(lines) and not rx.match(lines[j]):
+                j += 1
+            body = j + 1
+        elif k.startswith("chapter-"):
+            while j < len(lines) and lines[j].lower() != "preamble":
+                j += 1
+            body = j + 1
+        elif "-para-" in k:
+            m = re.match(r"(\d+[A-Z]?)\. (.*)$", head)
+            want = _fold(m.group(2))
+            num = re.compile(rf"^{m.group(1)}\.(\s|\(|$)")
+            while j < len(lines):
+                if lines[j] and _fold(lines[j]) == want:
+                    n = next_text(j + 1)
+                    if n < len(lines) and num.match(lines[n]):
+                        break
+                j += 1
+            body = j + 1
+        else:
+            rx = SCHED_HEAD_RX[int(k.split("-")[1])]
+            while j < len(lines) and not rx.match(lines[j]):
+                j += 1
+            body = next_text(j + 1)
+            if body < len(lines) and lines[body].startswith("(") and "(" not in lines[j]:
+                body = next_text(body + 1)          # "(Sections 94, 104, ...)" on its own line
+            body = next_text(body) + 1              # the Schedule's title
+        if j >= len(lines):
             raise ValueError(f"{k}: start not found in the as-enacted text")
-        if "-para-" in k:  # the heading line before the number belongs to the paragraph
-            h = j - 1
-            while not lines[h]:
-                h -= 1
-            j = h
-        pos[k] = j
-        i = j + 1
+        pos[k] = (j, body)
+        i = body
     out = {}
     ks = [k for k in order if k in pos]
     for n, k in enumerate(ks):
-        a = pos[k] + 1
-        b = pos[ks[n + 1]] if n + 1 < len(ks) else len(lines)
+        a = pos[k][1] if k != "preamble" else start
+        b = pos[ks[n + 1]][0] if n + 1 < len(ks) else len(lines)
         seg = []
-        for l in lines[a:b]:
+        j = a
+        while j < b:
+            l = lines[j]
+            j += 1
             if not l:
                 continue
-            if CHAPTER_RX.match(l) or SCHEDULE_RX.match(l):
+            if CHAPTER_RX.match(l) and l.lower().startswith("chapter") or any(r.match(l) for r in SCHED_HEAD_RX.values()):
                 break
+            if PART_RX.match(l):
+                rest = PART_RX.sub("", l).strip()
+                if not rest:                         # the title is on the next line
+                    t = next_text(j)
+                    if t < b and lines[t].upper() == lines[t] or (t < b and "[image]" in lines[t]):
+                        j = t + 1
+                continue
             seg.append(l)
         out[k] = seg
     return out
 
 
+def _wrapped(prev: str, cur: str) -> bool:
+    """A PDF line wrap kept in the .docx: the line goes on from the one before it."""
+    if not prev or not cur:
+        return False
+    if cur[0].islower():
+        return True
+    if prev[-1] in ".;:—!?\"']" or prev.endswith((" and", " or")):
+        return False
+    return not re.match(r'^("|\[|\d+[A-Z]?\.)', cur)
+
+
+def relayout(ref_lines: list[str], src_lines: list[str]) -> list[str]:
+    """The words of `src_lines` (the as-enacted text), broken into lines like `ref_lines` (the consolidation):
+    where the two texts agree word for word, a line starts where the consolidation starts one; elsewhere, where the
+    .docx starts a paragraph that is not a PDF line wrap. Only line breaks move; every word comes from the source."""
+    from difflib import SequenceMatcher
+    ref, ref_start = [], []
+    for l in ref_lines:
+        for n, w in enumerate(l.split()):
+            ref.append(w)
+            ref_start.append(n == 0)
+    src, src_start = [], []
+    prev = ""
+    for l in src_lines:
+        for n, w in enumerate(l.split()):
+            src.append(w)
+            src_start.append(n == 0 and not _wrapped(prev, l))
+        prev = l
+    breaks = {0}
+    sm = SequenceMatcher(None, ref, src, autojunk=False)
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == "equal":
+            breaks.update(j1 + d for d in range(i2 - i1) if ref_start[i1 + d])
+        elif tag in ("replace", "insert"):
+            breaks.update(j for j in range(j1, j2) if src_start[j])
+            if tag == "replace" and ref_start[i1]:
+                breaks.add(j1)
+    out, cur = [], []
+    for j, w in enumerate(src):
+        if j in breaks and cur:
+            out.append(" ".join(cur))
+            cur = []
+        cur.append(w)
+    if cur:
+        out.append(" ".join(cur))
+    # a line that differs from a consolidation line only in letter case takes the consolidation's form (all-capitals
+    # headings in one export, title case in the other: Word formatting, not wording)
+    folded = {l.casefold(): l for l in ref_lines}
+    return [folded.get(l.casefold(), l) for l in out]
+
+
 def as_enacted(raw2013: list[str], units: dict, notes: dict, act10_rx: str) -> tuple[dict, dict]:
     """The Constitution as enacted, in the layout of the first consolidation (`units`, Veritas 2018).
 
-    For every unit the 2017 Act did not touch and whose words appear unchanged (same order, same case) in Veritas's
-    as-enacted text, the consolidated unit is used: same words, Veritas's consolidated line layout. Every other unit
-    (touched by the 2017 Act, or with any difference in words) is taken from the as-enacted text itself, one Word
-    paragraph per line. Returns (units, report {key: reason})."""
-    lines = [norm(l) for l in raw2013]
+    - A unit the 2017 Act did not touch, whose words appear unchanged (same order) in Veritas's as-enacted text, is
+      the consolidated unit: same words, the consolidation's line layout. Letter case is compared too, except where
+      the two exports differ only in letter case (all-capitals headings in one, sentence case in the other: Word
+      formatting, not wording); there the consolidation's form is kept.
+    - Every other unit (touched by the 2017 Act, or with any difference in words) is the as-enacted text itself, its
+      lines broken like the consolidation's wherever the words agree (`relayout`).
+    Returns (units, report {key: reason})."""
+    lines = docx_norm_lines(raw2013)
     start = next(i for i, l in enumerate(lines) if l.startswith("We the people of Zimbabwe"))
     stream = " " + tokens("\n".join(lines[start:])) + " "
+    stream_fold = stream.lower()
     order = list(units)
     segs = docx_segments(raw2013, order, units)
     out, report = {}, {}
     for k in order:
         u = units[k]
         touched = any(re.search(act10_rx, n) for n in notes.get(k, []))
-        if not touched and (" " + tokens(body_of(u["text"])) + " ") in stream:
+        body = " " + tokens(body_of(u["text"])) + " "
+        if not touched and body in stream:
             out[k] = u
             continue
+        if not touched and body.lower() in stream_fold:
+            out[k] = u
+            report[k] = "letter case differs only: consolidation's form kept"
+            continue
         head = u["text"].split("\n")[0]
-        body = segs[k]
-        if "-para-" in k and body:
-            body = body[1:] if not PARA_RX.match(body[0]) else body
-        out[k] = {"label": u["label"], "kind": u["kind"], "text": "\n".join([head] + body) + "\n"}
-        report[k] = "amended in 2017" if touched else (
-            "letter case differs" if (" " + tokens(body_of(u["text"]), True) + " ") in stream.lower() else
-            "words differ")
+        seg = segs[k]
+        if not seg:
+            raise ValueError(f"{k}: empty as-enacted segment")
+        new = relayout(body_of(u["text"]).rstrip("\n").split("\n"), seg)
+        out[k] = {"label": u["label"], "kind": u["kind"], "text": "\n".join([head] + new) + "\n"}
+        report[k] = ("amended in 2017" if touched else
+                     "same text (the exports differ only in images or layout)" if out[k]["text"] == u["text"] else
+                     "words differ")
     return out, report
+
+
