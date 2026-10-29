@@ -1,0 +1,423 @@
+{
+ "country": "ZW",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Zimbabwe",
+   "url": "https://www.veritaszim.net/node/8104",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20of%20Zimbabwe%20Amendment%20%28No.%2020%29.docx",
+     "sha256": "5ff495cce02479062b7a6669cef438eec322be16e00b9cc9cb446c03fdef490a"
+    },
+    {
+     "from": "2013-08-22",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2017-09-07",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2018-09-30",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Updated%20to%202021.doc",
+     "sha256": "dc8f9406e7e4dc69f47437e6d7e48351c6d41e3e7acf56f5c0b94f3c3d477083"
+    },
+    {
+     "from": "2021-05-07",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Updated%20to%202021.doc",
+     "sha256": "dc8f9406e7e4dc69f47437e6d7e48351c6d41e3e7acf56f5c0b94f3c3d477083"
+    },
+    {
+     "from": "2023-06-20",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282023%29.doc",
+     "sha256": "83703224dea8e79045936016631fbd1da86e7c42657f5ff0584fde762ac05da4"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 387,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282026%29.doc",
+     "sha256": "4c888486cf7cc423b44530705f3a6e6a2c7e0700afdb4fea2e5ba10c49a166fe"
+    },
+    {
+     "from": "2026-07-28",
+     "units": 387,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282026%29.doc",
+     "sha256": "4c888486cf7cc423b44530705f3a6e6a2c7e0700afdb4fea2e5ba10c49a166fe"
+    }
+   ]
+  },
+  {
+   "slug": "cyber-data-protection",
+   "short": "Cyber and Data Protection Act",
+   "title": "Cyber and Data Protection Act, 2021",
+   "url": "https://zimlii.org/akn/zw/act/2021/5",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20251206091225id_/https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+     "sha256": "5978b092f46002d3a26b5282b27bf9f2884b751b391458575030bdaf11774553"
+    }
+   ]
+  },
+  {
+   "slug": "marriages",
+   "short": "Marriages Act",
+   "title": "Marriages Act, 2022",
+   "url": "https://zimlii.org/akn/zw/act/2022/1",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 55,
+     "source_url": "https://zimlii.org/akn/zw/act/2022/1/eng@2022-05-27",
+     "sha256": "2af6cd8cf3137abb63b909ce80ddf9710db197ae120f35572ebc01f4f5602cfa"
+    }
+   ]
+  },
+  {
+   "slug": "freedom-of-information",
+   "short": "Freedom of Information Act",
+   "title": "Freedom of Information Act, 2020",
+   "url": "https://zimlii.org/akn/zw/act/2020/1",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 43,
+     "source_url": "https://zimlii.org/akn/zw/act/2020/1/eng@2020-07-01",
+     "sha256": "b40a06f2835bbbf12e70102b175fc3149381e1f4f7ce956095b4892874f3b2b6"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-protection",
+   "short": "Consumer Protection Act",
+   "title": "Consumer Protection Act, 2019",
+   "url": "https://zimlii.org/akn/zw/act/2019/5",
+   "versions": [
+    {
+     "from": "2019-12-10",
+     "units": 95,
+     "source_url": "https://zimlii.org/akn/zw/act/2019/5/eng@2019-12-10",
+     "sha256": "754eb0e083efb44b70581515e259a4978efe79cb986f8ec083585658237cd54e"
+    }
+   ]
+  },
+  {
+   "slug": "maintenance-of-peace-order",
+   "short": "Maintenance of Peace and Order Act",
+   "title": "Maintenance of Peace and Order Act, 2019",
+   "url": "https://zimlii.org/akn/zw/act/2019/9",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 27,
+     "source_url": "https://zimlii.org/akn/zw/act/2019/9/eng@2019-11-15",
+     "sha256": "86c48a77380e56317e3906b21d0fd5f7959e65fd0aa3ea503dd50132c9fca432"
+    }
+   ]
+  },
+  {
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act, 2018",
+   "url": "https://zimlii.org/akn/zw/act/2018/7",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 203,
+     "source_url": "https://zimlii.org/akn/zw/act/2018/7/eng@2018-06-25",
+     "sha256": "fe49f98f206966a41365c7ff7f098a257c644f8c0f7fa684417d931e90a546e0"
+    }
+   ]
+  },
+  {
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act, 2018",
+   "url": "https://zimlii.org/akn/zw/act/2018/11",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 152,
+     "source_url": "https://zimlii.org/akn/zw/act/2018/11/eng@2018-08-31",
+     "sha256": "28eb968cacfe097935a3e977c8cb2857ebf8d212d5a96cc57efdf4d69ddd91a9"
+    }
+   ]
+  },
+  {
+   "slug": "constitutional-court",
+   "short": "Constitutional Court Act",
+   "title": "Constitutional Court Act, 2020",
+   "url": "https://zimlii.org/akn/zw/act/2020/5",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 29,
+     "source_url": "https://zimlii.org/akn/zw/act/2020/5/eng@2021-05-14",
+     "sha256": "b8d6e284022da491853adc689ccdf187d448b5af438d4c668f87744f07560c4f"
+    }
+   ]
+  },
+  {
+   "slug": "international-treaties",
+   "short": "International Treaties Act",
+   "title": "International Treaties Act, 2020",
+   "url": "https://zimlii.org/akn/zw/act/2020/2",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 14,
+     "source_url": "https://zimlii.org/akn/zw/act/2020/2/eng@2020-07-10",
+     "sha256": "44bbcbc55184c2a249d21cb6075594550a9b46ff9a5221a26a9e191f9888d257"
+    }
+   ]
+  },
+  {
+   "slug": "death-penalty-abolition",
+   "short": "Death Penalty Abolition Act",
+   "title": "Death Penalty Abolition Act, 2024",
+   "url": "https://zimlii.org/akn/zw/act/2024/4",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 9,
+     "source_url": "https://zimlii.org/akn/zw/act/2024/4/eng@2024-12-31",
+     "sha256": "1e96aa8f71a84234326e90f5b277314d229fd0be1f6910f0ae589ee74cced811"
+    }
+   ]
+  },
+  {
+   "slug": "investment-development-agency",
+   "short": "Zimbabwe Investment and Development Agency Act",
+   "title": "Zimbabwe Investment and Development Agency Act, 2019",
+   "url": "https://zimlii.org/akn/zw/act/2019/10",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 54,
+     "source_url": "https://zimlii.org/akn/zw/act/2019/10/eng@2020-02-07",
+     "sha256": "13b31e248ffca401c9330fd855b3519fd63058db9a9268a09b22fcecf588d824"
+    }
+   ]
+  },
+  {
+   "slug": "coroners-office",
+   "short": "Coroner's Office Act",
+   "title": "Coroner's Office Act, 2019",
+   "url": "https://zimlii.org/akn/zw/act/2019/12",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 24,
+     "source_url": "https://zimlii.org/akn/zw/act/2019/12/eng@2020-03-06",
+     "sha256": "5cb8d2c024a7fef14d222ee911c0e5df211b9b26ed68ec4a84994c3fb2a82322"
+    }
+   ]
+  },
+  {
+   "slug": "public-finance-management",
+   "short": "Public Finance Management Act",
+   "title": "Public Finance Management Act",
+   "url": "https://zimlii.org/akn/zw/act/2009/11",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 96,
+     "source_url": "https://zimlii.org/akn/zw/act/2009/11/eng@2018-03-14",
+     "sha256": "1ee41df9e62bd80d6a8927d584e32aa891483fc1dfbf20943521084e935e0ab3"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 96,
+     "source_url": "https://zimlii.org/akn/zw/act/2009/11/eng@2024-12-31",
+     "sha256": "e57896b39fc1030b94a2e5fdda33e66616496c0b86d0be707482b0c46b92d752"
+    }
+   ]
+  },
+  {
+   "slug": "administration-of-estates",
+   "short": "Administration of Estates Act",
+   "title": "Administration of Estates Act",
+   "url": "https://zimlii.org/akn/zw/act/ord/1907/6",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 148,
+     "source_url": "https://zimlii.org/akn/zw/act/ord/1907/6/eng@2016-12-31",
+     "sha256": "7a8d646d19c75247d0f82d068a330e9c16d0eb658781a5401dca0ada688641c7"
+    },
+    {
+     "from": "2025-02-24",
+     "units": 161,
+     "source_url": "https://zimlii.org/akn/zw/act/ord/1907/6/eng@2025-02-24",
+     "sha256": "bfb39da5cb720e9f9d02cdf7f4da96b40ed1142087989e3f82a972f15d2a6afb"
+    }
+   ]
+  },
+  {
+   "slug": "national-social-security-authority",
+   "short": "National Social Security Authority Act",
+   "title": "National Social Security Authority Act",
+   "url": "https://zimlii.org/akn/zw/act/1989/12",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 57,
+     "source_url": "https://zimlii.org/akn/zw/act/1989/12/eng@2016-12-31",
+     "sha256": "23d6dea709fb6075023bd0559bc4559aae10844b69ee46a97fc16b82f6f6196e"
+    },
+    {
+     "from": "2025-04-11",
+     "units": 57,
+     "source_url": "https://zimlii.org/akn/zw/act/1989/12/eng@2025-04-11",
+     "sha256": "489607fd282dde3ddddb75b65ce6e09b74a254b8bdb3407bbef4faa4f8f2a16d"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation",
+   "short": "Civil Aviation Act",
+   "title": "Civil Aviation Act",
+   "url": "https://zimlii.org/akn/zw/act/1998/7",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 86,
+     "source_url": "https://zimlii.org/akn/zw/act/1998/7/eng@2016-12-31",
+     "sha256": "72e4280ca415393d416d84e8f824e01a60bbc1ffa4c0cf70c6b897472ff57ccf"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 100,
+     "source_url": "https://zimlii.org/akn/zw/act/1998/7/eng@2018-07-20",
+     "sha256": "e4a6bc5d62ff3a2fad37ad8979c693da4a3de2eb0faeec7feb30693e334a9a6c"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 114,
+     "source_url": "https://zimlii.org/akn/zw/act/1998/7/eng@2024-12-31",
+     "sha256": "bacae825e414a8cb4a6e92b2a71900a442b487347e0f9fb824cfc861367ad7d6"
+    }
+   ]
+  },
+  {
+   "slug": "harmful-liquids",
+   "short": "Harmful Liquids Act",
+   "title": "Harmful Liquids Act",
+   "url": "https://zimlii.org/akn/zw/act/1949/27",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 10,
+     "source_url": "https://zimlii.org/akn/zw/act/1949/27/eng@2016-12-31",
+     "sha256": "7b9de9fc3e6e7327f0996ec6c0298a175e72c1ba59dc8a3b2d73b009c451f3cd"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 10,
+     "source_url": "https://zimlii.org/akn/zw/act/1949/27/eng@2025-06-06",
+     "sha256": "9654ad9429f494704a5847609a4e3ae5e3df094a9ca7732791369f7b649031fe"
+    }
+   ]
+  },
+  {
+   "slug": "agricultural-finance",
+   "short": "Agricultural Finance Act",
+   "title": "Agricultural Finance Act",
+   "url": "https://zimlii.org/akn/zw/act/1971/6",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 73,
+     "source_url": "https://zimlii.org/akn/zw/act/1971/6/eng@2016-12-31",
+     "sha256": "63910d085c7d83bfa09f02300f054435f9455831e7c97f7a187ddd75ebbee48f"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 52,
+     "source_url": "https://zimlii.org/akn/zw/act/1971/6/eng@2024-12-31",
+     "sha256": "2985879bd549e4906f0553f869689512e829c52641417d46bd4dd065a9e7113d"
+    }
+   ]
+  },
+  {
+   "slug": "national-peace-and-reconciliation-commission",
+   "short": "National Peace and Reconciliation Commission Act",
+   "title": "National Peace and Reconciliation Commission Act",
+   "url": "https://zimlii.org/akn/zw/act/2017/11",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 37,
+     "source_url": "https://zimlii.org/akn/zw/act/2017/11/eng@2018-01-05",
+     "sha256": "b3d3ead6a154630b2f60ee42da95d5b082172cf823cf5959746b79c06a56911c"
+    }
+   ]
+  },
+  {
+   "slug": "land-commission",
+   "short": "Land Commission Act",
+   "title": "Land Commission Act",
+   "url": "https://zimlii.org/akn/zw/act/2017/12",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 96,
+     "source_url": "https://zimlii.org/akn/zw/act/2017/12/eng@2018-02-26",
+     "sha256": "e10f95151942280d241608593070694fe3b571db33bdf46dfd536a51f1696792"
+    }
+   ]
+  },
+  {
+   "slug": "veterans-of-the-liberation-struggle",
+   "short": "Veterans of the Liberation Struggle Act",
+   "title": "Veterans of the Liberation Struggle Act, 2020",
+   "url": "https://zimlii.org/akn/zw/act/2020/3",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 40,
+     "source_url": "https://zimlii.org/akn/zw/act/2020/3/eng@2020-09-04",
+     "sha256": "97fb85523d24ba032c6ec8c322560731f73e89cef3a42a91ef3f6127d5417494"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement-and-disposal-of-public-assets",
+   "short": "Public Procurement and Disposal of Public Assets Act",
+   "title": "Public Procurement and Disposal of Public Assets Act",
+   "url": "https://zimlii.org/akn/zw/act/2017/5",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 135,
+     "source_url": "https://zimlii.org/akn/zw/act/2017/5/eng@2018-01-01",
+     "sha256": "6b0b64d8dfc046362248623b40d4da17b7d8eee87e298a3d127b6e5671c91c60"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 135,
+     "source_url": "https://zimlii.org/akn/zw/act/2017/5/eng@2020-02-07",
+     "sha256": "646207851dc4b31600b19da44e606d70a70726ddf4e82dd05969661a95d3671a"
+    }
+   ]
+  }
+ ]
+}

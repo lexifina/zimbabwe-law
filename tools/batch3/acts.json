@@ -1,0 +1,107 @@
+{
+ "part": "31-batch3",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "ZimLII",
+  "hosts": [
+   "zimlii.org",
+   "www.zimlii.org"
+  ],
+  "cc": "zw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "country": {
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "slug": "zimbabwe",
+  "lang": "en",
+  "tz": "Africa/Harare",
+  "future_branch": "future",
+  "publisher": {
+   "name": "ZimLII",
+   "email": "zimlii@zimlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every ZimLII version is dated by its own expression date.",
+   "source": "https://zimlii.org/legislation/"
+  },
+  "licence_note": "Source: ZimLII (https://zimlii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "act_publisher": {
+  "name": "ZimLII",
+  "email": "zimlii@zimlii.invalid"
+ },
+ "sources": [
+  {
+   "name": "ZimLII (on the Laws.Africa Peachjam platform)",
+   "url": "https://zimlii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting ZimLII as the source (https://zimlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/zw/act/<year>/<num>/eng@<date>. Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1998/7",
+   "slug": "civil-aviation",
+   "short": "Civil Aviation Act",
+   "title": "Civil Aviation Act",
+   "label": "Act 7 of 1998"
+  },
+  {
+   "work": "1949/27",
+   "slug": "harmful-liquids",
+   "short": "Harmful Liquids Act",
+   "title": "Harmful Liquids Act",
+   "label": "Act 27 of 1949"
+  },
+  {
+   "work": "1971/6",
+   "slug": "agricultural-finance",
+   "short": "Agricultural Finance Act",
+   "title": "Agricultural Finance Act",
+   "label": "Act 6 of 1971"
+  },
+  {
+   "work": "2017/11",
+   "slug": "national-peace-and-reconciliation-commission",
+   "short": "National Peace and Reconciliation Commission Act",
+   "title": "National Peace and Reconciliation Commission Act",
+   "label": "Act 11 of 2017"
+  },
+  {
+   "work": "2017/12",
+   "slug": "land-commission",
+   "short": "Land Commission Act",
+   "title": "Land Commission Act",
+   "label": "Act 12 of 2017"
+  },
+  {
+   "work": "2020/3",
+   "slug": "veterans-of-the-liberation-struggle",
+   "short": "Veterans of the Liberation Struggle Act",
+   "title": "Veterans of the Liberation Struggle Act, 2020",
+   "label": "Act 3 of 2020"
+  },
+  {
+   "work": "2017/5",
+   "slug": "public-procurement-and-disposal-of-public-assets",
+   "short": "Public Procurement and Disposal of Public Assets Act",
+   "title": "Public Procurement and Disposal of Public Assets Act",
+   "label": "Act 5 of 2017"
+  }
+ ],
+ "decisions": [
+  "Part 31-batch3: further ZimLII acts under the rule of part 30-batch2: acts enacted after the Law Development Commission's consolidation as at 31 December 2016, as ZimLII publishes them, and older acts whose newest ZimLII version is from 2024 or later; each with every expression ZimLII lists readable and no amendment waiting to be applied.",
+  "The acts in this part name ZimLII as their own publisher: the country publisher is Veritas, the source of the Constitution."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and wrappers and chose the acts; the shared Peachjam adapter does the parsing. No model wrote, summarised or transformed legal text."
+ ]
+}

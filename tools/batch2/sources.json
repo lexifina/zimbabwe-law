@@ -1,0 +1,278 @@
+{
+ "lii": "ZimLII",
+ "acts": {
+  "2022/1": {
+   "expressions": {
+    "2022-05-27": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-43",
+     "capture": "20251005185955",
+     "original": "https://zimlii.org/akn/zw/act/2022/1/eng@2022-05-27",
+     "url": "cc:crawl-data/CC-MAIN-2025-43/segments/1759648357946.30/warc/CC-MAIN-20251005175907-20251005205907-00390.warc.gz:1074578661:37311",
+     "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648357946.30/warc/CC-MAIN-20251005175907-20251005205907-00390.warc.gz",
+     "offset": "1074578661",
+     "length": "37311",
+     "sha256": "2af6cd8cf3137abb63b909ce80ddf9710db197ae120f35572ebc01f4f5602cfa"
+    }
+   }
+  },
+  "2020/1": {
+   "expressions": {
+    "2020-07-01": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260315080057",
+     "original": "https://zimlii.org/akn/zw/act/2020/1/eng@2020-07-01",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/warc/CC-MAIN-20260315072004-20260315102004-00600.warc.gz:816676937:40755",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/warc/CC-MAIN-20260315072004-20260315102004-00600.warc.gz",
+     "offset": "816676937",
+     "length": "40755",
+     "sha256": "b40a06f2835bbbf12e70102b175fc3149381e1f4f7ce956095b4892874f3b2b6"
+    }
+   }
+  },
+  "2019/5": {
+   "expressions": {
+    "2019-12-10": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-04",
+     "capture": "20260119060049",
+     "original": "https://zimlii.org/akn/zw/act/2019/5/eng@2019-12-10",
+     "url": "cc:crawl-data/CC-MAIN-2026-04/segments/1768220469437.53/warc/CC-MAIN-20260119041229-20260119071229-00272.warc.gz:888245670:109957",
+     "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469437.53/warc/CC-MAIN-20260119041229-20260119071229-00272.warc.gz",
+     "offset": "888245670",
+     "length": "109957",
+     "sha256": "754eb0e083efb44b70581515e259a4978efe79cb986f8ec083585658237cd54e"
+    }
+   }
+  },
+  "2019/9": {
+   "expressions": {
+    "2019-11-15": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260312044714",
+     "original": "https://zimlii.org/akn/zw/act/2019/9/eng@2019-11-15",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687278137.43/warc/CC-MAIN-20260312033706-20260312063706-00426.warc.gz:837579610:32972",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687278137.43/warc/CC-MAIN-20260312033706-20260312063706-00426.warc.gz",
+     "offset": "837579610",
+     "length": "32972",
+     "sha256": "86c48a77380e56317e3906b21d0fd5f7959e65fd0aa3ea503dd50132c9fca432"
+    }
+   }
+  },
+  "2018/7": {
+   "expressions": {
+    "2018-06-25": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260418042025",
+     "original": "https://zimlii.org/akn/zw/act/2018/7/eng@2018-06-25",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805909224.47/warc/CC-MAIN-20260418030820-20260418060820-00917.warc.gz:960864754:224171",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805909224.47/warc/CC-MAIN-20260418030820-20260418060820-00917.warc.gz",
+     "offset": "960864754",
+     "length": "224171",
+     "sha256": "fe49f98f206966a41365c7ff7f098a257c644f8c0f7fa684417d931e90a546e0"
+    }
+   }
+  },
+  "2018/11": {
+   "expressions": {
+    "2018-08-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260417061323",
+     "original": "https://zimlii.org/akn/zw/act/2018/11/eng@2018-08-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805909101.46/warc/CC-MAIN-20260417050133-20260417080133-00547.warc.gz:929063681:111193",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805909101.46/warc/CC-MAIN-20260417050133-20260417080133-00547.warc.gz",
+     "offset": "929063681",
+     "length": "111193",
+     "sha256": "28eb968cacfe097935a3e977c8cb2857ebf8d212d5a96cc57efdf4d69ddd91a9"
+    }
+   }
+  },
+  "2020/5": {
+   "expressions": {
+    "2021-05-14": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-51",
+     "capture": "20251216180410",
+     "original": "https://zimlii.org/akn/zw/act/2020/5/eng@2021-05-14",
+     "url": "cc:crawl-data/CC-MAIN-2025-51/segments/1764871657323.98/warc/CC-MAIN-20251216165842-20251216195842-00673.warc.gz:839003517:21268",
+     "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871657323.98/warc/CC-MAIN-20251216165842-20251216195842-00673.warc.gz",
+     "offset": "839003517",
+     "length": "21268",
+     "sha256": "b8d6e284022da491853adc689ccdf187d448b5af438d4c668f87744f07560c4f"
+    }
+   }
+  },
+  "2020/2": {
+   "expressions": {
+    "2020-07-10": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260415012103",
+     "original": "https://zimlii.org/akn/zw/act/2020/2/eng@2020-07-10",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805908819.34/warc/CC-MAIN-20260414234659-20260415024659-00101.warc.gz:928561652:15949",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805908819.34/warc/CC-MAIN-20260414234659-20260415024659-00101.warc.gz",
+     "offset": "928561652",
+     "length": "15949",
+     "sha256": "44bbcbc55184c2a249d21cb6075594550a9b46ff9a5221a26a9e191f9888d257"
+    }
+   }
+  },
+  "2024/4": {
+   "expressions": {
+    "2024-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-47",
+     "capture": "20251111141414",
+     "original": "https://zimlii.org/akn/zw/act/2024/4/eng@2024-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2025-47/segments/1762439343030.54/warc/CC-MAIN-20251111125753-20251111155753-00688.warc.gz:924203725:12891",
+     "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439343030.54/warc/CC-MAIN-20251111125753-20251111155753-00688.warc.gz",
+     "offset": "924203725",
+     "length": "12891",
+     "sha256": "1e96aa8f71a84234326e90f5b277314d229fd0be1f6910f0ae589ee74cced811"
+    }
+   }
+  },
+  "2025/3": {
+   "expressions": {
+    "2025-11-21": {
+     "via": "wayback",
+     "capture": "20260104173635",
+     "original": "https://zimlii.org/akn/zw/act/2025/3/eng@2025-11-21",
+     "url": "https://web.archive.org/web/20260104173635id_/https://zimlii.org/akn/zw/act/2025/3/eng@2025-11-21",
+     "sha256": "b4703ca44005a686426b093debcea7b9c54cc19200c321f79fa36c68883ee237"
+    },
+    "2026-02-06": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260315083314",
+     "original": "https://zimlii.org/akn/zw/act/2025/3/eng@2026-02-06",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/warc/CC-MAIN-20260315072004-20260315102004-00265.warc.gz:774043566:57737",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687548524.64/warc/CC-MAIN-20260315072004-20260315102004-00265.warc.gz",
+     "offset": "774043566",
+     "length": "57737",
+     "sha256": "cf14dc18506854a1b8fee598b3a2d4ad785653aa880f1743b9e6af130ff025e8"
+    }
+   }
+  },
+  "2019/10": {
+   "expressions": {
+    "2020-02-07": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-43",
+     "capture": "20251018234902",
+     "original": "https://zimlii.org/akn/zw/act/2019/10/eng@2020-02-07",
+     "url": "cc:crawl-data/CC-MAIN-2025-43/segments/1759648667491.87/warc/CC-MAIN-20251018220658-20251019010658-00203.warc.gz:1047189828:60843",
+     "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648667491.87/warc/CC-MAIN-20251018220658-20251019010658-00203.warc.gz",
+     "offset": "1047189828",
+     "length": "60843",
+     "sha256": "13b31e248ffca401c9330fd855b3519fd63058db9a9268a09b22fcecf588d824"
+    }
+   }
+  },
+  "2019/12": {
+   "expressions": {
+    "2020-03-06": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-47",
+     "capture": "20251107161230",
+     "original": "https://zimlii.org/akn/zw/act/2019/12/eng@2020-03-06",
+     "url": "cc:crawl-data/CC-MAIN-2025-47/segments/1762439342479.6/warc/CC-MAIN-20251107142324-20251107172324-00287.warc.gz:895442878:33827",
+     "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439342479.6/warc/CC-MAIN-20251107142324-20251107172324-00287.warc.gz",
+     "offset": "895442878",
+     "length": "33827",
+     "sha256": "5cb8d2c024a7fef14d222ee911c0e5df211b9b26ed68ec4a84994c3fb2a82322"
+    }
+   }
+  },
+  "2009/11": {
+   "expressions": {
+    "2018-03-14": {
+     "via": "wayback",
+     "capture": "20250421141221",
+     "original": "https://zimlii.org/akn/zw/act/2009/11/eng@2018-03-14",
+     "url": "https://web.archive.org/web/20250421141221id_/https://zimlii.org/akn/zw/act/2009/11/eng@2018-03-14",
+     "sha256": "1ee41df9e62bd80d6a8927d584e32aa891483fc1dfbf20943521084e935e0ab3"
+    },
+    "2024-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260418194105",
+     "original": "https://zimlii.org/akn/zw/act/2009/11/eng@2024-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805909319.77/warc/CC-MAIN-20260418185138-20260418215138-00935.warc.gz:943735270:77731",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805909319.77/warc/CC-MAIN-20260418185138-20260418215138-00935.warc.gz",
+     "offset": "943735270",
+     "length": "77731",
+     "sha256": "e57896b39fc1030b94a2e5fdda33e66616496c0b86d0be707482b0c46b92d752"
+    }
+   }
+  },
+  "ord/1907/6": {
+   "expressions": {
+    "2016-12-31": {
+     "via": "wayback",
+     "capture": "20250524071152",
+     "original": "https://zimlii.org/akn/zw/act/ord/1907/6/eng@2016-12-31",
+     "url": "https://web.archive.org/web/20250524071152id_/https://zimlii.org/akn/zw/act/ord/1907/6/eng@2016-12-31",
+     "sha256": "7a8d646d19c75247d0f82d068a330e9c16d0eb658781a5401dca0ada688641c7"
+    },
+    "2025-02-24": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-12",
+     "capture": "20260308161448",
+     "original": "https://zimlii.org/akn/zw/act/ord/1907/6/eng@2025-02-24",
+     "url": "cc:crawl-data/CC-MAIN-2026-12/segments/1772687277643.47/warc/CC-MAIN-20260308154818-20260308184818-00125.warc.gz:838180015:105089",
+     "filename": "crawl-data/CC-MAIN-2026-12/segments/1772687277643.47/warc/CC-MAIN-20260308154818-20260308184818-00125.warc.gz",
+     "offset": "838180015",
+     "length": "105089",
+     "sha256": "bfb39da5cb720e9f9d02cdf7f4da96b40ed1142087989e3f82a972f15d2a6afb"
+    }
+   }
+  },
+  "1989/12": {
+   "expressions": {
+    "2016-12-31": {
+     "via": "wayback",
+     "capture": "20240806200235",
+     "original": "https://zimlii.org/akn/zw/act/1989/12/eng@2016-12-31",
+     "url": "https://web.archive.org/web/20240806200235id_/https://zimlii.org/akn/zw/act/1989/12/eng@2016-12-31",
+     "sha256": "23d6dea709fb6075023bd0559bc4559aae10844b69ee46a97fc16b82f6f6196e"
+    },
+    "2025-04-11": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-17",
+     "capture": "20260414131909",
+     "original": "https://zimlii.org/akn/zw/act/1989/12/eng@2025-04-11",
+     "url": "cc:crawl-data/CC-MAIN-2026-17/segments/1775805908594.12/warc/CC-MAIN-20260414111600-20260414141600-00496.warc.gz:940026264:38296",
+     "filename": "crawl-data/CC-MAIN-2026-17/segments/1775805908594.12/warc/CC-MAIN-20260414111600-20260414141600-00496.warc.gz",
+     "offset": "940026264",
+     "length": "38296",
+     "sha256": "489607fd282dde3ddddb75b65ce6e09b74a254b8bdb3407bbef4faa4f8f2a16d"
+    }
+   }
+  }
+ },
+ "laws": {},
+ "listings": {},
+ "missing": {
+  "2022/1": [],
+  "2020/1": [],
+  "2019/5": [],
+  "2019/9": [],
+  "2018/7": [],
+  "2018/11": [],
+  "2020/5": [],
+  "2020/2": [],
+  "2024/4": [],
+  "2025/3": [],
+  "2019/10": [],
+  "2019/12": [],
+  "2009/11": [],
+  "ord/1907/6": [],
+  "1989/12": []
+ },
+ "retrieved": "2026-10-29"
+}

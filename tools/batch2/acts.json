@@ -1,0 +1,157 @@
+{
+ "part": "30-batch2",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "ZimLII",
+  "hosts": [
+   "zimlii.org",
+   "www.zimlii.org"
+  ],
+  "cc": "zw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "country": {
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "slug": "zimbabwe",
+  "lang": "en",
+  "tz": "Africa/Harare",
+  "future_branch": "future",
+  "publisher": {
+   "name": "ZimLII",
+   "email": "zimlii@zimlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every ZimLII version is dated by its own expression date.",
+   "source": "https://zimlii.org/legislation/"
+  },
+  "licence_note": "Source: ZimLII (https://zimlii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "act_publisher": {
+  "name": "ZimLII",
+  "email": "zimlii@zimlii.invalid"
+ },
+ "sources": [
+  {
+   "name": "ZimLII (on the Laws.Africa Peachjam platform)",
+   "url": "https://zimlii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting ZimLII as the source (https://zimlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/zw/act/<year>/<num>/eng@<date>. Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "2022/1",
+   "slug": "marriages",
+   "short": "Marriages Act",
+   "title": "Marriages Act, 2022",
+   "label": "Act 1 of 2022"
+  },
+  {
+   "work": "2020/1",
+   "slug": "freedom-of-information",
+   "short": "Freedom of Information Act",
+   "title": "Freedom of Information Act, 2020",
+   "label": "Act 1 of 2020"
+  },
+  {
+   "work": "2019/5",
+   "slug": "consumer-protection",
+   "short": "Consumer Protection Act",
+   "title": "Consumer Protection Act, 2019",
+   "label": "Act 5 of 2019"
+  },
+  {
+   "work": "2019/9",
+   "slug": "maintenance-of-peace-order",
+   "short": "Maintenance of Peace and Order Act",
+   "title": "Maintenance of Peace and Order Act, 2019",
+   "label": "Act 9 of 2019"
+  },
+  {
+   "work": "2018/7",
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act, 2018",
+   "label": "Act 7 of 2018"
+  },
+  {
+   "work": "2018/11",
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act, 2018",
+   "label": "Act 11 of 2018"
+  },
+  {
+   "work": "2020/5",
+   "slug": "constitutional-court",
+   "short": "Constitutional Court Act",
+   "title": "Constitutional Court Act, 2020",
+   "label": "Act 5 of 2020"
+  },
+  {
+   "work": "2020/2",
+   "slug": "international-treaties",
+   "short": "International Treaties Act",
+   "title": "International Treaties Act, 2020",
+   "label": "Act 2 of 2020"
+  },
+  {
+   "work": "2024/4",
+   "slug": "death-penalty-abolition",
+   "short": "Death Penalty Abolition Act",
+   "title": "Death Penalty Abolition Act, 2024",
+   "label": "Act 4 of 2024"
+  },
+  {
+   "work": "2019/10",
+   "slug": "investment-development-agency",
+   "short": "Zimbabwe Investment and Development Agency Act",
+   "title": "Zimbabwe Investment and Development Agency Act, 2019",
+   "label": "Act 10 of 2019"
+  },
+  {
+   "work": "2019/12",
+   "slug": "coroners-office",
+   "short": "Coroner's Office Act",
+   "title": "Coroner's Office Act, 2019",
+   "label": "Act 12 of 2019"
+  },
+  {
+   "work": "2009/11",
+   "slug": "public-finance-management",
+   "short": "Public Finance Management Act",
+   "title": "Public Finance Management Act",
+   "label": "Act 11 of 2009"
+  },
+  {
+   "work": "ord/1907/6",
+   "slug": "administration-of-estates",
+   "short": "Administration of Estates Act",
+   "title": "Administration of Estates Act",
+   "label": "Ordinance 6 of 1907"
+  },
+  {
+   "work": "1989/12",
+   "slug": "national-social-security-authority",
+   "short": "National Social Security Authority Act",
+   "title": "National Social Security Authority Act",
+   "label": "Act 12 of 1989"
+  }
+ ],
+ "decisions": [
+  "Part 30-batch2: acts chosen for their weight in practice among the ZimLII acts whose current expression, and every earlier expression ZimLII lists, could be read with its text, and whose newest page lists no amendment ZimLII has not yet applied. Acts that ZimLII still carries only at the Law Development Commission's consolidation as at 31 December 2016 were left out, even where its page shows no later amendment: several such acts have successors made after 2016 that ZimLII also publishes (for example the Marriage Act and the Marriages Act, 2022, or the Insolvency Act and the Insolvency Act, 2018), so a 2016 text cannot be taken as today's law without a check this part does not make. This part takes acts made from 2018 onwards, as ZimLII publishes them, and older acts whose newest ZimLII version is from 2024 or later.",
+  "The acts in this part name ZimLII as their own publisher: the country publisher is Veritas, the source of the Constitution.",
+  "The Persons with Disabilities Act, 2025 is left out: ZimLII marks it \"Not commenced\"."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and wrappers and chose the acts; the shared Peachjam adapter does the parsing. No model wrote, summarised or transformed legal text."
+ ]
+}

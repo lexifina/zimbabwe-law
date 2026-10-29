@@ -1,0 +1,48 @@
+{
+ "lii": "ZimLII",
+ "acts": {
+  "2004/23": {
+   "expressions": {
+    "2017-03-23": {
+     "via": "wayback",
+     "capture": "20250524090504",
+     "original": "https://zimlii.org/akn/zw/act/2004/23/eng@2017-03-23",
+     "url": "https://web.archive.org/web/20250524090504id_/https://zimlii.org/akn/zw/act/2004/23/eng@2017-03-23",
+     "source_url": "https://web.archive.org/web/20250524090504id_/https://zimlii.org/akn/zw/act/2004/23/eng@2017-03-23",
+     "sha256": "ed56a9a24967d1020dc140c3b61d0eee8b22573d11a632a6f80807b145a1d2d4"
+    },
+    "2019-02-20": {
+     "via": "wayback",
+     "capture": "20250712024638",
+     "original": "https://zimlii.org/akn/zw/act/2004/23/eng@2019-02-20",
+     "url": "https://web.archive.org/web/20250712024638id_/https://zimlii.org/akn/zw/act/2004/23/eng@2019-02-20",
+     "source_url": "https://web.archive.org/web/20250712024638id_/https://zimlii.org/akn/zw/act/2004/23/eng@2019-02-20",
+     "sha256": "c1c8255b6f2f855d7ed5b4c8e791886feb9e72f11de776acce30047936019ceb"
+    },
+    "2022-03-11": {
+     "via": "wayback",
+     "capture": "20260311101030",
+     "original": "https://zimlii.org/akn/zw/act/2004/23/eng@2022-03-11",
+     "url": "https://web.archive.org/web/20260311101030id_/https://zimlii.org/akn/zw/act/2004/23/eng@2022-03-11",
+     "source_url": "https://web.archive.org/web/20260311101030id_/https://zimlii.org/akn/zw/act/2004/23/eng@2022-03-11",
+     "sha256": "8b98bcda3cfda757babee0b5b2814a62bde11595a3f26bc9864f51ba8173e6d3"
+    }
+   }
+  },
+  "2021/5": {
+   "expressions": {
+    "2022-03-11": {
+     "via": "wayback",
+     "capture": "20251206091225",
+     "original": "https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+     "url": "https://web.archive.org/web/20251206091225id_/https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+     "source_url": "https://web.archive.org/web/20251206091225id_/https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+     "sha256": "5978b092f46002d3a26b5282b27bf9f2884b751b391458575030bdaf11774553"
+    }
+   }
+  }
+ },
+ "laws": {},
+ "listings": {},
+ "retrieved": "2026-10-29"
+}
