@@ -24,6 +24,10 @@ import peachjam  # noqa: E402
 # One part per act, so each can be verified (<part>.PUBLISH) on its own. The first part also carries the ZimLII
 # sources, the shared decisions and ai_use.
 PARTS = {"cyber-data-protection": "20-cyber-data-protection", "criminal-law-code": "21-criminal-law-code"}
+# Per-act publisher (SCHEMA.md): the country publisher is Veritas (the Constitution's source), so a ZimLII act whose
+# history has publisher commits ("oldest version available", unexplained changes) names ZimLII as its own publisher.
+# The Cyber and Data Protection Act has none (first_law set, one version), so it is left as it is.
+PUBLISHERS = {"criminal-law-code": {"name": "ZimLII", "email": "zimlii@zimlii.invalid"}}
 EXTRA = {"criminal-law-code": [
     "Criminal Law Code: not verified for main. ZimLII's newest archived page (capture 20260311101030) says its newest "
     "version, 2022-03-11, applied \"from 11 March 2022 to 17 September 2024\", and lists two amendments it has not "
@@ -31,8 +35,8 @@ EXTRA = {"criminal-law-code": [
     "and the Death Penalty Abolition Act, 2024 (31 December 2024). The last version here is therefore not today's "
     "law, so this part stays on the preview branch.",
     "Criminal Law Code: the first version, 2017-03-23, is ZimLII's consolidation (\"revised and consolidated by the "
-    "Law Development Commission of Zimbabwe ... up-to-date as at 31st December 2016\"), credited to the publisher as "
-    "the oldest version available."],
+    "Law Development Commission of Zimbabwe ... up-to-date as at 31st December 2016\"), credited as the oldest version "
+    "available to the act's own publisher, ZimLII, not to the country publisher (Veritas, the Constitution's source)."],
     "cyber-data-protection": [
     "Cyber and Data Protection Act: ZimLII's only version is dated 2022-03-11, its page saying \"Published on 11 "
     "March 2022\" and \"Commenced on 11 March 2022\"; that date is used as ZimLII gives it."]}
@@ -40,7 +44,9 @@ EXTRA = {"criminal-law-code": [
 corpus, report = peachjam.parse(HERE)
 (HERE / "corpus.d").mkdir(exist_ok=True)
 for n, act in enumerate(corpus["acts"]):
-    used = {act.get("first_law")} | set(act.get("earlier_laws", []))
+    if act["slug"] in PUBLISHERS:
+        act["publisher"] = PUBLISHERS[act["slug"]]
+    used ={act.get("first_law")} | set(act.get("earlier_laws", []))
     for v in act["versions"]:
         used |= {l for ls in v.get("credits", {}).values() for l in ls}
     mine = [d for d in corpus["decisions"] if d.startswith(act["short"] + ":")]

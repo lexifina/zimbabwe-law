@@ -1774,14 +1774,18 @@
       ]
      }
     }
-   ]
+   ],
+   "publisher": {
+    "name": "ZimLII",
+    "email": "zimlii@zimlii.invalid"
+   }
   }
  ],
  "applies": [],
  "decisions": [
   "Criminal Law Code: the LII's page says: There are outstanding amendments that have not yet been applied. See the History tab for more information.",
   "Criminal Law Code: not verified for main. ZimLII's newest archived page (capture 20260311101030) says its newest version, 2022-03-11, applied \"from 11 March 2022 to 17 September 2024\", and lists two amendments it has not applied: the Criminal Laws Amendment (Protection of Children and Young Persons) Act, 2024 (18 September 2024) and the Death Penalty Abolition Act, 2024 (31 December 2024). The last version here is therefore not today's law, so this part stays on the preview branch.",
-  "Criminal Law Code: the first version, 2017-03-23, is ZimLII's consolidation (\"revised and consolidated by the Law Development Commission of Zimbabwe ... up-to-date as at 31st December 2016\"), credited to the publisher as the oldest version available."
+  "Criminal Law Code: the first version, 2017-03-23, is ZimLII's consolidation (\"revised and consolidated by the Law Development Commission of Zimbabwe ... up-to-date as at 31st December 2016\"), credited as the oldest version available to the act's own publisher, ZimLII, not to the country publisher (Veritas, the Constitution's source)."
  ],
  "ai_use": []
 }

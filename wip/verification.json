@@ -1,9 +1,19 @@
 {
+ "check": {
+  "acts": 2,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 10
+ },
  "rebuild": {
   "commits": 10,
   "history_tip": "84ae54cd6c698db18903dfbdb53a0afb977c68c2",
   "identical": true,
-  "main_identical": true,
+  "main_identical": false,
   "tags": 18
  }
 }
