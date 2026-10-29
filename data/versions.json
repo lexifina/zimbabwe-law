@@ -1,0 +1,107 @@
+{
+ "country": "ZW",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Zimbabwe",
+   "url": "https://www.veritaszim.net/node/8104",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20of%20Zimbabwe%20Amendment%20%28No.%2020%29.docx",
+     "sha256": "5ff495cce02479062b7a6669cef438eec322be16e00b9cc9cb446c03fdef490a"
+    },
+    {
+     "from": "2013-08-22",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2017-09-07",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2018-09-30",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282018%29.doc",
+     "sha256": "4a89a41c8c70e6c886497bd73947605733b4aa2572c0464b8a85f90b8c7d2c92"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Updated%20to%202021.doc",
+     "sha256": "dc8f9406e7e4dc69f47437e6d7e48351c6d41e3e7acf56f5c0b94f3c3d477083"
+    },
+    {
+     "from": "2021-05-07",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Updated%20to%202021.doc",
+     "sha256": "dc8f9406e7e4dc69f47437e6d7e48351c6d41e3e7acf56f5c0b94f3c3d477083"
+    },
+    {
+     "from": "2023-06-20",
+     "units": 388,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282023%29.doc",
+     "sha256": "83703224dea8e79045936016631fbd1da86e7c42657f5ff0584fde762ac05da4"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 387,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282026%29.doc",
+     "sha256": "4c888486cf7cc423b44530705f3a6e6a2c7e0700afdb4fea2e5ba10c49a166fe"
+    },
+    {
+     "from": "2026-07-28",
+     "units": 387,
+     "source_url": "https://www.veritaszim.net/sites/veritas_d/files/Constitution%20Consolidated%20%282026%29.doc",
+     "sha256": "4c888486cf7cc423b44530705f3a6e6a2c7e0700afdb4fea2e5ba10c49a166fe"
+    }
+   ]
+  },
+  {
+   "slug": "cyber-data-protection",
+   "short": "Cyber and Data Protection Act",
+   "title": "Cyber and Data Protection Act, 2021",
+   "url": "https://zimlii.org/akn/zw/act/2021/5",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20251206091225id_/https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11",
+     "sha256": "5978b092f46002d3a26b5282b27bf9f2884b751b391458575030bdaf11774553"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-law-code",
+   "short": "Criminal Law Code",
+   "title": "Criminal Law (Codification and Reform) Act",
+   "url": "https://zimlii.org/akn/zw/act/2004/23",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20250524090504id_/https://zimlii.org/akn/zw/act/2004/23/eng@2017-03-23",
+     "sha256": "ed56a9a24967d1020dc140c3b61d0eee8b22573d11a632a6f80807b145a1d2d4"
+    },
+    {
+     "from": "2019-02-20",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20250712024638id_/https://zimlii.org/akn/zw/act/2004/23/eng@2019-02-20",
+     "sha256": "c1c8255b6f2f855d7ed5b4c8e791886feb9e72f11de776acce30047936019ceb"
+    },
+    {
+     "from": "2022-03-11",
+     "units": 310,
+     "source_url": "https://web.archive.org/web/20260311101030id_/https://zimlii.org/akn/zw/act/2004/23/eng@2022-03-11",
+     "sha256": "8b98bcda3cfda757babee0b5b2814a62bde11595a3f26bc9864f51ba8173e6d3"
+    }
+   ]
+  }
+ ]
+}

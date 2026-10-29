@@ -1,0 +1,74 @@
+{
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "ZimLII",
+  "hosts": [
+   "zimlii.org",
+   "www.zimlii.org"
+  ],
+  "cc": "zw",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "country": {
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "slug": "zimbabwe",
+  "lang": "en",
+  "tz": "Africa/Harare",
+  "future_branch": "future",
+  "publisher": {
+   "name": "ZimLII",
+   "email": "zimlii@zimlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every ZimLII version is dated by its own expression date.",
+   "source": "https://zimlii.org/legislation/"
+  },
+  "licence_note": "Source: ZimLII (https://zimlii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "acts": [
+  {
+   "work": "2004/23",
+   "slug": "criminal-law-code",
+   "short": "Criminal Law Code",
+   "title": "Criminal Law (Codification and Reform) Act [Chapter 9:23]",
+   "label": "Act 23 of 2004"
+  },
+  {
+   "work": "2021/5",
+   "slug": "cyber-data-protection",
+   "short": "Cyber and Data Protection Act",
+   "title": "Cyber and Data Protection Act [Chapter 12:07]",
+   "label": "Act 5 of 2021"
+  }
+ ],
+ "sources": [
+  {
+   "name": "ZimLII (Zimbabwe Legal Information Institute, on the Laws.Africa Peachjam platform)",
+   "url": "https://zimlii.org",
+   "retrieved": "2026-10-29",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting ZimLII as the source (ZimLII terms of use s. 9, read from the Internet Archive capture 20261012174817 of https://zimlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/zw/act/<year>/<num>/eng@<date>, read from Internet Archive or Common Crawl captures only (ZimLII's terms s. 4 prohibit scraping; ZimLII's own pages were never requested). Capture timestamps and sha256s are pinned in sources.json."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "Archived copies of ZimLII pages; the content licence is ZimLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  }
+ ],
+ "decisions": [
+  "ZimLII acts: chosen by what the archive holds. Every expression ZimLII lists for the Criminal Law (Codification and Reform) Act (2017-03-23, 2019-02-20, 2022-03-11) and the Cyber and Data Protection Act (2022-03-11) has an archived copy.",
+  "ZimLII's terms of use (s. 4) prohibit scraping and bulk downloading; per the user's decision of 2026-10-28 (\"scraping wayback is fair game, dont overdo it, we need this data and it is legal\") only archived copies (Internet Archive id_ captures, Common Crawl) are read, only for the acts built, and the repository stays private. Content licence: CC BY-NC 4.0, crediting ZimLII (terms s. 9)."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the configuration and wrappers and chose the acts; the shared Peachjam adapter does the parsing. No model wrote, summarised or transformed legal text."
+ ]
+}

@@ -1,0 +1,14 @@
+day,kind,law,acts,files,branch
+2013-05-22,start,act-2013-1,constitution,388,main
+2013-08-22,law,act-2013-1,constitution,0,main
+2017-03-23,start,,criminal-law-code,295,main
+2017-09-07,law,act-2017-10,constitution,6,main
+2018-09-30,unexplained,,constitution,5,main
+2019-02-20,law,act-2019-1,criminal-law-code,3,main
+2020-03-31,law,ccz-2020-4,constitution,0,main
+2021-05-07,law,act-2021-2,constitution,34,main
+2022-03-11,start,act-2021-5,cyber-data-protection,38,main
+2022-03-11,law,act-2021-5,criminal-law-code,27,main
+2023-06-20,law,si-2023-114,constitution,1,main
+2026-07-07,law,act-2026-6,constitution,30,main
+2026-07-28,law,si-2026-117,constitution,1,main
