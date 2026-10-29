@@ -1,0 +1,48 @@
+{
+ "parts": {
+  "10-constitution.json": {
+   "acts": [
+    "constitution"
+   ],
+   "sha256": "6b9a684794019cf33a318647cdbb606e3e0d5b002d57496399ebb4184facbad6"
+  },
+  "20-cyber-data-protection.json": {
+   "acts": [
+    "cyber-data-protection"
+   ],
+   "sha256": "e3e5af71da2cffa4095645049d1bac062a7a03405f2c9708b3c9169b28766b45"
+  },
+  "30-batch2.json": {
+   "acts": [
+    "administration-of-estates",
+    "constitutional-court",
+    "consumer-protection",
+    "coroners-office",
+    "death-penalty-abolition",
+    "freedom-of-information",
+    "insolvency",
+    "international-treaties",
+    "investment-development-agency",
+    "maintenance-of-peace-order",
+    "marriages",
+    "national-social-security-authority",
+    "public-finance-management",
+    "public-health"
+   ],
+   "sha256": "17528e71d67c06f186f24e8eb720a853bad09c6009da49f16abec30761da6a51"
+  },
+  "31-batch3.json": {
+   "acts": [
+    "agricultural-finance",
+    "civil-aviation",
+    "harmful-liquids",
+    "land-commission",
+    "national-peace-and-reconciliation-commission",
+    "public-procurement-and-disposal-of-public-assets",
+    "veterans-of-the-liberation-struggle"
+   ],
+   "sha256": "729157af8ad0d0515e413aa1b49cf94dd12f8075b53b709b9c6aff7df8861a06"
+  }
+ },
+ "schema": 1
+}
