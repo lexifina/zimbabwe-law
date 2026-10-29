@@ -96,10 +96,10 @@ def docx_lines(b: bytes) -> list[str]:
             elif el.tag == W + "tab":
                 parts.append("\t")
             elif el.tag in (W + "br", W + "cr"):
-                parts.append(" ")
+                parts.append("\n")
             elif el.tag in (W + "drawing", W + "pict"):
                 parts.append("[pic]")
-        out.append("".join(parts))
+        out.extend("".join(parts).split("\n"))
     return out
 
 
@@ -135,7 +135,7 @@ NOTE_RX = re.compile(r"^\[[^\]]*\b(amended|substituted|inserted|repealed|correct
                      r"\b(Act|SI|S\.I\.|Statutory Instrument)\b", re.I)
 SECTION_RX = re.compile(r"^\t?(\d{1,3}[A-Z]?)\t+(\S.*)$")       # raw line, column 0: "43A\tRegistration of Voters"
 SCHEDULE_RX = re.compile(r"^(first|second|third|fourth|fifth|sixth) schedule\b(.*)$", re.I)
-CHAPTER_RX = re.compile(r"^(chapter|part)\s+\d+\b", re.I)
+CHAPTER_RX = re.compile(r"^(chapter|part)\s*(\d+|[IVX]+)$|^(chapter|part)\s+\d+\b", re.I)
 PARA_RX = re.compile(r"^(\d{1,2}[A-Z]?)\.(?=\s|\(|$)")
 
 
@@ -216,11 +216,18 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
             while not norm(lines[j]):
                 j += 1
             title = norm(lines[j])
+            refs = ""
+            if title.startswith("(") and not m.group(2).strip():  # "(Sections 94, 104, ...)" on its own line
+                refs = " " + title
+                j += 1
+                while not norm(lines[j]):
+                    j += 1
+                title = norm(lines[j])
             i = j + 1
             sched = (n, title)
             ch = "schedule"
             cur = {"key": f"sch-{n:02d}", "label": f"{m.group(1).capitalize()} Schedule", "kind": "schedule",
-                   "head": f"{m.group(1).capitalize()} Schedule{(' ' + m.group(2).strip()) if m.group(2).strip() else ''}: {title}",
+                   "head": f"{m.group(1).capitalize()} Schedule{(' ' + m.group(2).strip()) if m.group(2).strip() else ''}{refs}: {title}",
                    "lines": [], "notes": [], "chapter": "schedule"}
             in_arrangement = False
             pending_head = None
@@ -289,7 +296,7 @@ def units_of(raw: list[str]) -> tuple[dict, dict, dict]:
         nxt = i
         while nxt < len(lines) and not norm(lines[nxt]):
             nxt += 1
-        if (not rawl[:1].isspace() and not t.startswith(("(", "[", '"')) and t.upper() != t
+        if (not rawl[:1].isspace() and not t.startswith(("(", "[", '"')) and t.upper() != t and not t.endswith(":")
                 and nxt < len(lines) and PARA_RX.match(norm(lines[nxt]))):
             pending_head = t
             continue
