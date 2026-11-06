@@ -1,5 +1,7 @@
 # Zimbabwe: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Zimbabwe's national law, which global-law reads at `zimbabwe/national/acts/`.
+
 The law of Zimbabwe as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a provision; `tools/on.py` gives the text in force on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `zw/`. The Constitution comes from the dated Word editions published by [Veritas](https://www.veritaszim.net), a Zimbabwean non-profit that publishes the laws of Zimbabwe and the work of Parliament. Other acts come from point-in-time versions published by [ZimLII](https://zimlii.org) (Laws.Africa), read from archived copies of its pages.
