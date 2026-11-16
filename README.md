@@ -59,6 +59,7 @@ Each change is credited to the law the source names for it: for the Constitution
 - The Constitution's last version is, provision for provision, Veritas's consolidation as amended up to 28 July 2026, the newest it publishes; replaying the credited changes on each consolidation gives the next one exactly.
 - Every ZimLII version is parsed from an archived copy of its own point-in-time page, whose sha256 is recorded in `tools/sources.json`, `tools/batch2/` or `tools/batch3/`; the newest version of each act lists no amendment ZimLII has not yet applied.
 - History is append-only: no merge commits and no commit date that goes backwards.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ Each change is credited to the law the source names for it: for the Constitution
 See [`LICENSE`](LICENSE). The Constitution's text is Veritas's, under CC BY-NC-SA 4.0, and its files are shared under the same licence; the other Acts are ZimLII's, under CC BY-NC 4.0 with ZimLII credited as the source. The texts may be used only for non-commercial purposes; neither Veritas, ZimLII nor Laws.Africa endorses this repository. Lexifina's commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
