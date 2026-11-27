@@ -140,3 +140,7 @@ The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are bui
 ## The Veritas runner (2026-11-27)
 
 The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
+
+## The Veritas runner (2026-11-27)
+
+The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
