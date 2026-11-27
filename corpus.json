@@ -1,0 +1,26 @@
+{
+  "corpus": "zw/national/acts",
+  "name": "Zimbabwe law: the Constitution, the consolidated Acts (by Chapter) and the Acts of Parliament as enacted, from Veritas (veritaszim.net) and ZimLII",
+  "label": "Zimbabwe",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind",
+      "Source-status"
+    ],
+    "time": "12:00 Africa/Harare (UTC+2)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "citation": {
+    "file": "((?:chapters/[^/]+)|(?:acts/[0-9]{4}/[^/]+)|constitution)/sec-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.veritaszim.net",
+    "https://zimlii.org (archived copies)"
+  ]
+}
