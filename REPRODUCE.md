@@ -8,7 +8,7 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | --- | --- | --- | --- |
 | Veritas (veritaszim.net): Constitution of Zimbabwe, Word texts | <https://www.veritaszim.net/node/8104> | 2026-10-28 | CC BY-NC-SA 4.0 (footer of every page of www.veritaszim.net: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"); the site has no other terms page. Each document says: "Veritas has made every effort to ensure that this updated Constitution is reliable, but cannot take legal responsibility for any errors." |
 | Veritas: Act 6 of 2026 as published, SI 117 of 2026, titled list of 2023 statutory instruments, Acts of 2026 | <https://www.veritaszim.net/statutoryinst> | 2026-10-29 | CC BY-NC-SA 4.0 (as above) |
-| Veritas (veritaszim.net): Acts, consolidated Acts and the tables of the Acts of 2017 to 2026 | <https://www.veritaszim.net/acts> | 2026-11-27 | CC BY-NC-SA 4.0 (footer of every page of www.veritaszim.net); robots.txt Crawl-delay 10 kept |
+| Veritas (veritaszim.net): Acts, consolidated Acts and the tables of the Acts of 2017 to 2026 | <https://www.veritaszim.net/acts> | 2026-11-27 | CC BY-NC-SA 4.0 (footer of every page of www.veritaszim.net) |
 \1, on the Laws.Africa Peachjam platform) | <https://zimlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting ZimLII as the source (ZimLII terms of use s. 9, read from the Internet Archive capture 20261012174817 of https://zimlii.org/terms-of-use/) |
 | Internet Archive Wayback Machine | <https://web.archive.org> | 2026-10-29 | Archived copies of ZimLII pages; the content licence is ZimLII's |
 | ZimLII (on the Laws.Africa Peachjam platform) | <https://zimlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting ZimLII as the source (https://zimlii.org/terms-of-use/) |
@@ -135,16 +135,4 @@ Model use at data-build time:
 
 ## The Veritas runner (2026-11-27)
 
-The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
-
-## The Veritas runner (2026-11-27)
-
-The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
-
-## The Veritas runner (2026-11-27)
-
-The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
-
-## The Veritas runner (2026-11-27)
-
-The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas at its robots.txt Crawl-delay of 10 s; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
+The `chapters/` folders and the Acts as enacted under `acts/` since 2017 are built by a separate runner (`zw_fetch.py` fetches Veritas, starting at one request every 5 s and stepping up only while the site answers cleanly, stopping at any 403, 429 or challenge; `zw_text.py` reads .doc, .docx and the PDFs' own text layers, with no OCR; `zw_parse.py` cuts each Act into sections; `zw_build.py` dates and commits them by the rules in `STRUCTURE.md`). The earlier act folders were moved to `acts/<year>/<NNN>-<slug>/` in one pure-rename commit; `tools/` still describes the Constitution and the ZimLII acts, which it built.
