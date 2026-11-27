@@ -9,7 +9,7 @@ The law of Zimbabwe as a git history: one file per section, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Zimbabwe's national law, which global-law reads at `zimbabwe/national/acts/`.
 
-**What is in it now:** the Constitution (9 versions, up to Amendment No. 3 of 2026), 7 consolidated Acts by Chapter (among them the Criminal Law Code, the Criminal Procedure and Evidence Act, the Labour Act and the Companies and Other Business Entities Act) and 71 Acts of Parliament, 79 laws with 305 dated versions in all. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and the dating rules, and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
+**What is in it now:** the Constitution (9 versions, up to Amendment No. 3 of 2026), 7 consolidated Acts by Chapter (among them the Criminal Law Code, the Criminal Procedure and Evidence Act, the Labour Act and the Companies and Other Business Entities Act) and 71 Acts of Parliament, 79 laws with 453 dated versions in all. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and the dating rules, and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
 
 Each Act is a folder: `acts/<year>/<NNN>-<slug>/` by the year and number of the Act (`acts/2022/001-marriages/`), `chapters/<CC>-<NN>-<slug>/` for a consolidated Act by its Chapter in the Laws of Zimbabwe (`chapters/09-23-criminal-law-codification-and-reform/` is the Criminal Law Code), and `constitution/`; one file per section, Schedule or Schedule paragraph, and a `README.md` listing its provisions (`constitution/sec-180.md` is section 180 of the Constitution, on the appointment of judges).
 
