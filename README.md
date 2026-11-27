@@ -9,9 +9,9 @@ The law of Zimbabwe as a git history: one file per section, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Zimbabwe's national law, which global-law reads at `zimbabwe/national/acts/`.
 
-**What is in it now:** the Constitution and 22 other Acts, with 39 versions from 22 May 2013 to 28 July 2026. The Constitution has 9 versions, up to Amendment No. 3 of 2026; seven of the other Acts carry an amendment made by a later law (2018 to 2025), and the other 15 have one version each. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists every law it names, with its dates.
+**What is in it now:** the Constitution (9 versions, up to Amendment No. 3 of 2026), 5 consolidated Acts by Chapter (among them the Criminal Law Code, the Criminal Procedure and Evidence Act, the Labour Act and the Companies and Other Business Entities Act) and 35 Acts of Parliament, 41 laws with 56 dated versions in all. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and the dating rules, and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
 
-Each act is a folder named after its short title, with one file per section, Schedule or Schedule paragraph, and a `README.md` listing its provisions and their changes (`constitution/sec-180.md` is section 180 of the Constitution, on the appointment of judges).
+Each Act is a folder: `acts/<year>/<NNN>-<slug>/` by the year and number of the Act (`acts/2022/001-marriages/`), `chapters/<CC>-<NN>-<slug>/` for a consolidated Act by its Chapter in the Laws of Zimbabwe (`chapters/09-23-criminal-law-codification-and-reform/` is the Criminal Law Code), and `constitution/`; one file per section, Schedule or Schedule paragraph, and a `README.md` listing its provisions (`constitution/sec-180.md` is section 180 of the Constitution, on the appointment of judges).
 
 The text is in English, as Veritas and ZimLII publish it (the English text of the Constitution prevails over any other, section 345); editorial notes and the Part and Chapter headings are left out.
 
@@ -63,8 +63,8 @@ Each change is credited to the law the source names for it: for the Constitution
 
 ## What it does not show
 
-- **Most Zimbabwean law.** Only these 23 acts: no other subsidiary legislation and no case law. Acts that ZimLII still carries only at the Law Development Commission's consolidation as at 31 December 2016 are left out, as a 2016 text cannot be taken as today's law without a check.
-- **The Criminal Law (Codification and Reform) Act**, which is only on the `preview` branch (3 versions, 2017 to 2022): ZimLII has not applied two 2024 amendments, so its newest version is not today's law.
+- **Most Zimbabwean law.** No subsidiary legislation and no case law yet. Veritas consolidations whose last amending Act came into force before 2017, or on a day no Veritas table gives, are held back rather than dated by guess; so are Acts not yet in force.
+- **The earlier history of the consolidated Acts.** Each Chapter starts at the oldest Veritas consolidation that can be dated, which already holds the earlier amendments.
 - **Changes before the oldest version.** Five acts start at that 2016 consolidation, which already holds the earlier amendments, and the Public Finance Management Act at 14 March 2018.
 - **The Constitution beyond Veritas's five editions** (as enacted, and as amended up to 30 September 2018, 7 May 2021, 20 June 2023 and 28 July 2026). The five unexplained 2018 differences may be corrections of errors in one of Veritas's texts; nothing in the sources says which.
 - **Validity.** Veritas notes that all three amending Acts have been challenged in the Constitutional Court and considers them invalid; this history follows the text as published and applied, and takes no view.
@@ -76,7 +76,8 @@ Each change is credited to the law the source names for it: for the Constitution
 | --- | --- | --- | --- |
 | [Veritas](https://www.veritaszim.net/node/8104) | Non-profit publisher: the Constitution as enacted and consolidated | yes, five dated editions | The text, dates and credits of every version, from the amendment tables and the notes under amended provisions |
 | [Veritas: Acts and statutory instruments](https://www.veritaszim.net/statutoryinst) | Acts and notices as published | as published | Act 6 of 2026, SI 117 of 2026 and the list of 2023 statutory instruments, for dating the corrections and checking s. 180 |
-| [ZimLII](https://zimlii.org) (on the Laws.Africa Peachjam platform) | Legal information institute: consolidated acts | yes, each dated point-in-time version | The text, the day each version took effect, the History and editorial notes of the other 22 Acts |
+| [Veritas: Acts](https://www.veritaszim.net/acts) | Non-profit publisher: consolidated Acts by Chapter, Acts as enacted, and its tables of the Acts of each year | the consolidations it publishes | The text of the `chapters/` and of the Acts as enacted under `acts/` since 2017 (tagged `Source-status: secondary copy`), and the day each Act came into force |
+\1 (on the Laws.Africa Peachjam platform) | Legal information institute: consolidated acts | yes, each dated point-in-time version | The text, the day each version took effect, the History and editorial notes of the other 22 Acts |
 | [Internet Archive](https://web.archive.org) and other web archives | Archived copies of ZimLII's pages | as archived | Every ZimLII page was read from an archived copy |
 
 ## Licence

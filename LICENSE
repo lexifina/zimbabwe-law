@@ -41,7 +41,9 @@ editions were arranged as git commits credited to the laws Veritas names for eac
 law was not changed. ZimLII acts were treated the same way, with ZimLII's editorial notes as the credit evidence.
 Neither Veritas, ZimLII nor Laws.Africa endorses this repository.
 
-The Constitution's provision files, being adaptations of Veritas's editions, are shared under CC BY-NC-SA 4.0;
+The consolidated Acts in chapters/ and the Acts as enacted under acts/ since 2017 come from Veritas as well (https://www.veritaszim.net/acts, retrieved 2026-11-27), under the same CC BY-NC-SA 4.0 licence and attribution as the Constitution, and their files are shared under it too.
+
+\1
 the other acts' provision files under CC BY-NC 4.0. Lexifina's own
 contributions that are not adaptations of those editions (the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
